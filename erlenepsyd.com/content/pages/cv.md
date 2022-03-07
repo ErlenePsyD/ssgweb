@@ -1,11 +1,7 @@
-**(VIEW Abbreviated CV Here) This is some "button" they can press to
-reveal it.**
+Title: Curriculum Vitae: Erlene Rosowsky, Psy.D., F.G.S.A.
+Date: 2022-03-04 10:40
 
-**CURRICULUM VITAE**
-
-**Erlene Rosowsky, Psy.D., F.G.S.A.**
-
-**EDUCATIONAL:**
+## Educational
 
 **NIMH Fellow** 1988-1989
 
@@ -28,7 +24,7 @@ Psychology)** Boston, MA
 
 **Boston University** Boston, MA
 
-**LICENSURE:**
+## Licensure
 
 **Licensed Psychologist, Commonwealth of Massachusetts (\#4875)
 1989-Present**
@@ -36,7 +32,7 @@ Psychology)** Boston, MA
 **National Register of Health Service Psychologists (Credential \#41207)
 1990- Present**
 
-**ACADEMIC HISTORY:**
+## Academic History
 
 **Professor, Department of Clinical Psychology** 2019-present
 
@@ -63,7 +59,7 @@ Psychology)** Newton, MA
 
 **Harvard Medical School, Department of Psychiatry** Boston, MA
 
-**AWARDS:**
+## Awards
 
 **Psychologists in Long Term Care** first annual Michael Duffy, PhD
 Award for "Outstanding Contributions to Training and Mentorship of
@@ -71,24 +67,21 @@ Psychology in Long Term Care." 2020
 
 **Fulbright Specialist Award** 2017
 
-Bureau of Educational and Cultural Affairs
-
-Department of State
+* Bureau of Educational and Cultural Affairs
+* Department of State
 
 **American Society on Aging Award** for outstanding contribution to the
 field of aging 2012
 
 **Fulbright Specialist Award** 2012
 
-Bureau of Educational and Cultural Affairs
-
-Department of State
+* Bureau of Educational and Cultural Affairs
+* Department of State
 
 **Fulbright Specialist Award** 2011
 
-Bureau of Educational and Cultural Affairs
-
-Department of State
+* Bureau of Educational and Cultural Affairs
+* Department of State
 
 **Fellow**, for outstanding and continuing contribution to the
 advancement of gerontology 2003
@@ -98,7 +91,7 @@ Gerontological Society of America
 **Florence Mintz Alumnae Award**, for outstanding contribution to the
 profession of psychology 2002
 
-**PROFESSIONAL AFFILIATIONS (current):**
+## Professional Affiliations (Current)
 
 Member, Association for Gerontology in Higher Education 2016-Present
 
@@ -125,27 +118,26 @@ Member, American Psychological Association 1988-Present
 
 Member, Massachusetts Psychological Association 1986-Present
 
-**PEER REVIEWED PUBLICATIONS (selected):**
+## Peer Reviewed Publications (Selected)
 
-Schulkens,J.,Bergs,N., Ingenhoven,T.J.M.,Rosowsky, E., van
-Alphen,S.P.J.,& Sobczak,S. (2021).Selective Serotonin
+Schulkens, J., Bergs, N., Ingenhoven, T.J.M., Rosowsky, E., van
+Alphen, S.P.J., & Sobczak, S. (2021). Selective Serotonin
 Reuptake-Inhibitors for Symptom-Based Treatment of Borderline
 Personality Disorders in Older Adults: An International Delphi Study.
-*Clinical Psychopharmacology and Neuroscience,*00(0):1-00.
+*Clinical Psychopharmacology and Neuroscience,* 00(0):1-00.
 
-Rosowsky,E., Lodish,E., Ellison,J. & van Alphen S.P.J. (2019).A Delphi
-Study of Late-Onset Personality Disorders. *International
-Psychogeriatrics,*doi.org/10.1017/s1041610218001473.
+Rosowsky,E., Lodish,E., Ellison,J. & van Alphen S.P.J. (2019). [A Delphi
+Study of Late-Onset Personality Disorders](doi.org/10.1017/s1041610218001473). *International Psychogeriatrics*
 
-Gielkens,E.M.J.,Sobczak,S.,Rossi,G.,Rosowsky,E.,&
-vanAlphen,S.P.J.(2018). EMDR as a treatment approach of PTSD complicated
+Gielkens, E.M.J., Sobczak, S., Rossi, G., Rosowsky, E., &
+van Alphen, S.P.J. (2018). EMDR as a treatment approach of PTSD complicated
 by comorbid psychiatric, somatic and cognitive disorders: a case report
 of an older Dutch woman with a borderline and avoidant personality
-disorder. *Journal of EMDR Practice and Research*, 17(5),328-347.
+disorder. *Journal of EMDR Practice and Research*, 17(5), 328-347.
 
-Gielkens,E.M.J., Vink,M., Sobczak,S., Rosowsky, E. & van Alphen,
-S.P.J.(2018). Eye movement desensitization reprocessing in older adults
-with Posttraumatic stress disorder. *Journal* *of EMDR Practice and
+Gielkens, E.M.J., Vink, M., Sobczak,S., Rosowsky, E. & van Alphen,
+S.P.J. (2018). Eye movement desensitization reprocessing in older adults
+with Posttraumatic stress disorder. *Journal of EMDR Practice and
 Research*, 12(3), 132-141.
 
 Morris,S., Schaefer,K.,& Rosowsky,E.(2018).Primary Care for the Elderly
@@ -263,12 +255,10 @@ Resilience in Aging:The Key to Successful Aging.* (second edition) New
 York: Springer Publishing Company, (2018).
 
 Rosowsky, E., & Molinari,V. Personality disorders. In S. Whitbourne
-(Ed.), 
+(Ed.),
 
 *The Wiley Blackwell Encyclopedia of Adulthood and Aging.* New York:
 Wiley, 2015. DOI: 10.1002/9781118528921.wbeaa044
-
- 
 
 Rosowsky, E. "Resilience and personality disorders: Clinical
 implications." *The Handbook of Resilience in Aging*. Eds. B. Resnick,
@@ -362,7 +352,7 @@ Council on Aging and American Society on Aging, Chicago, IL, 2010.
 *Anxiety disorders in older adults*. Annual Conference, National Council
 on Aging and American Society on Aging, Chicago, IL, 2010.
 
-### *Personality in older age: Ordered and disordered*. Regional Council on Aging, Hudson, MA, 2010.
+### *Personality in older age: Ordered and disordered*. Regional Council on Aging, Hudson, MA, 2010
 
 *Creating caring communities... For them and us*. Mental Health
 Promotion and Suicide Prevention Summit, Gaithersburg, MD, 2008.
@@ -397,12 +387,9 @@ CT, 2002.**
 *Aging easier*. Federal Deposit Insurance Corporation, Braintree, MA,
 2001.
 
-*Understanding and treating older adults with personality disorders*.
-Wayne State University, Detroit, MI, 2001.
+*Understanding and treating older adults with personality disorders*. Wayne State University, Detroit, MI, 2001.
 
-.
-
-***Community Presentations (selected topics and venues))***
+## Community Presentations (selected topics and venues)
 
 **Affirming Goodness and Being Positive:Center Communities of
 Brookline,Brookline,MA**

@@ -1,4 +1,4 @@
-Title: About Erlene
+Title: About 
 Date: 2022-03-04 10:40
 
 Dr. Erlene Rosowsky has a long and deep history in the field of aging, especially aging and mental health.
@@ -15,11 +15,11 @@ Dr. R. (as lovingly addressed by students over the years) is a Professor in the 
 
 *No one can, or should, live in isolation. There is always context to our lives.*
 
-Dr. Rosowsky holds an appointment as Teaching Associate in the Department of Psychiatry at Harvard Medical School, and is a Fellow of the Gerontological Society of America (<https://www.geron.org/>). She received the American Society on Aging (<https://asaging.org/>) Award for "Outstanding Contributions to the Field of Aging"(2012). In 2020,Dr. Rosowsky received the first annual Michael Duffy, PhD Award for "Outstanding Contributions to Teaching and Mentorship of Psychology in Long Term Care" from Psychologists in Long-Term Care (<https://www.pltcweb.org/>).
+Dr. Rosowsky holds an appointment as Teaching Associate in the Department of Psychiatry at Harvard Medical School, and is a Fellow of the [Gerontological Society of America](https://www.geron.org/). She received the [American Society on Aging](https://asaging.org/) Award for "Outstanding Contributions to the Field of Aging" (2012). In 2020, Dr. Rosowsky received the first annual Michael Duffy, PhD Award for "Outstanding Contributions to Teaching and Mentorship of Psychology in Long Term Care" from [Psychologists in Long-Term Care](https://www.pltcweb.org/).
 
-Dr. Rosowsky was the recipient of three Fulbright Specialist (<https://fulbrightspecialist.worldlearning.org/)awards> in global/public health, visiting The Netherlands and China (2011,2012,2017).
+Dr. Rosowsky was the recipient of three [Fulbright Specialist](https://fulbrightspecialist.worldlearning.org/) awards in global/public health, visiting The Netherlands and China (2011,2012, 2017).
 
-Currently she is actively involved with the International Psychogeriatric Association (<https://www.ipa-online.org/>), serving on the Membership Committee and Products and Services Committee.
+Currently she is actively involved with the [International Psychogeriatric Association](https://www.ipa-online.org/), serving on the Membership Committee and Products and Services Committee.
 
 Her research focus has been on personality disorders in later life. She has published extensively in the professional literature, has authored numerous chapters, articles and columns, and co-authored four books.
 
@@ -27,4 +27,4 @@ A dynamic public speaker, Dr. Rosowsky has presented extensively to audiences al
 
 > I've presented to audiences as large as thousands, and as small as one. I recall that we connected well, the attendee and I, and put our time together to good use.
 
-Family status: Married; Three adult children; Six grandchildren
+Family status: Married; Three adult children; Six grandchildren.

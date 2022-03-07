@@ -1,5 +1,6 @@
 Title: Focus on Assumptions
 Date: 2022-02-14 9:40
+Tags: focus on, assumptions
 
 Thoughts and Suggestions from an Aging Psychologist
 

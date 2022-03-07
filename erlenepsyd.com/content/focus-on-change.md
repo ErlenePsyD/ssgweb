@@ -1,11 +1,12 @@
 Title: Focus on Change
-Date: 2022-03-04 10
+Date: 2022-03-04 10:30
+Tags: focus on, change
 
 Thoughts and Suggestions from an Aging Psychologist
 
 Carrying around a heavy **burden** is tiring and adds to our perception of **stress**. Stress affects our thinking, emotions and physical being. Stress is likely to build up when we anticipate the need to make a change, experience the need for change or the actual change itself. The anticipation of making a change is typically couched in a time of fret and worry. This can be reduced (temporarily ) by "sweeping it under the carpet," or by creating a plan. "If such-and-such happens, then I'll do such -and -such".
 
-It can be a small need for change, such as replacing a light fixture, or a huge one, such as a move to a new country. On a "stress scale" of 1 to 10,the need for change reflects how we think about it ,how we appraise it, and where we assign it on the scale . The more skewed on the scale, the more likely for consensus. For example, if you are heading out on an errand on a chilly day, you reach for a scarf but the scarf you had in mind is not available, you substitute another scarf easily. Most would...Stress: 1.If however, your neighborhood has been severely damaged in a storm, the immediate aftermath rates a stressful 10, again most would agree.
+It can be a small need for change, such as replacing a light fixture, or a huge one, such as a move to a new country. On a "stress scale" of 1 to 10,the need for change reflects how we think about it ,how we appraise it, and where we assign it on the scale. The more skewed on the scale, the more likely for consensus. For example, if you are heading out on an errand on a chilly day, you reach for a scarf but the scarf you had in mind is not available, you substitute another scarf easily. Most would...Stress: 1.If however, your neighborhood has been severely damaged in a storm, the immediate aftermath rates a stressful 10, again most would agree.
 
 As we move to the middle of the range, however consensus is less likely to be reached. We all know people who have had to respond to multiple stressors and yet remain able to function well. And there are others known to us who "fall apart" at small needs for change.
 

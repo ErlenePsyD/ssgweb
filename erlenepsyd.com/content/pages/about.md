@@ -1,5 +1,7 @@
-Title: About 
+Title: About
 Date: 2022-03-04 10:40
+
+![A portrait of Erlene Rosowsky]({static}/images/erlenerosowky_0005.jpg)
 
 Dr. Erlene Rosowsky has a long and deep history in the field of aging, especially aging and mental health.
 

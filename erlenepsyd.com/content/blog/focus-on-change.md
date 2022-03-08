@@ -1,7 +1,6 @@
 Title: Focus on Change
 Date: 2022-03-04 10:30
 Tags: focus on, change
-Category: Blog
 
 Thoughts and Suggestions from an Aging Psychologist
 

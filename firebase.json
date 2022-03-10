@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "erlenepsyd.com/output",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

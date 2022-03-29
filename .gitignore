@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.cache
+
+# Mac junk
+.DS_Store

@@ -1,13 +1,10 @@
 Title: About
 Date: 2022-03-04 10:40
+save_as: index.html
 
-![A portrait of Erlene Rosowsky]({static}/images/erlenerosowky_0005.jpg)
+![A portrait of Erlene Rosowsky]({static}/images/Mom3.jpg){: .image-process-article-image}
 
 Dr. Erlene Rosowsky has a long and deep history in the field of aging, especially aging and mental health.
-
-Clinical: As a clinician for many years, her special interests have been positive adjustment to the aging experience, and long- partnered couples in their older years.
-
-*Couples grow old together, too.*
 
 Dr. Rosowsky has been listed on [National Register of Health Service Psychologists](https://www.nationalregister.org/) since 1990. A highly respected clinician, she provides consultation services to mental health clinicians addressing aging related concerns in their clinical practice.
 

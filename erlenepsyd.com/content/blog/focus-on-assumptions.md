@@ -4,6 +4,10 @@ Tags: focus on, assumptions
 
 Thoughts and Suggestions from an Aging Psychologist
 
+Photo by [Beth Macdonald](https://unsplash.com/@elsbethcat) on [Unsplash](https://unsplash.com/)
+
+![Philosopher George Pór at work at Hawkwood College in Stroud, UK]({static}/images/beth-macdonald-V2edkaIdMP4-unsplash.jpg){: .image-process-large-photo}
+
 Some assumptions live in our minds, very quietly, and guide our lives...but are not true.
 
 * *Life is fair*

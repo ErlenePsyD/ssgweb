@@ -17,10 +17,10 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
+    ("About", "/pages/about.html"),
+    ("Contact", "/pages/contact.html"),
+    ("CV", "/pages/cv.html"),
+    ("Blog", "/category/blog.html"),
 )
 
 # Social widget
@@ -35,3 +35,38 @@ DEFAULT_PAGINATION = False
 # RELATIVE_URLS = True
 
 THEME = "notmyidea"
+
+IMAGE_PROCESS = {
+    "thumb": {
+        "type": "image",
+        "ops": ["crop 0 0 50% 50%", "scale_out 150 150 True", "crop 0 0 150 150"],
+    },
+    "article-image": {
+        "type": "image",
+        "ops": ["scale_in 300 300 True"],
+    },
+    "crisp": {
+        "type": "responsive-image",
+        "srcset": [
+            ("1x", ["scale_in 800 600 True"]),
+            ("2x", ["scale_in 1600 1200 True"]),
+            ("4x", ["scale_in 3200 2400 True"]),
+        ],
+        "default": "1x",
+    },
+    "large-photo": {
+        "type": "responsive-image",
+        "sizes": (
+            "(min-width: 1200px) 800px, "
+            "(min-width: 992px) 650px, "
+            "(min-width: 768px) 718px, "
+            "100vw"
+        ),
+        "srcset": [
+            ("600w", ["scale_in 600 450 True"]),
+            ("800w", ["scale_in 800 600 True"]),
+            ("1600w", ["scale_in 1600 1200 True"]),
+        ],
+        "default": "800w",
+    },
+}

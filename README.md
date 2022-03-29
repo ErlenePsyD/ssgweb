@@ -30,7 +30,7 @@ Now you can generate the site, and serve it up:
 
 ```
 pelican content
-pelican --version
+pelican --listen
 ```
 
 Generated content is in `ssgweb/erelenpsyd.com/output` and these are the files that need to go on the server.

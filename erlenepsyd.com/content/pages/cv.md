@@ -1,9 +1,11 @@
 Title: CV
 Date: 2022-03-04 10:40
 
-## Curriculum Vitae 
+![Erlene accepts an award]({static}/images/img_3488.jpg){: .image-process-large-photo}
 
-### Erlene Rosowsky, Psy.D., F.G.S.A.
+## Curriculum Vitae
+
+### Erlene Rosowsky, Psy.D., F.G.S.A
 
 ## Educational
 
@@ -69,7 +71,7 @@ Date: 2022-03-04 10:40
 * Bureau of Educational and Cultural Affairs
 * Department of State
 
-**Fellow**, for outstanding and continuing contribution to the advancement of gerontology 2003, Gerontological Society of America 
+**Fellow**, for outstanding and continuing contribution to the advancement of gerontology 2003, Gerontological Society of America
 
 **Florence Mintz Alumnae Award**, for outstanding contribution to the profession of psychology 2002
 
@@ -101,7 +103,7 @@ Member, Massachusetts Psychological Association 1986-Present
 
 ## Peer Reviewed Publications (Selected)
 
-Schulkens, J., Bergs, N., Ingenhoven, T.J.M., Rosowsky, E., van Alphen, S.P.J., & Sobczak, S. (2021). Selective Serotonin Reuptake-Inhibitors for Symptom-Based Treatment of Borderline Personality Disorders in Older Adults: An International Delphi Study. *Clinical Psychopharmacology and Neuroscience,* 00(0):1-00. 
+Schulkens, J., Bergs, N., Ingenhoven, T.J.M., Rosowsky, E., van Alphen, S.P.J., & Sobczak, S. (2021). Selective Serotonin Reuptake-Inhibitors for Symptom-Based Treatment of Borderline Personality Disorders in Older Adults: An International Delphi Study. *Clinical Psychopharmacology and Neuroscience,* 00(0):1-00.
 
 Rosowsky,E., Lodish, E., Ellison, J. & van Alphen S.P.J. (2019). [A Delphi Study of Late-Onset Personality Disorders](https://doi.org/10.1017/s1041610218001473). *International Psychogeriatrics*
 
@@ -159,7 +161,7 @@ Rosowsky, E., J. Casciani, and M. Arnold, eds. *Geropsychology and Long Term Car
 
 Segal, D.L., F.L. Coolidge, and E. Rosowsky. *Personality Disorders and Older Adults: Diagnosis, Assessment, and Treatment*. NJ: John Wiley & Sons. 2006.
 
-Rosowsky, E., and J. Casciani, eds. *Long Term Care Professional Education Program Manual*. Western Illinois University Press. 2003. 
+Rosowsky, E., and J. Casciani, eds. *Long Term Care Professional Education Program Manual*. Western Illinois University Press. 2003.
 
 Rosowsky, E., R. Abrams, and R. Zweig, eds. *Personality Disorders in Older Adults: Emerging Issues in Diagnosis and Treatment*. Mahwah, NJ: Lawrence Erlbaum Publishing. 1999.
 
@@ -173,7 +175,7 @@ Rosowsky, E. "Resilience and personality disorders: Clinical implications." *The
 
 Rosowsky, E., and D.L. Segal. "Personality disorders in later life." *Casebook in Clinical Geropsychology: International Perspectives on Practice*. Ed. N. Pachana, K. Laidlow, and B. Knight. New York: Oxford University Press, 2010. 195-209.
 
-Molinari, V., F. Kier, and E. Rosowsky. "SOC, personality, and long-term care." *Geropsychological Interventions in Long-Term Care*. Ed. L. Hyer, and R. Intrieri. New York: Springer Publishing Company, 2006. 139-156. 
+Molinari, V., F. Kier, and E. Rosowsky. "SOC, personality, and long-term care." *Geropsychological Interventions in Long-Term Care*. Ed. L. Hyer, and R. Intrieri. New York: Springer Publishing Company, 2006. 139-156.
 
 Segal, D.L., F.L. Coolidge, and E. Rosowsky. "Personality disorders." *Psychopathology in Later Adulthood.* Ed. S.K. Whitbourne. New York: Wiley & Sons, 2000. 89-115.
 
@@ -205,9 +207,9 @@ Board of Editors, *Journal of Geriatric Psychiatry* 2000-2001
 
 ## Professional Presentations (Selected)
 
-*Examining possible risk factors associated with frontotemporal dementia* (contributor, poster). Massachusetts Neuropsychological Society Science Symposium, Boston, MA, 2018. 
+*Examining possible risk factors associated with frontotemporal dementia* (contributor, poster). Massachusetts Neuropsychological Society Science Symposium, Boston, MA, 2018.
 
-*Mentoring in geropsychology* (part of symposium, "The role of mentoring in attracting doctoral students to work with underserved populations"). Mid-Winter Conference, National Council of Schools and Programs in Professional Psychology, Atlanta, GA, 2016. 
+*Mentoring in geropsychology* (part of symposium, "The role of mentoring in attracting doctoral students to work with underserved populations"). Mid-Winter Conference, National Council of Schools and Programs in Professional Psychology, Atlanta, GA, 2016.
 
 *The relationship of masculinity-femininity, internalized homonegativity, and visibility management* (poster). Annual Meeting, American Psychological Association, Toronto, Canada, 2015.
 
@@ -223,7 +225,7 @@ Board of Editors, *Journal of Geriatric Psychiatry* 2000-2001
 
 *Anxiety disorders in older adults*. Annual Conference, National Council on Aging and American Society on Aging, Chicago, IL, 2010.
 
-*Personality in older age: Ordered and disordered*. Regional Council on Aging, Hudson, MA, 2010 
+*Personality in older age: Ordered and disordered*. Regional Council on Aging, Hudson, MA, 2010
 
 *Creating caring communities... For them and us*. Mental Health Promotion and Suicide Prevention Summit, Gaithersburg, MD, 2008.
 
@@ -245,7 +247,7 @@ Board of Editors, *Journal of Geriatric Psychiatry* 2000-2001
 
 *Aging easier*. Federal Deposit Insurance Corporation, Braintree, MA, 2001.
 
-*Understanding and treating older adults with personality disorders*. Wayne State University, Detroit, MI, 2001. 
+*Understanding and treating older adults with personality disorders*. Wayne State University, Detroit, MI, 2001.
 
 ## Community Presentations (selected topics and venues)
 

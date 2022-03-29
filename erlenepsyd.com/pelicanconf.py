@@ -70,3 +70,13 @@ IMAGE_PROCESS = {
         "default": "800w",
     },
 }
+
+# Photos plugin
+
+PHOTO_LIBRARY = "/Users/neil/Pictures/erlene/"
+PHOTO_GALLERY = (1024, 768, 80)
+PHOTO_ARTICLE = (760, 506, 80)
+PHOTO_THUMB = (192, 144, 60)
+PHOTO_SQUARE_THUMB = True
+PHOTO_RESIZE_JOBS = 5
+PHOTO_EXIF_REMOVE_GPS = True

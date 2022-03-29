@@ -4,10 +4,6 @@ Tags: focus on, assumptions
 
 Thoughts and Suggestions from an Aging Psychologist
 
-Photo by [Beth Macdonald](https://unsplash.com/@elsbethcat) on [Unsplash](https://unsplash.com/)
-
-![Philosopher George Pór at work at Hawkwood College in Stroud, UK]({static}/images/beth-macdonald-V2edkaIdMP4-unsplash.jpg){: .image-process-large-photo}
-
 Some assumptions live in our minds, very quietly, and guide our lives...but are not true.
 
 * *Life is fair*
@@ -15,6 +11,8 @@ Some assumptions live in our minds, very quietly, and guide our lives...but are 
 * *Everything that happens is a consequence of something that is understandable*
 
 These assumptions are not only not true but embracing them increases our stress... perhaps especially so as we become older.
+
+![Philosopher George Pór at work at Hawkwood College in Stroud, UK]({static}/images/beth-macdonald-V2edkaIdMP4-unsplash.jpg){: .image-process-large-photo}
 
 A tough lesson to learn is that life is neither Fair nor Unfair. It often feels unfair when we think we deserved something different. A better different. And yet, when we experience a better different, we are prone to dismiss it by thinking that we were just lucky.
 
@@ -51,6 +49,8 @@ I hope you have a You Journal. If not, I suggest you get one, or create one. You
 * List One thing that this S/O is influencing (your behavior) currently
 * If (a big "if") the S/O was put into a box, sealed and set aside, list Three Things that would be different for you in terms of your Thinking, Emotions, Physical Self
 
-> In the next post the focus will be on: CHANGE
->
-> Dr.R.
+In the next post the focus will be on: CHANGE.
+
+Dr.R.
+
+_Photo by [Beth Macdonald](https://unsplash.com/@elsbethcat) on [Unsplash](https://unsplash.com/)_

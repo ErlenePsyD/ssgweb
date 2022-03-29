@@ -1,5 +1,5 @@
 AUTHOR = "Erlene Rosowsky"
-SITENAME = "Erlene, PsyD."
+SITENAME = "the older self"
 SITEURL = ""
 
 PATH = "content"

@@ -17,7 +17,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("About", "/pages/about.html"),
+    ("About", "/pages/index.html"),
     ("Contact", "/pages/contact.html"),
     ("CV", "/pages/cv.html"),
     ("Blog", "/category/blog.html"),
@@ -34,7 +34,7 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-THEME = "notmyidea"
+THEME = "themes/myidea"
 
 IMAGE_PROCESS = {
     "thumb": {

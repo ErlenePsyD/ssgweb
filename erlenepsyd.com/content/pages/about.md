@@ -1,6 +1,5 @@
 Title: About
 Date: 2022-03-04 10:40
-save_as: index.html
 
 ![A portrait of Erlene Rosowsky]({static}/images/Mom3.jpg){: .image-process-article-image}
 

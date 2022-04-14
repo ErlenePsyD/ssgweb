@@ -1,14 +1,15 @@
 Title: Focus on Change
 Date: 2022-03-04 10:30
 Tags: focus on, change
+Summary: Stress is likely to build up when we anticipate the need to make a change, experience the need for change or the actual change itself. The anticipation of making a change is typically couched in a time of fret and worry.
 
 Thoughts and Suggestions from an Aging Psychologist
 
 Photo by [Johnny Cohen](https://unsplash.com/@jonecohen) on [Unsplash](https://unsplash.com/)
 
-![A baby in grandpa's arms, held overhead]({static}/images/johnny-cohen-OxOxqLAWvE0-unsplash.jpg){: .image-process-large-photo}
+Carrying around a heavy **burden** is tiring and adds to our perception of **stress**. Stress affects our thinking, emotions and physical being. Stress is likely to build up when we anticipate the need to make a change, experience the need for change or the actual change itself. The anticipation of making a change is typically couched in a time of fret and worry. This can be reduced (temporarily) by "sweeping it under the carpet," or by creating a plan. "If such-and-such happens, then I'll do such -and -such".
 
-Carrying around a heavy **burden** is tiring and adds to our perception of **stress**. Stress affects our thinking, emotions and physical being. Stress is likely to build up when we anticipate the need to make a change, experience the need for change or the actual change itself. The anticipation of making a change is typically couched in a time of fret and worry. This can be reduced (temporarily ) by "sweeping it under the carpet," or by creating a plan. "If such-and-such happens, then I'll do such -and -such".
+![A baby in grandpa's arms, held overhead]({static}/images/johnny-cohen-OxOxqLAWvE0-unsplash.jpg){: .image-process-crisp .left}
 
 It can be a small need for change, such as replacing a light fixture, or a huge one, such as a move to a new country. On a "stress scale" of 1 to 10,the need for change reflects how we think about it ,how we appraise it, and where we assign it on the scale. The more skewed on the scale, the more likely for consensus. For example, if you are heading out on an errand on a chilly day, you reach for a scarf but the scarf you had in mind is not available, you substitute another scarf easily. Most would...Stress: 1.If however, your neighborhood has been severely damaged in a storm, the immediate aftermath rates a stressful 10, again most would agree.
 

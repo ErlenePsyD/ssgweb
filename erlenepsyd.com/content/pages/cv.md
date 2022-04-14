@@ -1,7 +1,7 @@
 Title: CV
 Date: 2022-03-04 10:40
 
-![Erlene accepts an award]({static}/images/img_3488.jpg){: .image-process-large-photo}
+![Erlene at Fudan University in Fudan, China]({static}/images/img_3449.jpg){: .image-process-article-image .right}
 
 ## Curriculum Vitae
 
@@ -276,5 +276,3 @@ Board of Editors, *Journal of Geriatric Psychiatry* 2000-2001
 *Caregiver burnout and the decision for institutional placement*. Assabet Valley Adult Social Day Care Program, Marlboro, MA .
 
 *Stress and balancing it all*. Minuteman Home Care, Burlington, MA, 1990.
-
-**Full CV Available Upon Request**

@@ -17,17 +17,14 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("About", "/pages/index.html"),
+    ("About", "/pages/about.html"),
     ("Contact", "/pages/contact.html"),
     ("CV", "/pages/cv.html"),
     ("Blog", "/category/blog.html"),
 )
 
 # Social widget
-SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
-)
+SOCIAL = (("LinkedIn", "https://www.linkedin.com/in/erlene-rosowsky-91136431/"),)
 
 DEFAULT_PAGINATION = False
 
@@ -43,7 +40,7 @@ IMAGE_PROCESS = {
     },
     "article-image": {
         "type": "image",
-        "ops": ["scale_in 300 300 True"],
+        "ops": ["scale_in 400 400 True"],
     },
     "crisp": {
         "type": "responsive-image",
@@ -69,14 +66,27 @@ IMAGE_PROCESS = {
         ],
         "default": "800w",
     },
+    "example-pict": {
+        "type": "picture",
+        "sources": [
+            {
+                "name": "default",
+                "media": "(min-width: 640px)",
+                "srcset": [
+                    ("640w", ["scale_in 640 480 True"]),
+                    ("1024w", ["scale_in 1024 683 True"]),
+                    ("1600w", ["scale_in 1600 1200 True"]),
+                ],
+                "sizes": "100vw",
+            },
+            {
+                "name": "source-1",
+                "srcset": [
+                    ("1x", ["crop 100 100 200 200"]),
+                    ("2x", ["crop 100 100 300 300"]),
+                ],
+            },
+        ],
+        "default": ("default", "640w"),
+    },
 }
-
-# Photos plugin
-
-PHOTO_LIBRARY = "/Users/neil/Pictures/erlene/"
-PHOTO_GALLERY = (1024, 768, 80)
-PHOTO_ARTICLE = (760, 506, 80)
-PHOTO_THUMB = (192, 144, 60)
-PHOTO_SQUARE_THUMB = True
-PHOTO_RESIZE_JOBS = 5
-PHOTO_EXIF_REMOVE_GPS = True

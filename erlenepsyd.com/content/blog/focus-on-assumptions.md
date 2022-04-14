@@ -1,6 +1,7 @@
 Title: Focus on Assumptions
 Date: 2022-02-14 9:40
 Tags: focus on, assumptions
+Summary: Some assumptions live in our minds, very quietly, and guide our lives -- but are not true. Embracing them increases our stress, especially so as we become older.
 
 Thoughts and Suggestions from an Aging Psychologist
 
@@ -12,7 +13,7 @@ Some assumptions live in our minds, very quietly, and guide our lives...but are 
 
 These assumptions are not only not true but embracing them increases our stress... perhaps especially so as we become older.
 
-![Philosopher George Pór at work at Hawkwood College in Stroud, UK]({static}/images/beth-macdonald-V2edkaIdMP4-unsplash.jpg){: .image-process-large-photo}
+![Philosopher George Pór at work at Hawkwood College in Stroud, UK]({static}/images/beth-macdonald-V2edkaIdMP4-unsplash.jpg){: .image-process-article-image .right}
 
 A tough lesson to learn is that life is neither Fair nor Unfair. It often feels unfair when we think we deserved something different. A better different. And yet, when we experience a better different, we are prone to dismiss it by thinking that we were just lucky.
 

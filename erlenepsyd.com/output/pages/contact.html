@@ -11,26 +11,39 @@
 <body class="home" id="index">
 <header class="body" id="banner">
 <h1><a href="/">the older self</a></h1>
-<nav><ul>
+<nav>
+<ul>
 <li><a href="/pages/about.html">About</a></li>
 <li class="active"><a href="/pages/contact.html">Contact</a></li>
 <li><a href="/pages/cv.html">CV</a></li>
 <li><a href="/pages/gallery.html">Gallery</a></li>
 <li><a href="/category/blog.html">Blog</a></li>
-</ul></nav>
+</ul>
+</nav>
 </header><!-- /#banner -->
 <section class="body" id="content">
 <h1 class="entry-title">Contact</h1>
-<p>Photo by <a href="https://unsplash.com/@mrthetrain">Joshua Hoehne</a> on <a href="https://unsplash.com/">Unsplash</a></p>
 <p><img alt="a senior's hands holding an iPhone while it is charging" class="image-process-large-photo" sizes="(min-width: 1200px) 800px, (min-width: 992px) 650px, (min-width: 768px) 718px, 100vw" src="/images/derivatives/large-photo/800w/joshua-hoehne-rvCnQeldxys-unsplash.jpg" srcset="/images/derivatives/large-photo/600w/joshua-hoehne-rvCnQeldxys-unsplash.jpg 600w, /images/derivatives/large-photo/800w/joshua-hoehne-rvCnQeldxys-unsplash.jpg 800w, /images/derivatives/large-photo/1600w/joshua-hoehne-rvCnQeldxys-unsplash.jpg 1600w"/></p>
-<p>Please fill out the form below to reach us!</p>
-<p>(Contact Us form goes here)</p>
+<p>Please fill out this form to reach us:</p>
+<form accept-charset="utf-8" action="https://formspree.io/f/xwkyreoq" id="fs-frm" method="post" name="simple-contact-form">
+<fieldset id="fs-frm-inputs">
+<label for="full-name">Full Name</label><br/>
+<input id="full-name" name="name" placeholder="First and Last" required="" type="text"/><br/>
+<label for="email-address">Email Address</label><br/>
+<input id="email-address" name="_replyto" placeholder="email@gmail.com" required="" type="email"/><br/>
+<label for="message">Message</label><br/>
+<textarea id="message" name="message" placeholder="Enter your message here" required="" rows="5"></textarea><br/>
+<input id="email-subject" name="_subject" type="hidden" value="Contact Form Submission"/>
+</fieldset>
+<input type="submit" value="Submit"/>
+</form>
+<p><em>Photo by <a href="https://unsplash.com/@mrthetrain">Joshua Hoehne</a> on <a href="https://unsplash.com/">Unsplash</a></em></p>
 </section>
 <section class="body" id="extras">
 <div class="blogroll">
 <h2>links</h2>
 <ul>
-<li><a href="/pages/index.html">About</a></li>
+<li><a href="/pages/about.html">About</a></li>
 <li><a href="/pages/contact.html">Contact</a></li>
 <li><a href="/pages/cv.html">CV</a></li>
 <li><a href="/category/blog.html">Blog</a></li>
@@ -39,16 +52,16 @@
 <div class="social">
 <h2>social</h2>
 <ul>
-<li><a href="#">You can add links in your config file</a></li>
-<li><a href="#">Another social link</a></li>
+<li><a href="https://www.linkedin.com/in/erlene-rosowsky-91136431/">LinkedIn</a></li>
 </ul>
 </div><!-- /.social -->
 </section><!-- /#extras -->
 <footer class="body" id="contentinfo">
 <address class="vcard body" id="about">
-                Proudly powered by <a href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a href="https://www.python.org/">Python</a>.
+                        Site by <a href="https://cadent.com/">Cadent</a>, powered by
+                        <a href="https://getpelican.com/">Pelican</a>,
+                        both of which make the best of <a href="https://www.python.org/">Python</a>.
                 </address><!-- /#about -->
-<p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
 </footer><!-- /#contentinfo -->
 </body>
 </html>

@@ -6,13 +6,13 @@ You need Poetry installed to manage the Python environment. Read about your plat
 
 If Poetry is installed correctly, this will work:
 
-```
+```bash
 poetry --version
 ```
 
 You'll need to set up your Python environment like this, **in the project root**, which contains the `pyproject.toml` file:
 
-```
+```bash
 poetry install
 ```
 
@@ -20,15 +20,23 @@ poetry install
 
 To run the Pelican commands, change to the website directory:
 
-```
-ssgweb/erlenepsyd.com
+```bash
+cd erlenepsyd.com
 # set up the Python virtual environment
+poetry shell
+```
+
+If poetry reports any version issues, update it
+
+```bash
+exit   # to leave the poetry shell environment
+poetry update
 poetry shell
 ```
 
 Now you can generate the site, and serve it up:
 
-```
+```bash
 pelican content
 pelican --listen
 ```

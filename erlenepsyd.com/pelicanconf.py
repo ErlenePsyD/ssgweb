@@ -1,6 +1,7 @@
 AUTHOR = "Erlene Rosowsky"
 SITENAME = "the older self"
-SITEURL = ""
+# Uncomment for live site
+# SITEURL = "https://erlenepsyd.com"
 
 PATH = "content"
 
@@ -32,6 +33,12 @@ DEFAULT_PAGINATION = False
 # RELATIVE_URLS = True
 
 THEME = "themes/myidea"
+
+# SEO settings
+SEO_REPORT = True  # generate report
+SEO_ENHANCER = True  #
+SEO_ENHANCER_OPEN_GRAPH = False  # False is the default value for this feature
+SEO_ENHANCER_TWITTER_CARDS = False  # False is the default value for this feature
 
 IMAGE_PROCESS = {
     "thumb": {

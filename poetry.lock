@@ -158,6 +158,35 @@ six = ">=1.15.0,<2.0.0"
 markdown = ["markdown (>=3.2,<4.0)"]
 
 [[package]]
+name = "pelican-neighbors"
+version = "1.2.0"
+description = "Neighbors is a Pelican plugin that adds Next/Previous links to articles"
+category = "main"
+optional = false
+python-versions = ">=3.6.2,<4.0"
+
+[package.dependencies]
+pelican = ">=3,<5"
+
+[package.extras]
+markdown = ["markdown (>=3.2,<4.0)"]
+
+[[package]]
+name = "pelican-seo"
+version = "1.2.2"
+description = "Pelican plugin to improve SEO (Search Engine Optimization) to reach top positions on search engines."
+category = "main"
+optional = false
+python-versions = ">=3.6.2,<4.0"
+
+[package.dependencies]
+beautifulsoup4 = ">=4.9,<5.0"
+pelican = ">=4.5"
+
+[package.extras]
+markdown = ["markdown (>=3.2)"]
+
+[[package]]
 name = "pillow"
 version = "8.4.0"
 description = "Python Imaging Library (Fork)"
@@ -265,7 +294,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytest-
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "a70b1325cef30f30d43d84cb9a5d364c262847a9cff6ea4df10e23869919cb66"
+content-hash = "ecad15a9aab988ee0db404c0ed1d29372a912057ecad44c70aa696921fae446d"
 
 [metadata.files]
 beautifulsoup4 = [
@@ -411,6 +440,14 @@ pelican = [
 pelican-image-process = [
     {file = "pelican-image-process-2.1.3.tar.gz", hash = "sha256:a3a807b12ff91bdace785bbacf7ba5bc08906ca7ec0d2089cf59cfc2b0339008"},
     {file = "pelican_image_process-2.1.3-py3-none-any.whl", hash = "sha256:37d150238827e71c4d8c797d744d0799b7deb42f82abafc40d55239e3a943ced"},
+]
+pelican-neighbors = [
+    {file = "pelican-neighbors-1.2.0.tar.gz", hash = "sha256:1cbeee08f4d2e135452c044924c3f8e5e39ff083dcfb7485e8eeafdab9d2e445"},
+    {file = "pelican_neighbors-1.2.0-py3-none-any.whl", hash = "sha256:963df1d27dd8b34ac7b85320e63184d3f4e396e4570a3d49f5911246387a35bb"},
+]
+pelican-seo = [
+    {file = "pelican-seo-1.2.2.tar.gz", hash = "sha256:dd86aedf1bb2cbdb32bdcade3e95be95bf18ca85947ad610099c864119100498"},
+    {file = "pelican_seo-1.2.2-py3-none-any.whl", hash = "sha256:98c0c6f30510e4f5b52343abf8c1da2bee8b52b206a3682891a6e830dc2e3215"},
 ]
 pillow = [
     {file = "Pillow-8.4.0-cp310-cp310-macosx_10_10_universal2.whl", hash = "sha256:81f8d5c81e483a9442d72d182e1fb6dcb9723f289a57e8030811bac9ea3fef8d"},

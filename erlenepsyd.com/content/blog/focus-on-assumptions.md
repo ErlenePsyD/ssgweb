@@ -11,7 +11,7 @@ Some assumptions live in our minds, very quietly, and guide our lives...but are 
 * *If you are good enough, patient enough, and try hard enough, things will turn out fine*
 * *Everything that happens is a consequence of something that is understandable*
 
-These assumptions are not only not true but embracing them increases our stress... perhaps especially so as we become older.
+These assumptions are not only not true but embracing them increases our stress ... perhaps especially so as we become older.
 
 ![Philosopher George Pór at work at Hawkwood College in Stroud, UK]({static}/images/beth-macdonald-V2edkaIdMP4-unsplash.jpg){: .image-process-article-image .right}
 

@@ -5,9 +5,7 @@ Summary: Stress is likely to build up when we anticipate the need to make a chan
 
 Thoughts and Suggestions from an Aging Psychologist
 
-Photo by [Johnny Cohen](https://unsplash.com/@jonecohen) on [Unsplash](https://unsplash.com/)
-
-Carrying around a heavy **burden** is tiring and adds to our perception of **stress**. Stress affects our thinking, emotions and physical being. Stress is likely to build up when we anticipate the need to make a change, experience the need for change or the actual change itself. The anticipation of making a change is typically couched in a time of fret and worry. This can be reduced (temporarily) by "sweeping it under the carpet," or by creating a plan. "If such-and-such happens, then I'll do such -and -such".
+Carrying around a heavy **burden** is tiring and adds to our perception of **stress**. Stress affects our thinking, emotions and physical being. Stress is likely to build up when we anticipate the need to make a change, experience the need for change or the actual change itself. The anticipation of making a change is typically couched in a time of fret and worry. This can be reduced (temporarily) by "sweeping it under the carpet," or by creating a plan. "If such-and-such happens, then I'll do such-and-such".
 
 ![A baby in grandpa's arms, held overhead]({static}/images/johnny-cohen-OxOxqLAWvE0-unsplash.jpg){: .image-process-crisp .left}
 
@@ -50,3 +48,5 @@ Think of a mid-range stressor (5 on the scale)
 * What is your relationship to change? Are you a Preparer, Responder, Resister? What do you think happens when long-term partners enter into older age with different styles in their relationship to change?
 
 In the next post the focus will be on: ATTITUDE
+
+_Photo by [Johnny Cohen](https://unsplash.com/@jonecohen) on [Unsplash](https://unsplash.com/)_

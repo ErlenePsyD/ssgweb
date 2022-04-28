@@ -16,7 +16,9 @@ A single thought can trigger many related thoughts. Over time this collection of
 I describe this spreading response as “going down a rabbit hole” -- or sometimes a gopher hole, if the hole is especially big and deep.
 
 > Question: Who is in charge of our going down the rabbit hole?
-Answer: We are.
+> Answer: We are.
+
+![A woman stands below cloudy skies in the mountains]({static}/images/chaz-mcgregor-KgDdOPmR8L0-unsplash.jpg){: .image-process-crisp .left}
 
 ## We've All Been There
 
@@ -65,3 +67,6 @@ Think of an occasion in the past when you have automatically responded to someth
 When you’re feeling cranky and de-energized, what are your best go-to “techniques” you use to brighten your spirit and :attitude? Enter these in your journal, creating an ever-expanding list.
 
 In the next post the focus will be on: LONELINESS
+
+_Photo by [Chaz McGregor](https://unsplash.com/@chazmcgregor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@chazmcgregor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+  

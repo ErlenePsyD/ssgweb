@@ -2,6 +2,11 @@ AUTHOR = "Erlene Rosowsky"
 SITENAME = "the older self"
 # Uncomment for live site
 # SITEURL = "https://erlenepsyd.com"
+# Uncomment for staging server
+# SITEURL = "https://er-staging.web.app/"
+# Empty SITEURL creates relative links useful for local testing at http://127.0.0.1:8000/
+SITEURL = ""
+
 
 PATH = "content"
 

@@ -82,7 +82,7 @@ IMAGE_PROCESS = {
         "type": "picture",
         "sources": [
             {
-                "name": "default",
+                "name": "scale",
                 "media": "(min-width: 640px)",
                 "srcset": [
                     ("640w", ["scale_in 640 480 True"]),
@@ -99,6 +99,6 @@ IMAGE_PROCESS = {
                 ],
             },
         ],
-        "default": ("default", "640w"),
+        "default": ("scale", "640w"),
     },
 }

@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "er-staging"
+    "default": "er-staging",
+    "production": "er-prod-6f5e5",
+    "staging": "er-staging"
   }
 }

@@ -23,10 +23,10 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("About", "/pages/about.html"),
-    ("Contact", "/pages/contact.html"),
-    ("CV", "/pages/cv.html"),
-    ("Blog", "/category/blog.html"),
+    ("about", "/pages/about.html"),
+    ("contact", "/pages/contact.html"),
+    ("cv", "/pages/cv.html"),
+    ("blog", "/category/blog.html"),
 )
 
 # Social widget
@@ -72,6 +72,7 @@ IMAGE_PROCESS = {
             "100vw"
         ),
         "srcset": [
+            ("400w", ["scale_in 400 300 True"]),
             ("600w", ["scale_in 600 450 True"]),
             ("800w", ["scale_in 800 600 True"]),
             ("1600w", ["scale_in 1600 1200 True"]),

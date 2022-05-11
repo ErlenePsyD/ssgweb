@@ -1,4 +1,4 @@
-Title: CV
+Title: cv
 Date: 2022-03-04 10:40
 
 ![Erlene at Fudan University in Fudan, China]({static}/images/img_3449.jpg){: .image-process-article-image .right}

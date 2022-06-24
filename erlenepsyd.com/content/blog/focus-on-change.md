@@ -3,7 +3,7 @@ Date: 2022-03-04 10:30
 Tags: focus on, change
 Summary: Stress is likely to build up when we anticipate the need to make a change, experience the need for change or the actual change itself. The anticipation of making a change is typically couched in a time of fret and worry.
 
-Thoughts and Suggestions from an Aging Psychologist
+_Thoughts and Suggestions from an Aging Psychologist_
 
 Carrying around a heavy **burden** is tiring and adds to our perception of **stress**. Stress affects our thinking, emotions and physical being. Stress is likely to build up when we anticipate the need to make a change, experience the need for change or the actual change itself. The anticipation of making a change is typically couched in a time of fret and worry. This can be reduced (temporarily) by "sweeping it under the carpet," or by creating a plan. "If such-and-such happens, then I'll do such-and-such".
 
@@ -27,7 +27,7 @@ Separate from how it is labeled, the need for change often emerges out of an acu
 * The loss of a partner who has been "making up for" the other partner's diminishing functional ability.
 * Sensory loss/changes that affect the individual's social, vocational, or recreational life (What I refer to as the "living landscape").
 
-*Managing the actual change refers to Adaptation (A topic worthy of a post of its own).*
+_Managing the actual change refers to Adaptation (A topic worthy of a post of its own)._
 
 How one responds to the need for change in large part depends on the history if their depends in large part on the individual's **personality style** and on their history and **relationship to change**.
 

@@ -3,7 +3,7 @@ Date: 2022-04-27 10:30
 Tags: focus on, attitude
 Summary: Attitude is a cluster of thoughts that is reflected in a person’s cognition, feeling and behavior. A single thought can trigger many related thoughts. Over time this collection of thoughts reinforces the way we respond to something, or someone.
 
-Thoughts and Suggestions from an Aging Psychologist
+_Thoughts and Suggestions from an Aging Psychologist_
 
 Attitude is one of the words we think we know the meaning of, but it actually can be hard to define. So, let’s get the hard stuff over with and begin with a definition.
 

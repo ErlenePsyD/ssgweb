@@ -3,13 +3,13 @@ Date: 2022-02-14 9:40
 Tags: focus on, assumptions
 Summary: Some assumptions live in our minds, very quietly, and guide our lives -- but are not true. Embracing them increases our stress, especially so as we become older.
 
-Thoughts and Suggestions from an Aging Psychologist
+_Thoughts and Suggestions from an Aging Psychologist_
 
 Some assumptions live in our minds, very quietly, and guide our lives...but are not true.
 
-* *Life is fair*
-* *If you are good enough, patient enough, and try hard enough, things will turn out fine*
-* *Everything that happens is a consequence of something that is understandable*
+* _Life is fair_
+* _If you are good enough, patient enough, and try hard enough, things will turn out fine_
+* _Everything that happens is a consequence of something that is understandable_
 
 These assumptions are not only not true but embracing them increases our stress ... perhaps especially so as we become older.
 
@@ -19,7 +19,7 @@ A tough lesson to learn is that life is neither Fair nor Unfair. It often feels 
 
 People tend to focus on the Unfair much more than the Fair.
 
-*Did you know that? Pay attention to conversations between friends and you'll hear the "negatives" more frequently than the "positives;" the Unfair more than the Fair.*
+_Did you know that? Pay attention to conversations between friends and you'll hear the "negatives" more frequently than the "positives;" the Unfair more than the Fair._
 
 Underlying the Fair/Unfair assumption, there can often be found the Self-Blame assumption where whatever is not going well is attributed to our not being Good Enough.
 
@@ -27,16 +27,16 @@ Good Enough unfortunately tends to mean pretty much perfect; that we always stri
 
 As we move through life (also known as aging), we become bogged down by the weight of all these Shoulds and Oughts, and ultimately we carry around a heavy and tiring Burden.
 
-*Can you identify your major personal Shoulds and Oughts? Do you know where they came from? How long have they lived with you?*
+_Can you identify your major personal Shoulds and Oughts? Do you know where they came from? How long have they lived with you?_
 
 The "Everything that happens is understandable" assumption supports our illusion of control. Things we can understand feel a lot less scary than things we cannot understand. Especially scary are things that we cannot understand and that sneak up on us. Things that were not anticipated and yet have significant impact on our lives. We tend to expend considerable
 effort trying to understand things that are not understandable. This effort also adds to our sense of burden.
 
-*The truth is that things happen. Some things are inevitable (aging, for instance). Some things arise from our decisions and behaviors (careers and relationships, for instance). Some things just happen (pandemics come to mind).*
+_The truth is that things happen. Some things are inevitable (aging, for instance). Some things arise from our decisions and behaviors (careers and relationships, for instance). Some things just happen (pandemics come to mind)._
 
-*Some Things that Happen are predictable*
+_Some Things that Happen are predictable_
 
-*Some Things that Happen are under our control*
+_Some Things that Happen are under our control_
 
 *Some Things that Happen just happen("Things that go bump in the
 night").*

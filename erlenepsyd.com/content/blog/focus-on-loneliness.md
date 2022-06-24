@@ -71,7 +71,7 @@ What is helpful is "doing for others." Even a smile can make your day and mine (
 
 Consider taking a walk-in nature, or any way you can to be in a natural setting. One is never alone among the trees, or with flowers, birds, or animals. We are not the only living creature with whom to make connections and have relationships.
 
-I have found that even books about nature can be a comforting balm for transient melancholy.)
+I have found that even books about nature can be a comforting balm for transient melancholy.
 
 ## Activities for your Journal
 

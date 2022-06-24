@@ -1,11 +1,9 @@
-Title: Focus on Attitude
-Date: 2022-04-27 10:30
+Title: Focus on Loneliness
+Date: 2022-06-23 10:30
 Tags: focus on, loneliness
 Summary: Loneliness is a recognizable feeling that we all experience at times, an unpleasant feeling that incorporates feelings of sadness and anxiety.
 
-# Focus on: LONELINESS
-
-Thoughts and Suggestions from an Aging Psychologist
+_Thoughts and Suggestions from an Aging Psychologist_
 
 What do we mean by the term "Loneliness?" While different for each of us, I suspect that if we analyzed its components we would agree on certain common features.
 
@@ -23,6 +21,8 @@ Loneliness subsumes interpersonal referents. It reflects a discordance between t
 
 Simple sociograms (graphs depicting social relationship networks) do not complete the picture of an individual's loneliness. What matters most is that the connections and relationships one has **feel adequate** to the individual.
 
+![A lonely walk through the tall grass]({static}/images/matthew-henry-kq3MXXDGeOM-unsplash.jpg){: .image-process-crisp}
+
 ## Loneliness vs. Aloneness: A Big Difference
 
 Loneliness and Aloneness are distinctly different constructs.
@@ -31,9 +31,13 @@ Being alone does not mean that one is lonely.
 
 While **Loneliness** is an **unpleasant feeling** of sadness and angst reflecting a perceived absence of connections and supports, **Aloneness** is **not an unpleasant feeling**. It feels about right for the individual's comfort zone.
 
-Aloneness can be experienced as comfortable (not unpleasant to clearly pleasant) depending on many things like context ,time, and perceived need of relative or absolute solitude. In other words, the feeling is neither constant nor pervasive. There are, however, certain personality styles and disorders that are significantly marked by the need for solitude and avoidance of relationships. But for most, our need for aloneness and our need for connections varies, as do the opportunities for each. This juxtaposition of need and opportunity describes a 'goodness of fit' with our unique (at this time!) comfort zone.
+Aloneness can be experienced as comfortable (not unpleasant to clearly pleasant) depending on many things like context, time, and perceived need of relative or absolute solitude. In other words, the feeling is neither constant nor pervasive.
 
-Aloneness, then, is a description of one's awareness of being alone. If it is not 'excessive,' it is not uncomfortable or harmful. This is not true for Loneliness. Loneliness is a feeling, and feelings are subjective. The science is very clear that loneliness can contribute to many mental and physical health problems (morbidity), and to mortality. Older adults appear to be especially impacted by the negative effects of Loneliness.
+There are, however, certain personality styles and disorders that are significantly marked by the need for solitude and avoidance of relationships. But for most, our need for aloneness and our need for connections varies, as do the opportunities for each. This juxtaposition of need and opportunity describes a "goodness of fit" with our unique (at this time!) comfort zone.
+
+Aloneness, then, is a description of one's awareness of being alone. If it is not "excessive," it is not uncomfortable or harmful. This is not true for Loneliness. Loneliness is a feeling, and feelings are subjective.
+
+The science is very clear that loneliness can contribute to many mental and physical health problems (morbidity), and to mortality. Older adults appear to be especially impacted by the negative effects of Loneliness.
 
 ## What You Can Do
 
@@ -59,7 +63,9 @@ One can, and often does, feel lonely in the midst of an abundance of "others."
 
 When one feels lonely, there is often the urge to withdraw from people and activities. This is sadly counterproductive. Loneliness becomes bi-directional.
 
-What is helpful is 'doing for others.' Even a smile can make your day and mine (an 'other') feel a bit brighter. It also makes a connection (remember that word?). And never hold back on an honest complement. That's a certain win-win!
+What is helpful is "doing for others." Even a smile can make your day and mine (an "other") feel a bit brighter. It also makes a connection (remember that word?). And never hold back on an honest complement. That's a certain win-win!
+
+![A lonely path through the woods]({static}/images/william-daigneault-Omlu0KHlUiQ-unsplash.jpg){: .image-process-crisp .left}
 
 #### Nature
 
@@ -73,7 +79,7 @@ During your experience of loneliness:
 
 * What have you learned about yourself? You can turn even a negative experience into an opportunity to learn about life (a.k.a. wisdom).
 
-* Are you a person who is feels lonely when there are too few people around you?Many people discovered this 'self-truth' when disallowed from working at their workplace during the COVID pandemic (a.k.a.social personality).
+* Are you a person who is feels lonely when there are too few people around you?Many people discovered this "self-truth" when disallowed from working at their workplace during the COVID pandemic (a.k.a.social personality).
 
 * Are you likely to experience loneliness when a special person is not available?
 
@@ -88,3 +94,5 @@ During your experience of loneliness:
 You have **agency** that allows you to drill down to when, how, why your loneliness appears and feels -- and this provides a key to how to best respond.
 
 In the next post the focus will be on: THE VASTNESS OF NOW
+
+_Photo of woman in grass by [Matthew Henry](https://unsplash.com/@matthewhenry); path through woods by [William Daigneault](https://unsplash.com/es/@williamdaigneault); both on on Unsplash._

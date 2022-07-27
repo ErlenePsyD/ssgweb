@@ -26,7 +26,7 @@ cd erlenepsyd.com
 poetry shell
 ```
 
-If poetry reports any version issues, update it
+If poetry reports any version issues, update it:
 
 ```bash
 exit   # to leave the poetry shell environment

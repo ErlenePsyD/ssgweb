@@ -134,3 +134,6 @@ dmypy.json
 
 # Firebase cache
 .firebase
+
+# Pelican generated files
+/erlenepsyd.com/output/

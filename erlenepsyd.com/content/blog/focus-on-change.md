@@ -19,7 +19,7 @@ Question: Nature or Nurture?
 
 Answer: Most likely, both
 
-In large part this reflects how we think about the stressor, and how we label it, whether as a hassle, challenge, or threat. **Threats** are experienced as Unfair,Unexpected,and Dangerous. Threats contribute to a heavy stress burden. **Challenges** are more directly connected to the need to step out of our comfort zone where automatic thinking and behaving prevail. Challenges afford us the opportunity to grow and try on a new thought or behavior **Hassles**, are just that: The everyday little nuisances and annoyances that are irksome but not threatening. We know how to manage these.
+In large part this reflects how we think about the stressor, and how we label it, whether as a hassle, challenge, or threat. **Threats** are experienced as Unfair, Unexpected, and Dangerous. Threats contribute to a heavy stress burden. **Challenges** are more directly connected to the need to step out of our comfort zone where automatic thinking and behaving prevail. Challenges afford us the opportunity to grow and try on a new thought or behavior **Hassles**, are just that: The everyday little nuisances and annoyances that are irksome but not threatening. We know how to manage these.
 
 Separate from how it is labeled, the need for change often emerges out of an acute event, or at the direction of others. When the need is time sensitive it is less possible to suppress or put off. Consider, for example, these frequently occurring catalysts for change in older age:
 

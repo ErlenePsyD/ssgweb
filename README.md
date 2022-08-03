@@ -50,6 +50,20 @@ The problem: developing and testing Pelican works best with relative URLS -- in 
 
 Unfortunately, many of Pelican's plugins require absolute URLs, like the pelican-seo plugin.
 
+For example, Pelican allows you to force the use of relative URLS, by adding this line in pelicanconf.py on the `staging` branch:
+
+```python
+RELATIVE_URLS = True
+```
+
+Alternatively, you can set this value to False, like this, on the `production` branch:
+
+```python
+RELATIVE_URLS = False
+```
+
+This will generate SEO friendly absolute links and feeds, but only on the `production` branch.
+
 ## GitHub, branches, and .gitignore to the rescue
 
 One of the benefits of using Pelican for web development is that you can commit your work to a version control system like GitHub. In addition to being able to roll back to any saved version of your files, using GitHub means:
@@ -58,9 +72,13 @@ One of the benefits of using Pelican for web development is that you can commit 
 * you have a reliable offsite backup every time you push your work to GitHub;
 * you can always regenerate the site from a "known-good" version of the site.
 
+But, not every file in your project needs to be committed to GitHub.
+
 ### Generating the site
 
-When you run `pelican content` this generates site content in `ssgweb/erelenpsyd.com/output` -- these are the files that need to go on either the staging or production server. Note that all output files are excluded, via `.gitignore`, from the GitHub repo. The output files you generate only exist on your local development workstation.
+When you run `pelican content` this generates site content in `ssgweb/erelenpsyd.com/output` -- these are the files that need to go on either the staging or production server.
+
+Because you can re-create the ouput files any time, as long as you have the files in the `content` and `themes` folder, all output files are excluded, via `.gitignore`, from the GitHub repo. This means that the output files you generate only exist on your local development workstation.
 
 ## Working with the staging and production branches
 
@@ -79,32 +97,61 @@ These changes include:
 
 Before you commit your changes to the `staging` branch,
 
-1. check out the `staging` branch on your development workstation.
+1. Checkout the `staging` branch on your development workstation.
 2. Make your changes locally.
 3. Generate the site locally: `pelican content`
 4. Test the site locally: `pelican --autoreload --listen`
 
 ## Deploy to the Firebase staging server
 
-Once you've updated the site so it's ready for client review, push the edits to the Firebase staging server.
+Once you've updated the site so it's ready for client review, push the edits to the Firebase staging server. You can do this before or after you commit your changes to GitHub -- just be sure that `staging` is the currently checked out branch on your computer!
 
 ### Deploy to the staging server: firebase commands
 
-Enter these commands in the following order
+Enter these commands in the following order:
 
 ```bash
 firebase --version      # ensure firebase is working
 firebase login          # ensure you're authenticated 
-firebase use staging    # Use the stagin server
+firebase use staging    # Use the staging server
 firebase deploy         # deploy files to staging
 ```
 
+### Careful commits
+
+You should always try to group related files when you commit. For example, if you add a new Markdown (.md) post and add some new image files to that post, include all of these files in the same commit, since they're all related to adding the new post.
+
+Likewise, changes to documentation, like edits to this README.md file, should not be committed with changes to site content, as the two changes are unrelated.
+
+Finally, **always commit `pelicanconf.py` by itself** to make it easier to resolve any merge issues with the production branch.
+
 ## Testing the production branch
 
+Once you've received signoff from the client for the material on the staging server, you can merge the changes from `staging` to `production` with a GitHub Pull Request (PR).
+
+In most cases, this pull request should **not** include changes to `pelicanconf.py`
+
+After you've merged the PR from `staging` to `production` you can use Pelican to test the changes and then finally deploy the updated files to the production server.
+
+To test the production branch locally:
+
 1. Switch to the production branch.
-2. To test, uncomment: `RELATIVE_URLS = True`
-3. Make production-specific changes to `pelicanconf.py`
+2. To test, set: `RELATIVE_URLS = True` in `pelicanconf.py`
+3. Make any other production-specific changes to `pelicanconf.py`
 4. Generate site: `pelican content/`
 5. Test locally on `http://127.0.0.1:8000/` with `pelican --autoreload --listen`
 
 ## Deploy to the production server
+
+Once you're satisfied that the production branch is ready to deploy to the production server, follow these steps:
+
+1. Set: `RELATIVE_URLS = False` in `pelicanconf.py`
+2. Generate site: `pelican content/`
+3. Deploy the generated output to the production server using firebase.
+
+```bash
+firebase use production     # Use the production server
+firebase deploy             # deploy files to production
+```
+
+Now review the site in your favorite browser on the production web server: <https://erlenepsyd.com/>

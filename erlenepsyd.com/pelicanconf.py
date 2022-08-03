@@ -1,8 +1,11 @@
 AUTHOR = "Erlene Rosowsky"
 SITENAME = "the older self"
+# pelican-seo requires a site URL
 SITEURL = "https://erlenepsyd.com"
-
 PATH = "content"
+# Uncomment following line if you want document-relative URLs when developing
+RELATIVE_URLS = True
+
 
 TIMEZONE = "America/New_York"
 
@@ -28,14 +31,11 @@ SOCIAL = (("LinkedIn", "https://www.linkedin.com/in/erlene-rosowsky-91136431/"),
 
 DEFAULT_PAGINATION = False
 
-# Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
-
 THEME = "themes/myidea"
 
 # SEO settings
-SEO_REPORT = True  # generate report
-SEO_ENHANCER = True  #
+SEO_REPORT = True  # generate report, excluded by .gitignore
+SEO_ENHANCER = True  # These are the primary SEO features
 SEO_ENHANCER_OPEN_GRAPH = False  # False is the default value for this feature
 SEO_ENHANCER_TWITTER_CARDS = False  # False is the default value for this feature
 

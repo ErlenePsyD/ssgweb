@@ -41,4 +41,19 @@ pelican content
 pelican --autoreload --listen
 ```
 
-Generated content is in `ssgweb/erelenpsyd.com/output` and these are the files that need to go on the server.
+Generated content is in `ssgweb/erelenpsyd.com/output` and these are the files that need to go on either the staging or production server. Note that output files are excluded, via `.gitignore`, from the GitHub repo. The output files you generate only exist on your local development workstation.
+
+## Pushing files to Firebase
+
+Once you've updated the site so it's ready for client review, push the edits to the Firebase staging server.
+
+### Using the staging server
+
+Enter these commands in the following order
+
+```bash
+firebase --version      # ensure firebase is working
+firebase login          # ensure you're authenticated 
+firebase use staging    # Use the stagin server
+firebase deploy         # deploy files to staging
+```

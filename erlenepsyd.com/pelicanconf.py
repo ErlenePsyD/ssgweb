@@ -3,12 +3,10 @@ SITENAME = "the older self"
 # pelican-seo requires a site URL
 SITEURL = "https://erlenepsyd.com"
 PATH = "content"
-# Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
-
+# Set to False before deploying to production
+RELATIVE_URLS = False
 
 TIMEZONE = "America/New_York"
-
 DEFAULT_LANG = "en"
 
 # Feed generation is usually not desired when developing

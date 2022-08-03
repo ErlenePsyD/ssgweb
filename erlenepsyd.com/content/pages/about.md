@@ -1,7 +1,7 @@
 Title: about
 Date: 2022-03-04 10:40
 
-![A portrait of Erlene Rosowsky]({static}/images/Mom3.jpg){: .image-process-article-image .right}
+![A portrait of Erlene Rosowsky]({static}/images/mom3.jpg){: .image-process-article-image .right}
 
 The great challenge of aging, becoming old, is how to continue to feel like ones
 self even as many of the sustaining cues, from within and outside of the self, are

@@ -29,7 +29,7 @@ Dr. Casciani and I then covered how personality disorders did not end with the p
 
 He also asked about what works best when we interact with difficult personalities. I shared some insights and suggestions from my clinical experience -- for example, with individuals who are chronically suspicious, angry, impulsive, or exceptionally self-important.
 
-## Enjoy the show
+## Enjoy the podcast
 
 Listen to the full episode to learn more: [Personality Disorders in Older Adults: Insights from a Subject Matter Expert](https://livingto100.club/2022/06/13/personality-disorders-in-older-adults-insights-from-a-subject-matter-expert/).
 

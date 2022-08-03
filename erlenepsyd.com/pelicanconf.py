@@ -1,17 +1,12 @@
 AUTHOR = "Erlene Rosowsky"
 SITENAME = "the older self"
-# Uncomment for live site
-# SITEURL = "https://erlenepsyd.com"
-# Uncomment for staging server
-# SITEURL = "https://er-staging.web.app/"
-# Empty SITEURL creates relative links useful for local testing at http://127.0.0.1:8000/
-SITEURL = ""
-
-
+# pelican-seo requires a site URL
+SITEURL = "https://erlenepsyd.com"
 PATH = "content"
+# Set to False before deploying to production
+RELATIVE_URLS = False
 
 TIMEZONE = "America/New_York"
-
 DEFAULT_LANG = "en"
 
 # Feed generation is usually not desired when developing
@@ -34,14 +29,11 @@ SOCIAL = (("LinkedIn", "https://www.linkedin.com/in/erlene-rosowsky-91136431/"),
 
 DEFAULT_PAGINATION = False
 
-# Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
-
 THEME = "themes/myidea"
 
 # SEO settings
-SEO_REPORT = True  # generate report
-SEO_ENHANCER = True  #
+SEO_REPORT = True  # generate report, excluded by .gitignore
+SEO_ENHANCER = True  # These are the primary SEO features
 SEO_ENHANCER_OPEN_GRAPH = False  # False is the default value for this feature
 SEO_ENHANCER_TWITTER_CARDS = False  # False is the default value for this feature
 

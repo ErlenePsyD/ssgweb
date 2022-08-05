@@ -95,4 +95,4 @@ You have **agency** that allows you to drill down to when, how, why your lonelin
 
 In the next post the focus will be on: THE VASTNESS OF NOW
 
-_Photo of woman in grass by [Matthew Henry](https://unsplash.com/@matthewhenry); path through woods by [William Daigneault](https://unsplash.com/es/@williamdaigneault); both on on Unsplash._
+_Photo of woman in grass by [Matthew Henry](https://unsplash.com/@matthewhenry); path through woods by [William Daigneault](https://unsplash.com/es/@williamdaigneault); both on Unsplash._

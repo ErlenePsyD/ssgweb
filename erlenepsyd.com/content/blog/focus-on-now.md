@@ -7,7 +7,7 @@ _Thoughts and Suggestions from an Aging Psychologist_
 
 Focus on: THE VASTNESS OF NOW
 
-One day, I imagine that I shall design a watch. I have always had a passion for watches, and a special relationship with time itself. I suppose many of us Type-As do, as the awareness of time -- precious time, used time, wasted time -- tick continuously in our mind.
+One day, I imagine that I shall design a watch. I have always had a passion for watches, and a special relationship with time itself. I suppose many of us Type-As do, as the awareness of time -- precious time, used time, wasted time -- ticks continuously in our mind.
 
 My imagined watch will be a wonderful timepiece that will never need winding, charging, or batteries replaced.
 
@@ -27,7 +27,7 @@ Time itself is commonly understood and consistently and fairly distributed. We a
 
 We "did not have enough time," "never have the time," "ran out of time," "are running behind the clock," "need a 'time out,'" are "time limited", "are time deprived", etc. And in older age, the transition naturally occurs from when "time flies by" to "time weighs heavily on one's hands".
 
-Is the problem that "now" is such a tiny speck of time that makes it hard to grasp? I would propose just the opposite; rather that "now" is so vast as to make one feel totally untethered. By all thoughts connecting next time-elapsed (past) and anticipated (future). This can feel somehow akin to agoraphobia, where one experiences the dread and fear of being lost in an unfamiliar open expanse where you can neither escape nor or access help.
+Is the problem that "now" is such a tiny speck of time that makes it hard to grasp? I would propose just the opposite; rather that "now" is so vast as to make one feel totally untethered by all thoughts connecting next time-elapsed (past) and anticipated (future). This can feel somehow akin to agoraphobia, where one experiences the dread and fear of being lost in an unfamiliar open expanse where you can neither escape nor or access help.
 
 As we get older our relationship to time changes. While "middle age" could be defined as that point in time when one knows -- truly knows -- that lifetime elapsed exceeds lifetime anticipated. And that "old age" could mark that point in time when one knows -- truly knows -- that they are in the last stage of life, with all the memories, rights, privileges, challenges and pleasures therein.
 
@@ -46,7 +46,7 @@ _Hint: It's right where you are_
 1. Think about how you naturally apportion your time in the Past, Present, and Future, and when. Have you noticed change as you've become older?
 2. List your Shoulds and Oughts (S and Os) and identify which you tend to procrastinate or avoid. Note: S and O's can contribute to unnecessary beating oneself up. Cull them regularly and with a heavy hand.
 3. What can you Delete and say "so-long" to from the S and Os list? _A.k.a. Unhealthy S and Os._
-4. What can you ADD that can improve or enhance the quality of your life now? _A.k.a. Healthy S and Os._
+4. What can you add that can improve or enhance the quality of your life now? _A.k.a. Healthy S and Os._
 
 In the next post the focus will be on: CURIOSITY
 

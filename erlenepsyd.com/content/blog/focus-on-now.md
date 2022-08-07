@@ -27,7 +27,7 @@ Time itself is commonly understood and consistently and fairly distributed. We a
 
 We "did not have enough time," "never have the time," "ran out of time," "are running behind the clock," "need a 'time out,'" are "time limited", "are time deprived", etc. And in older age, the transition naturally occurs from when "time flies by" to "time weighs heavily on one's hands".
 
-Is the problem that "now" is such a tiny speck of time that makes it hard to grasp? I would propose just the opposite; rather that "now" is so vast as to make one feel totally untethered by all thoughts connecting next time-elapsed (past) and anticipated (future). This can feel somehow akin to agoraphobia, where one experiences the dread and fear of being lost in an unfamiliar open expanse where you can neither escape nor or access help.
+Is the problem that "now" is such a tiny speck of time that makes it hard to grasp? I would propose just the opposite; rather that "now" is so vast as to make one feel totally untethered by all thoughts connecting time-elapsed (past) and anticipated (future). This can feel somehow akin to agoraphobia, where one experiences the dread and fear of being lost in an unfamiliar open expanse where you can neither escape nor or access help.
 
 As we get older our relationship to time changes. While "middle age" could be defined as that point in time when one knows -- truly knows -- that lifetime elapsed exceeds lifetime anticipated. And that "old age" could mark that point in time when one knows -- truly knows -- that they are in the last stage of life, with all the memories, rights, privileges, challenges and pleasures therein.
 

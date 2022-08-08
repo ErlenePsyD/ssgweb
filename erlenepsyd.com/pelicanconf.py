@@ -6,7 +6,7 @@ SITENAME = "the older self"
 SITEURL = "https://erlenepsyd.com"
 PATH = "content"
 # Set to False before deploying to production
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 
 TIMEZONE = "America/New_York"
 DEFAULT_LANG = "en"

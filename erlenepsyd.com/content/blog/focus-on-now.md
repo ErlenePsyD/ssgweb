@@ -1,7 +1,9 @@
+---
 Title: Focus on Now
 Date: 2022-08-05 15:00
 Tags: focus on, time, now
 Summary: How we think about time can affect our psychology. Here are some tips to focus on the NOW.
+---
 
 _Thoughts and Suggestions from an Aging Psychologist_
 

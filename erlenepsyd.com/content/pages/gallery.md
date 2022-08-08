@@ -1,5 +1,7 @@
+---
 Title: gallery
 Date: 2022-03-24 8:40
+---
 
 ![Visit with a favorite person at an assisted living facility]({static}/images/img_3727.jpg){: .image-process-large-photo}
 

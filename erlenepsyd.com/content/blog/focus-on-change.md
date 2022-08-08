@@ -1,7 +1,9 @@
+---
 Title: Focus on Change
 Date: 2022-03-04 10:30
 Tags: focus on, change
 Summary: Stress is likely to build up when we anticipate the need to make a change, experience the need for change or the actual change itself. The anticipation of making a change is typically couched in a time of fret and worry.
+---
 
 _Thoughts and Suggestions from an Aging Psychologist_
 

@@ -135,6 +135,6 @@ dmypy.json
 # Firebase cache
 .firebase
 
-# Pelican generated files
-/erlenepsyd.com/output/
-/erlenepsyd.com/seo_report.html
+# Pelican generated files (no leading slash)
+erlenepsyd.com/output/
+erlenepsyd.com/seo_report.html

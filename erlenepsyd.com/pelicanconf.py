@@ -1,10 +1,12 @@
+from typing_extensions import TypeVarTuple
+
 AUTHOR = "Erlene Rosowsky"
 SITENAME = "the older self"
 # pelican-seo requires a site URL
 SITEURL = "https://erlenepsyd.com"
 PATH = "content"
 # Set to False before deploying to production
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 
 TIMEZONE = "America/New_York"
 DEFAULT_LANG = "en"
@@ -25,22 +27,35 @@ LINKS = (
 )
 
 # Social widget
-SOCIAL = (("LinkedIn", "https://www.linkedin.com/in/erlene-rosowsky-91136431/"),)
+SOCIAL = (
+    ("LinkedIn", "https://www.linkedin.com/in/erlene-rosowsky-91136431/"),
+)
 
 DEFAULT_PAGINATION = False
 
 THEME = "themes/myidea"
 
+# Generate typographic code
+# requires packages: typogrify, typing-extensions
+TYPOGRIFY = True
+TYPOGRIFY_DASHES = "oldschool_inverted"
+
 # SEO settings
 SEO_REPORT = True  # generate report, excluded by .gitignore
 SEO_ENHANCER = True  # These are the primary SEO features
 SEO_ENHANCER_OPEN_GRAPH = False  # False is the default value for this feature
-SEO_ENHANCER_TWITTER_CARDS = False  # False is the default value for this feature
+SEO_ENHANCER_TWITTER_CARDS = (
+    False  # False is the default value for this feature
+)
 
 IMAGE_PROCESS = {
     "thumb": {
         "type": "image",
-        "ops": ["crop 0 0 50% 50%", "scale_out 150 150 True", "crop 0 0 150 150"],
+        "ops": [
+            "crop 0 0 50% 50%",
+            "scale_out 150 150 True",
+            "crop 0 0 150 150",
+        ],
     },
     "article-image": {
         "type": "image",

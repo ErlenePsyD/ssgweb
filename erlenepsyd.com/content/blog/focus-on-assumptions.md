@@ -1,7 +1,9 @@
+---
 Title: Focus on Assumptions
 Date: 2022-02-14 9:40
 Tags: focus on, assumptions
 Summary: Some assumptions live in our minds, very quietly, and guide our lives -- but are not true. Embracing them increases our stress, especially so as we become older.
+---
 
 _Thoughts and Suggestions from an Aging Psychologist_
 

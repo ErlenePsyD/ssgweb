@@ -1,7 +1,9 @@
+---
 Title: Focus on Loneliness
 Date: 2022-06-23 10:30
 Tags: focus on, loneliness
 Summary: Loneliness is a recognizable feeling that we all experience at times, an unpleasant feeling that incorporates feelings of sadness and anxiety.
+---
 
 _Thoughts and Suggestions from an Aging Psychologist_
 
@@ -95,4 +97,4 @@ You have **agency** that allows you to drill down to when, how, why your lonelin
 
 In the next post the focus will be on: THE VASTNESS OF NOW
 
-_Photo of woman in grass by [Matthew Henry](https://unsplash.com/@matthewhenry); path through woods by [William Daigneault](https://unsplash.com/es/@williamdaigneault); both on on Unsplash._
+_Photo of woman in grass by [Matthew Henry](https://unsplash.com/@matthewhenry); path through woods by [William Daigneault](https://unsplash.com/es/@williamdaigneault); both on Unsplash._

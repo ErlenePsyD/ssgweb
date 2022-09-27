@@ -1,7 +1,7 @@
 ---
 Title: Focus on Curiosity
 Date: 2022-09-26 15:20
-Tags: focus on, curiousity, learning
+Tags: focus on, curiosity, learning
 Summary: Nurturing our capacity for CURIOSITY.
 ---
 

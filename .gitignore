@@ -138,3 +138,6 @@ dmypy.json
 # Pelican generated files (no leading slash)
 erlenepsyd.com/output/
 erlenepsyd.com/seo_report.html
+
+# Poetry files
+poetry.lock

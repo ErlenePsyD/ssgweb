@@ -38,7 +38,7 @@ Such self-talk slams the door on healthy, energizing curiosity.
 
 How is healthy curiosity supported? Often by self-talk such as:
 
-* "That's kind of different/neat/cool. I wonder..."
+* "That's kind of different/neat/cool. I wonder ..."
 * "I have no idea how/about (something). I'm going to look it up."
 * "The newspaper was reviewing a show at the (theatre/cinema/museum/etc.) I haven't been there for a long time. I'll ask if (name) would like to join me."
 * "I wonder how the local community program is doing, and if they could use a little help. I'll call and ask."
@@ -55,7 +55,7 @@ _Curiosity supports **Growth, Renewal, Transformation**_
 
 ### For your Journal
 
-Think about something that has been a long-time interest/passion of yours. Perhaps gardening, a handcraft, political advocacy, volunteerism, music... anything that has engaged you, fascinated you and inspired you.
+Think about something that has been a long-time interest/passion of yours. Perhaps gardening, a handcraft, political advocacy, volunteerism, music ... anything that has engaged you, fascinated you and inspired you.
 
 * How has this contributed to your growth?
 * How has your interest in this been renewed over time?
@@ -73,11 +73,11 @@ I have learned over time to rely on nature in simple, quiet ways in order to enc
 
 #### Sitting on a Rock
 
-I love sitting on a big rock to... just be. It feels so solid and grounded and timeless. Or if I'm in the city, I will sit on an available wall and allow the background hum of city noise to lull me into a relaxing trance where thoughts just float by unjudged. Ask yourself the question: "What stirs my curiosity?" And be open to what emerges.
+I love sitting on a big rock to ... just be. It feels so solid and grounded and timeless. Or if I'm in the city, I will sit on an available wall and allow the background hum of city noise to lull me into a relaxing trance where thoughts just float by unjudged. Ask yourself the question: "What stirs my curiosity?" And be open to what emerges.
 
 #### Leaning on a Tree
 
-There is something magical about leaning against the trunk of a large tree. It puts the size of the self in perspective. Leaning (actual leaning on) allows the transfer of one's burden to the living tree. The tree takes on some of our burden, and lightens our load, especially when the arbor provides a canopy of protection from the elements... life itself.
+There is something magical about leaning against the trunk of a large tree. It puts the size of the self in perspective. Leaning (actual leaning on) allows the transfer of one's burden to the living tree. The tree takes on some of our burden, and lightens our load, especially when the arbor provides a canopy of protection from the elements ... life itself.
 
 _A more recent favorite activity is:_
 
@@ -93,7 +93,7 @@ Some ideas:
     * Read a book to learn more.
     * Make a phone call to someone who you think is interested in that topic, maybe that person has some knowledge to share. Extra points for socialization here!
     * Find out if there are interest groups or activities in your community for your curiosity item.
-    * If you have a creative bent, think about what piqued your curiosity and sketch it or play it to music... or dance.
+    * If you have a creative bent, think about what piqued your curiosity and sketch it or play it to music ... or dance.
 
 At the end of your A New Day exercise, ask yourself:
 

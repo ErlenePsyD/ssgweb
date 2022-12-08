@@ -1,5 +1,5 @@
 ---
-Title: Focus on Aging Easier: 10 positives about being older
+Title: Ten positives about being older
 Date: 2022-12-08 12:15
 Tags: focus on, aging, positives
 Summary: 10 positives about being older.

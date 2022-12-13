@@ -7,7 +7,9 @@ Summary: Stress is likely to build up when we anticipate the need to make a chan
 
 _Thoughts and Suggestions from an Aging Psychologist_
 
-Carrying around a heavy **burden** is tiring and adds to our perception of **stress**. Stress affects our thinking, emotions and physical being. Stress is likely to build up when we anticipate the need to make a change, experience the need for change or the actual change itself. The anticipation of making a change is typically couched in a time of fret and worry. This can be reduced (temporarily) by "sweeping it under the carpet," or by creating a plan. "If such-and-such happens, then I'll do such-and-such".
+Carrying around a heavy **burden** is tiring and adds to our perception of **stress**. Stress affects our thinking, emotions and physical being. Stress is likely to build up when we anticipate the need to make a change, experience the need for change or the actual change itself.
+
+The anticipation of needing to make a change is often couched in a cloud of fret and worry until it becomes a genuine stressor. The truth is that the way we think about the need itself (to make a change) comes to define how we label it, whether as a Hassle, Challenge, or Threat. And these labels clearly affect how we feel and respond. Can we alter the label? Indeed, we can.
 
 ![A baby in grandpa's arms, held overhead]({static}/images/johnny-cohen-OxOxqLAWvE0-unsplash.jpg){: .image-process-crisp .left}
 

@@ -66,7 +66,7 @@ Do you feel that your "view of the world" has changed as you've aged? How would 
 
 How are your "survivorship skills" (aka "coping skills") serving you with the challenges you face? Have you learned new skills and tried them out? What can you say about this?
 
-Now that you are _your age here_, are you more self-accepting than when you were 25? 45? 60? 75?
+Now that you are (_your age here_), are you more self-accepting than when you were 25? 45? 60? 75?
 
 What are your "essential personality traits?" Have these been mostly constant through your life?
 

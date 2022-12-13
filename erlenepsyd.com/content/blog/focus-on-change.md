@@ -38,7 +38,7 @@ How one responds to the need for change in large part depends on the history if 
 As I see it, there are three major **change styles**: Preparers, Responders, Resisters.
 
 * **Preparers** are those who will think about what they will do at a certain time or under certain circumstances, and plan accordingly.
-* **Responders** are those will make changes, but on an "as needed" basis.
+* **Responders** are those who will make changes, but on an "as needed" basis.
 * **Resisters** are those who insist on carrying on "as is" even when doing so makes no sense and is often outright dangerous. These folks can be tough on families.
 
 As a clinician, it was always a red flag for me when someone would tell me at, say, age 80 that: "I might be 80, but I'm just the same as I was at 40." (It made me wonder what they have been doing for 40 years to defend against having been "touched" by the experience of living.)

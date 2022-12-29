@@ -25,6 +25,8 @@ Time: **NOW**
 
 ![Sand through the hourglass]({static}/images/aron-visuals-BXOXnQ26B7o-unsplash.jpg){: .image-process-crisp}
 
+How we think about time can affect our way of being in the world. We are encouraged to “be in the now”. And we ask: Where is Now? (Psst. It is right where you are.) As we age our relationship with time itself changes. Our Now time has often become cluttered with unhealthy Shoulds and Oughts that we carry forward unexamined even as they may have become irrelevant and unhealthy. We continue to beat ourselves up with Shoulds and Oughts that have expired or, at least, exceeded their freshness codes. It’s time Now to clear out the mind’s pantry and cull those Shoulds and Oughts that no longer serve us well. 
+
 Time itself is commonly understood and consistently and fairly distributed. We all -- each one of us -- have the same 24 hours every day. How we think about time and how we experience time, however, is unique to each of us and varies "from time to time." We invented the units and the language to talk about time. Our lives are lived against the backdrop of innumerable references to time. We think and talk in terms of time "all the time." Consider:
 
 We "did not have enough time," "never have the time," "ran out of time," "are running behind the clock," "need a 'time out,'" are "time limited", "are time deprived", etc. And in older age, the transition naturally occurs from when "time flies by" to "time weighs heavily on one's hands".

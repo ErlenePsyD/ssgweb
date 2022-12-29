@@ -2,7 +2,7 @@
 Title: Dr. R's latest podcast episode
 Date: 2022-07-28 8:10
 Tags: podcast, personality disorders, research
-Summary: Dr. R. discusses Personality Disorders in Older Adults: Insights from a Subject Matter Expert on Dr. Dr. Joe Casciani's podcast, Living to 100 Club
+Summary: Dr. R. discusses Personality Disorders in Older Adults: Insights from a Subject Matter Expert on Dr. Joe Casciani's podcast, Living to 100 Club
 ---
 
 ## Personality Disorders in Older Adults: Insights from a Subject Matter Expert

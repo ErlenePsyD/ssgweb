@@ -11,11 +11,7 @@ What do we mean by the term "Loneliness?" While different for each of us, I susp
 
 Let's see.
 
-Loneliness is a recognizable **feeling** that we all **experience** at times.
-
-It is an **unpleasant** feeling that incorporates feelings of **sadness** and **anxiety**.
-
-The feeling can appear as a discreet **episode**, a **bout of episodes**, or a protracted **phase**.
+Loneliness is a **feeling** that we all **experience** at times. It is an unpleasant feeling that incorporates feelings of **sadness**, **anxiety** and **helplessness**. Recognizing when you feel lonely and what is likely contributing to it are important keys to responding in helpful ways.
 
 Loneliness can become chronic and ultimately come to **define one's persona**, the individual's personality that is perceived by others.
 
@@ -65,7 +61,7 @@ One can, and often does, feel lonely in the midst of an abundance of "others."
 
 When one feels lonely, there is often the urge to withdraw from people and activities. This is sadly counterproductive. Loneliness becomes bi-directional.
 
-What is helpful is "doing for others." Even a smile can make your day and mine (an "other") feel a bit brighter. It also makes a connection (remember that word?). And never hold back on an honest complement. That's a certain win-win!
+What is helpful is "doing for others." Even a smile can make your day and mine (an "other") feel a bit brighter. It also makes a connection (remember that word?). And never hold back on an honest compliment. That's a certain win-win!
 
 ![A lonely path through the woods]({static}/images/william-daigneault-Omlu0KHlUiQ-unsplash.jpg){: .image-process-crisp .left}
 

@@ -83,17 +83,18 @@ _A more recent favorite activity is:_
 
 ### A (do something) New Day
 
-1.  Choose a day of the week where you will read the newspaper or listen to the radio and position yourself to **become curious.**
-2.  Identify what you are curious about. (Good use for your Journal here)
-3.  Follow up on one of your curiosity items.
+1. Choose a day of the week where you will read the newspaper or listen to the radio and position yourself to **become curious.**
+2. Identify what you are curious about. (Good use for your Journal here)
+3. Follow up on one of your curiosity items.
+
 Some ideas:
 
-    * Use the computer. Good morning, Google!
-    * Use a dictionary (do you still have one?) Use a book to learn more. If not, try Google!
-    * Read a book to learn more.
-    * Make a phone call to someone who you think is interested in that topic, maybe that person has some knowledge to share. Extra points for socialization here!
-    * Find out if there are interest groups or activities in your community for your curiosity item.
-    * If you have a creative bent, think about what piqued your curiosity and sketch it or play it to music ... or dance.
+* Use the computer. Good morning, Google!
+* Use a dictionary (do you still have one?) Use a book to learn more. If not, try Google!
+* Read a book to learn more.
+* Make a phone call to someone who you think is interested in that topic, maybe that person has some knowledge to share. Extra points for socialization here!
+* Find out if there are interest groups or activities in your community for your curiosity item.
+* If you have a creative bent, think about what piqued your curiosity and sketch it or play it to music ... or dance.
 
 At the end of your A New Day exercise, ask yourself:
 

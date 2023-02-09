@@ -5,7 +5,7 @@ Tags: focus on, time, now
 Summary: How we think about time can affect our psychology. Here are some tips to focus on the NOW.
 ---
 
-_Thoughts and Suggestions from an Aging Psychologist_
+_Thoughts and Suggestions from an Aging Psychologist._
 
 ## Focus on: THE VASTNESS OF NOW
 
@@ -52,6 +52,6 @@ Hint: _It's right where you are._
 3. What can you Delete and say "so-long" to from the S and Os list? _A.k.a. Unhealthy S and Os._
 4. What can you add that can improve or enhance the quality of your life now? _A.k.a. Healthy S and Os._
 
-In the [next post the focus will be on CURIOSITY]({filename}focus-on-curiosity.md)
+In the [next post the focus will be on **Curiosity**](focus-on-curiosity.md).
 
 _Photo of hourglass by [Aron Visuals](https://unsplash.com/@aronvisuals); on Unsplash._

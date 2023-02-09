@@ -2,7 +2,7 @@
 Title: Ten positives about being older (Part 1)
 Date: 2022-12-08 12:15
 Tags: focus on, aging, positives
-Summary: 10 positives about being older, with a focus on the first three, related to prespective.
+Summary: 10 positives about being older, focusing on prespective.
 ---
 
 _Thoughts and Suggestions from an Aging Psychologist._
@@ -17,9 +17,9 @@ I'll cover the first three in depth in this post. Here goes!
 
 The Older Adult:
 
-**1. Has a broader, deeper view of the world
-2. Has a more extensive and developed repertoire of how to survive in the world
-3. Is more comfortable with, and accepting of, who they are**
+1. **Has a broader, deeper view of the world**
+2. **Has a more extensive and developed repertoire of how to survive in the world**
+3. **Is more comfortable with, and accepting of, who they are**
 4. Feels less pressure to achieve major goals (or even create them)
 5. Experiences grandparenting as more pleasurable and less stressful than parenting was
 6. Discovers that they can still feel passion, amazement and awe

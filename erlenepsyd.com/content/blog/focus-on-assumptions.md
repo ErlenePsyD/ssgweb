@@ -5,7 +5,7 @@ Tags: focus on, assumptions
 Summary: Some assumptions live in our minds, very quietly, and guide our lives -- but are not true. Embracing them increases our stress, especially so as we become older.
 ---
 
-_Thoughts and Suggestions from an Aging Psychologist_
+_Thoughts and Suggestions from an Aging Psychologist._
 
 Some assumptions live in our minds, very quietly, and guide our lives...but are not true.
 
@@ -50,7 +50,7 @@ I hope you have a _You Journal_. If not, I suggest you get one, or create one. Y
 * List One thing that this S/O is influencing (your behavior) currently
 * If (a big "if") the S/O was put into a box, sealed and set aside, list Three Things that would be different for you in terms of your Thinking, Emotions, Physical Self
 
-In the next post the focus will be on CHANGE.
+In the [next post the focus will be on **Change**](focus-on-change.md).
 
 Dr.R.
 

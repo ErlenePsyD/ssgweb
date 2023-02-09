@@ -5,7 +5,7 @@ Tags: focus on, curiosity, learning
 Summary: Nurturing our capacity for CURIOSITY.
 ---
 
-_Thoughts and Suggestions from an Aging Psychologist_
+_Thoughts and Suggestions from an Aging Psychologist._
 
 We tend think about little children as being bubbling and filled with curiosity. And cats seemingly to be governed by curiosity. Just set out an open shopping bag on the floor and a cat will find it an irresistible invitation to explore.
 
@@ -101,6 +101,6 @@ At the end of your A New Day exercise, ask yourself:
 * "What pleased me about this exercise?"
 * And perhaps: "What would please me right now?"
 
-In the next posts, the focus will be on: AGING EASIER (a series).
+In the [next posts, the focus will be on **Aging Easier**, a series](10-positives-about-being-older-1.md).
 
-_Photo by <a href="https://unsplash.com/@kylenieber">Kyle Nieber</a> on <a href="https://unsplash.com/">Unsplash</a>_
+_Photo by [Kyle Nieber](https://unsplash.com/@kylenieber) on [Unsplash](https://unsplash.com/)_

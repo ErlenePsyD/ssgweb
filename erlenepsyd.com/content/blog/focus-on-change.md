@@ -5,7 +5,7 @@ Tags: focus on, change
 Summary: Stress is likely to build up when we anticipate the need to make a change, experience the need for change or the actual change itself. The anticipation of making a change is typically couched in a time of fret and worry.
 ---
 
-_Thoughts and Suggestions from an Aging Psychologist_
+_Thoughts and Suggestions from an Aging Psychologist._
 
 Carrying around a heavy **burden** is tiring and adds to our perception of **stress**. Stress affects our thinking, emotions and physical being. Stress is likely to build up when we anticipate the need to make a change, experience the need for change or the actual change itself.
 
@@ -51,6 +51,6 @@ Think of a mid-range stressor (5 on the scale)
 * What can you think ("say in your head") to lower it to a 2?
 * What is your relationship to change? Are you a Preparer, Responder, Resister? What do you think happens when long-term partners enter into older age with different styles in their relationship to change?
 
-In the next post the focus will be on: ATTITUDE
+In the [next post the focus will be on **Attitude**](focus-on-attitude.md).
 
 _Photo by [Johnny Cohen](https://unsplash.com/@jonecohen) on [Unsplash](https://unsplash.com/)_

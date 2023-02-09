@@ -1,10 +1,11 @@
 ---
 Title: Ten positives about being older (Part 2)
-Date: 2022-12-08 12:15
+Date: 2023-02-07 12:15
 Tags: focus on, aging, positives
-Summary: 10 positives about being older.
+Summary: 10 positives about being older, focusing on aging easier.
 ---
-_Thoughts and Suggestions from an Aging Psychologist_
+
+_Thoughts and Suggestions from an Aging Psychologist._
 
 ## Part 2: Aging Easier
 
@@ -17,10 +18,10 @@ The Older Adult:
 1. Has a broader, deeper view of the world
 2. Has a more extensive and developed repertoire of how to survive in the world
 3. Is more comfortable with, and accepting of, who they are
-**4. Feels less pressure to achieve major goals (or even create them)
-5. Experiences grandparenting as more pleasurable and less stressful than parenting was
-6. Discovers that they can still feel passion, amazement and awe
-7. Can still learn (this capacity doesn’t age out)**
+4. **Feels less pressure to achieve major goals (or even create them)**
+5. **Experiences grandparenting as more pleasurable and less stressful than parenting was**
+6. **Discovers that they can still feel passion, amazement and awe**
+7. **Can still learn (this capacity doesn’t age out)**
 8. Is able to forgive more liberally and authentically
 9. Can be more active in the community (old ones and new ones)
 10. Can relinquish membership in the “gotta run” generation (because they don’t “gotta”)
@@ -115,7 +116,7 @@ My children at times have teased me saying that I would get excited to learn abo
 * In what ways do you see that your goals have changed as you've aged?
 * Have you developed new goals? What are they?
 * Did you discover a new passion during this "pandemic period"? How has this discovery affected your life?
-* Do you have a new interest (aka "curiosity") on the horizon? How do you intend to pursue this?
+* Do you have a new interest (a.k.a. "curiosity") on the horizon? How do you intend to pursue this?
 
 ### Right Now
 
@@ -123,4 +124,4 @@ My children at times have teased me saying that I would get excited to learn abo
 * When you don't want to do something, nicely decline the invitation. It's your life, energy and time.
 * Learn something new … and then pass it along to another. Do this every day! Start now: What did you learn today?
 
-The next Post will focus on Positives #8-10
+The next Post will focus on Positives #8-10.

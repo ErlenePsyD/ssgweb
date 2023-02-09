@@ -124,4 +124,4 @@ My children at times have teased me saying that I would get excited to learn abo
 * When you don't want to do something, nicely decline the invitation. It's your life, energy and time.
 * Learn something new … and then pass it along to another. Do this every day! Start now: What did you learn today?
 
-The next Post will focus on Positives #8-10.
+The next post will focus on Positives #8-10.

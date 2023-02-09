@@ -2,12 +2,12 @@
 Title: Focus on Now
 Date: 2022-08-05 15:00
 Tags: focus on, time, now
-Summary: How we think about time can affect our psychology. Here are some tips to focus on the NOW.
+Summary: How we think about time can affect our psychology. Here are some tips to focus on the Now.
 ---
 
 _Thoughts and Suggestions from an Aging Psychologist._
 
-## Focus on: THE VASTNESS OF NOW
+## Focus on: The Vastness of Now
 
 One day, I imagine that I shall design a watch. I have always had a passion for watches, and a special relationship with time itself. I suppose many of us Type-As do, as the awareness of time -- precious time, used time, wasted time -- ticks continuously in our mind.
 
@@ -52,6 +52,6 @@ Hint: _It's right where you are._
 3. What can you Delete and say "so-long" to from the S and Os list? _A.k.a. Unhealthy S and Os._
 4. What can you add that can improve or enhance the quality of your life now? _A.k.a. Healthy S and Os._
 
-In the [next post the focus will be on **Curiosity**](focus-on-curiosity.md).
+In the [next post the focus will be on **Curiosity**]({filename}focus-on-curiosity.md).
 
 _Photo of hourglass by [Aron Visuals](https://unsplash.com/@aronvisuals); on Unsplash._

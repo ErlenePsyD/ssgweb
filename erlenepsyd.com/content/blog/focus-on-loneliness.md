@@ -91,6 +91,6 @@ During your experience of loneliness:
 
 You have **agency** that allows you to drill down to when, how, why your loneliness appears and feels -- and this provides a key to how to best respond.
 
-In the [next post the focus will be on **The Vastness of Now**](focus-on-now.md).
+In the [next post the focus will be on **The Vastness of Now**]({filename}focus-on-now.md).
 
 _Photo of woman in grass by [Matthew Henry](https://unsplash.com/@matthewhenry); path through woods by [William Daigneault](https://unsplash.com/es/@williamdaigneault); both on Unsplash.

@@ -2,7 +2,7 @@
 Title: Focus on Curiosity
 Date: 2022-09-26 15:20
 Tags: focus on, curiosity, learning
-Summary: Nurturing our capacity for CURIOSITY.
+Summary: Nurturing our capacity for Curiosity.
 ---
 
 _Thoughts and Suggestions from an Aging Psychologist._
@@ -101,6 +101,6 @@ At the end of your A New Day exercise, ask yourself:
 * "What pleased me about this exercise?"
 * And perhaps: "What would please me right now?"
 
-In the [next posts, the focus will be on **Aging Easier**, a series](10-positives-about-being-older-1.md).
+In the [next posts, the focus will be on **Aging Easier**, a series]({filename}10-positives-about-being-older-1.md).
 
 _Photo by [Kyle Nieber](https://unsplash.com/@kylenieber) on [Unsplash](https://unsplash.com/)_

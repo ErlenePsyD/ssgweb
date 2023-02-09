@@ -69,7 +69,6 @@ Think of an occasion in the past when you have automatically responded to someth
 
 When you’re feeling cranky and de-energized, what are your best go-to “techniques” you use to brighten your spirit and :attitude? Enter these in your journal, creating an ever-expanding list.
 
-In the [next post the focus will be on: **Loneliness**](focus-on-loneliness.md).
+In the [next post the focus will be on: **Loneliness**]({filename}focus-on-loneliness.md).
 
-_Photo by [Chaz McGregor](https://unsplash.com/@chazmcgregor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@chazmcgregor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
-  
+_Photo by [Chaz McGregor](https://unsplash.com/@chazmcgregor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@chazmcgregor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._

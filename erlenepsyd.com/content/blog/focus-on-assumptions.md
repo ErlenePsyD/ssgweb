@@ -50,7 +50,7 @@ I hope you have a _You Journal_. If not, I suggest you get one, or create one. Y
 * List One thing that this S/O is influencing (your behavior) currently
 * If (a big "if") the S/O was put into a box, sealed and set aside, list Three Things that would be different for you in terms of your Thinking, Emotions, Physical Self
 
-In the [next post the focus will be on **Change**](focus-on-change.md).
+In the [next post the focus will be on **Change**]({filename}focus-on-change.md).
 
 Dr.R.
 

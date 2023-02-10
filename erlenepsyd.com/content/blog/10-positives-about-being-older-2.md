@@ -30,7 +30,7 @@ The Older Adult:
 
 I received some very nice feedback from folks who appreciated the questions posed as a writing activity in the last post, [Part 1: Perspective]({filename}10-positives-about-being-older-1.md). I believe that a good question is a gift. It enables a person to clarify their thoughts and feelings and be more able to clearly communicate them.
 
-I hope you've tried to address some of the questions, too. If you have, which ones did you chose? Did you find that your view of the world has changed with age? Are your usual coping skills working well in addressing the challenges you face at your age now? Are you more self-accepting than when you were younger? Do you recognize your dominant personality traits as "good old' me," or have you found that these have changed?
+I hope you've tried to address some of the questions, too. If you have, which ones did you chose? Did you find that your view of the world has changed with age? Are your usual coping skills working well in addressing the challenges you face at your age now? Are you more self-accepting than when you were younger? Do you recognize your dominant personality traits as "good ol' me," or have you found that these have changed?
 
 Five questions. Five gifts.
 
@@ -57,13 +57,15 @@ In older age, new types of goals can emerge that have a somehow different feel f
 
 We discover that in older age we reminisce quite a lot.
 
-Reminiscing is not simply a passive "passing of time", but rather a purposeful activity toward achieving a cohesive tapestry that is uniquely our life; one that is mostly acceptable and at times quite lovely.
+Reminiscing is not simply a passive "passing of time," but rather a purposeful activity toward achieving a cohesive tapestry that is uniquely our life; one that is mostly acceptable and at times quite lovely.
 
 Reminiscing is universal. It is an activity practiced by older adults everywhere.
 
 ## The older adult experiences grandparenting as more pleasurable and less stressful than parenting was
 
-Becoming a grandparent is a role we cannot plan for and work towards, but one we often wish for. It is a role that depends others, our children, to enable us to become a grandparent.
+Becoming a grandparent is a role we cannot plan for and work towards, but one we often wish for. It is a role that depends on others, our children, to enable us to become a grandparent.
+
+![An elderly aging woman and child sharing a loving hug]({static}/images/ekaterina-shakharova-L4nwL3195U0-unsplash.jpg){: .image-process-crisp}
 
 While becoming a grandparent is usually experienced as a true blessing, this is not necessarily so in instances where the parent is unable to care for the child, and the grandparents are recruited, legally or by default, to assume the parental role.
 
@@ -91,7 +93,7 @@ We may have recognized that some of our energies were being spent on old passion
 
 ## The older adult can still learn -- the ability to learn doesn't age out
 
-There are truly normal, age-related changes. We know that with age, we become slower … physically and our speed of processing. We often develop sensory diminutions, especially for hearing and vision. We find that we move about more slowly. This is true and real, and even so … we can still learn.
+There are truly normal, age-related changes. We know that with age we become slower -- physically and our speed of processing. We often develop sensory diminutions, especially for hearing and vision. We find that we move about more slowly. This is true and real, and even so … we can still learn.
 
 Getting new learning "in" might take more time than when we were young and getting it "out" as well. I suspect that most of us have experienced the time lag to retrieve names, well-learned information and common words (the "tip of the tongue" phenomena). I surely have!
 
@@ -125,3 +127,5 @@ My children at times have teased me saying that I would get excited to learn abo
 * Learn something new … and then pass it along to another. Do this every day! Start now: What did you learn today?
 
 The next post will focus on Positives #8-10.
+
+_Photo by [Ekaterina Shakharova](https://unsplash.com/@minigirl) on [Unsplash](https://unsplash.com/s/photos/young-and-old)._

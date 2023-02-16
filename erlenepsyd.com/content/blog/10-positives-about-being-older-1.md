@@ -28,11 +28,13 @@ The Older Adult:
 9. Can be more active in the community (old ones and new ones)
 10. Can relinquish membership in the "gotta run" generation (because they don't "gotta")
 
-![An elderly aging woman and child sharing a loving hug]({static}/images/ekaterina-shakharova-L4nwL3195U0-unsplash.jpg){: .image-process-crisp}
+![Two elderly aging women sharing a friendly hug]({static}/images/artyom-kabajev-_aduPjJvDx4-unsplash.jpg){: .image-process-crisp}
 
 ## The Older Adult has a broader, deeper view of the world
 
 I suspect that this expanded worldview is at the core of the presumed "wisdom of older age." Unless one lives in a bubble, one has had the same number of years' experience precisely matching one's age. As we live those years, we process them and come to our unique understanding of the world and our place in it. I think that making a livable peace with the world, and even being able to find some humor in the surreal, helps us to accommodate what we can, and accept what we must.
+
+![An elderly woman meditates with a serene expression]({static}/images/danie-franco-A6O7pgc7vHg-unsplash.jpg){: .image-process-crisp}
 
 ## The Older Adult has a more extensive and developed repertoire of how to survive in the world
 
@@ -40,9 +42,13 @@ Having a variety of coping strategies in our response backpack is enormously hel
 
 We do tend to become "more like ourselves" in our thoughts, feelings and behaviors as we age. Those who have developed a broad repertoire of strategies are often in a better position to respond adaptively to problems and demands.
 
+![An elderly woman in glasses with a gentle, serene smile]({static}/images/parej-richard-nCfU1fsBHcY-unsplash.jpg){: .image-process-crisp}
+
 To "respond adaptively" means that the person is able to get their needs met and avoid excess distress. Also important is one's ability to choose which coping strategy to use.
 
 There is an old saying that "If you have a hammer, everything looks like a nail." The sturdy older adult not only has access to a range of coping "tools", but also has the ability to select wisely from among them. They might even choose not to pound on the nail at all, but rather to adjust their position so as not to rub up against it.
+
+![An elderly Cuban woman holds a small white ceramic cup with a contemplative smile]({static}/images/mehmet-turgut-kirkgoz-sdB8Yi-R0Qk-unsplash.jpg){: .image-process-crisp}
 
 ## The Older Adult is more comfortable with, and accepting of, who they are
 

@@ -116,6 +116,12 @@ firebase login          # ensure you're authenticated
 firebase use staging    # Use the staging server
 firebase deploy         # deploy files to staging
 ```
+**Note**: if you  have any problem with the `use` command, your authorization token may have expired. Simply log out and log in again, like this:
+
+```
+firebase logout
+firebase login  
+```
 
 ### Careful commits
 

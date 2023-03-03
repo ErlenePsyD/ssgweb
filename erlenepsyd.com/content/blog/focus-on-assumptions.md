@@ -5,7 +5,7 @@ Tags: focus on, assumptions
 Summary: Some assumptions live in our minds, very quietly, and guide our lives -- but are not true. Embracing them increases our stress, especially so as we become older.
 ---
 
-_Thoughts and Suggestions from an Aging Psychologist_
+_Thoughts and Suggestions from an Aging Psychologist._
 
 Some assumptions live in our minds, very quietly, and guide our lives...but are not true.
 
@@ -31,19 +31,17 @@ As we move through life (also known as aging), we become bogged down by the weig
 
 _Can you identify your major personal Shoulds and Oughts? Do you know where they came from? How long have they lived with you?_
 
-The "Everything that happens is understandable" assumption supports our illusion of control. Things we can understand feel a lot less scary than things we cannot understand. Especially scary are things that we cannot understand and that sneak up on us. Things that were not anticipated and yet have significant impact on our lives. We tend to expend considerable
-effort trying to understand things that are not understandable. This effort also adds to our sense of burden.
+The "everything that happens is understandable" assumption supports our illusion of control. Things we can understand feel a lot less scary than things we cannot understand.
+
+Especially scary are things that we cannot understand and that sneak up on us, things that were not anticipated and yet have significant impact on our lives. We tend to expend considerable effort trying to understand things that are not understandable. This effort also adds to our sense of burden.
 
 _The truth is that things happen. Some things are inevitable (aging, for instance). Some things arise from our decisions and behaviors (careers and relationships, for instance). Some things just happen (pandemics come to mind)._
 
-_Some Things that Happen are predictable_
+* Some Things that Happen are predictable
+* Some Things that Happen are under our control
+* Some Things that Happen just happen -- "Things that go bump in the night"
 
-_Some Things that Happen are under our control_
-
-*Some Things that Happen just happen("Things that go bump in the
-night").*
-
-I hope you have a You Journal. If not, I suggest you get one, or create one. You are worth it.
+I hope you have a _You Journal_. If not, I suggest you get one, or create one. You are worth it.
 
 ## An Activity for Your Journal
 
@@ -52,7 +50,7 @@ I hope you have a You Journal. If not, I suggest you get one, or create one. You
 * List One thing that this S/O is influencing (your behavior) currently
 * If (a big "if") the S/O was put into a box, sealed and set aside, list Three Things that would be different for you in terms of your Thinking, Emotions, Physical Self
 
-In the next post the focus will be on: CHANGE.
+In the [next post the focus will be on **Change**]({filename}focus-on-change.md).
 
 Dr.R.
 

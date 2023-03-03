@@ -5,9 +5,11 @@ SITENAME = "the older self"
 # pelican-seo requires a site URL
 SITEURL = "https://erlenepsyd.com"
 PATH = "content"
+STATIC_PATHS = ["images", "images/favicon.ico"]
+EXTRA_PATH_METADATA = {"images/favicon.ico": {"path": "favicon.ico"}}
 # Set to False before deploying to production
 RELATIVE_URLS = True
-
+FAVICON = "images/favicon.ico"
 TIMEZONE = "America/New_York"
 DEFAULT_LANG = "en"
 
@@ -25,6 +27,21 @@ LINKS = (
     ("cv", "/pages/cv.html"),
     ("blog", "/category/blog.html"),
 )
+
+# Sitemap Settings
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "articles": 0.6,
+        "indexes": 0.6,
+        "pages": 0.5,
+    },
+    "changefreqs": {
+        "articles": "monthly",
+        "indexes": "daily",
+        "pages": "monthly",
+    },
+}
 
 # Social widget
 SOCIAL = (

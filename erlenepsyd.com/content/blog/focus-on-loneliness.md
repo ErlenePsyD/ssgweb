@@ -5,7 +5,7 @@ Tags: focus on, loneliness
 Summary: Loneliness is a recognizable feeling that we all experience at times, an unpleasant feeling that incorporates feelings of sadness and anxiety.
 ---
 
-_Thoughts and Suggestions from an Aging Psychologist_
+_Thoughts and Suggestions from an Aging Psychologist._
 
 What do we mean by the term "Loneliness?" While different for each of us, I suspect that if we analyzed its components we would agree on certain common features.
 
@@ -91,6 +91,6 @@ During your experience of loneliness:
 
 You have **agency** that allows you to drill down to when, how, why your loneliness appears and feels -- and this provides a key to how to best respond.
 
-In the next post the focus will be on: THE VASTNESS OF NOW
+In the [next post the focus will be on **The Vastness of Now**]({filename}focus-on-now.md).
 
-_Photo of woman in grass by [Matthew Henry](https://unsplash.com/@matthewhenry); path through woods by [William Daigneault](https://unsplash.com/es/@williamdaigneault); both on Unsplash._
+_Photo of woman in grass by [Matthew Henry](https://unsplash.com/@matthewhenry); path through woods by [William Daigneault](https://unsplash.com/es/@williamdaigneault); both on Unsplash.

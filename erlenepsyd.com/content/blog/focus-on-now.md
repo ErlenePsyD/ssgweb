@@ -2,12 +2,12 @@
 Title: Focus on Now
 Date: 2022-08-05 15:00
 Tags: focus on, time, now
-Summary: How we think about time can affect our psychology. Here are some tips to focus on the NOW.
+Summary: How we think about time can affect our psychology. Here are some tips to focus on the Now.
 ---
 
-_Thoughts and Suggestions from an Aging Psychologist_
+_Thoughts and Suggestions from an Aging Psychologist._
 
-Focus on: THE VASTNESS OF NOW
+## Focus on: The Vastness of Now
 
 One day, I imagine that I shall design a watch. I have always had a passion for watches, and a special relationship with time itself. I suppose many of us Type-As do, as the awareness of time -- precious time, used time, wasted time -- ticks continuously in our mind.
 
@@ -25,7 +25,7 @@ Time: **NOW**
 
 ![Sand through the hourglass]({static}/images/aron-visuals-BXOXnQ26B7o-unsplash.jpg){: .image-process-crisp}
 
-How we think about time can affect our way of being in the world. We are encouraged to “be in the now”. And we ask: Where is Now? (Psst. It is right where you are.) As we age our relationship with time itself changes. Our Now time has often become cluttered with unhealthy Shoulds and Oughts that we carry forward unexamined even as they may have become irrelevant and unhealthy. We continue to beat ourselves up with Shoulds and Oughts that have expired or, at least, exceeded their freshness codes. It’s time Now to clear out the mind’s pantry and cull those Shoulds and Oughts that no longer serve us well. 
+How we think about time can affect our way of being in the world. We are encouraged to “be in the now”. And we ask: Where is Now? (Psst. It is right where you are.) As we age our relationship with time itself changes. Our Now time has often become cluttered with unhealthy Shoulds and Oughts that we carry forward unexamined even as they may have become irrelevant and unhealthy. We continue to beat ourselves up with Shoulds and Oughts that have expired or, at least, exceeded their freshness codes. It’s time Now to clear out the mind’s pantry and cull those Shoulds and Oughts that no longer serve us well.
 
 Time itself is commonly understood and consistently and fairly distributed. We all -- each one of us -- have the same 24 hours every day. How we think about time and how we experience time, however, is unique to each of us and varies "from time to time." We invented the units and the language to talk about time. Our lives are lived against the backdrop of innumerable references to time. We think and talk in terms of time "all the time." Consider:
 
@@ -43,7 +43,7 @@ The moment, the now, becomes instantly obscured (another time reference) by the 
 
 ## Focus on the Now
 
-_Hint: It's right where you are_
+Hint: _It's right where you are._
 
 ### For your Journal -- and what you can do
 
@@ -52,6 +52,6 @@ _Hint: It's right where you are_
 3. What can you Delete and say "so-long" to from the S and Os list? _A.k.a. Unhealthy S and Os._
 4. What can you add that can improve or enhance the quality of your life now? _A.k.a. Healthy S and Os._
 
-In the next post the focus will be on: CURIOSITY
+In the [next post the focus will be on **Curiosity**]({filename}focus-on-curiosity.md).
 
 _Photo of hourglass by [Aron Visuals](https://unsplash.com/@aronvisuals); on Unsplash._

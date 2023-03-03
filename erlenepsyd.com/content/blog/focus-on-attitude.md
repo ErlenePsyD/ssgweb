@@ -5,7 +5,7 @@ Tags: focus on, attitude
 Summary: Attitude is a cluster of thoughts that is reflected in a person’s cognition, feeling and behavior. A single thought can trigger many related thoughts. Over time this collection of thoughts reinforces the way we respond to something, or someone.
 ---
 
-_Thoughts and Suggestions from an Aging Psychologist_
+_Thoughts and Suggestions from an Aging Psychologist._
 
 Attitude is one of the words we think we know the meaning of, but it actually can be hard to define. So, let’s get the hard stuff over with and begin with a definition.
 
@@ -60,7 +60,8 @@ There is no simple correction for this. To think there is does not make sense. B
 
 ## Activities for Your Journal
 
-_“No feeling is final” (M.R. Rilke)_
+_“No feeling is final.”_
+-- M.R. Rilke
 
 No attitude is final either. They are based on judgements we hold to be true, but sometimes they are not true, and they are almost always incomplete.
 
@@ -68,7 +69,6 @@ Think of an occasion in the past when you have automatically responded to someth
 
 When you’re feeling cranky and de-energized, what are your best go-to “techniques” you use to brighten your spirit and :attitude? Enter these in your journal, creating an ever-expanding list.
 
-In the next post the focus will be on: LONELINESS
+In the [next post the focus will be on: **Loneliness**]({filename}focus-on-loneliness.md).
 
-_Photo by [Chaz McGregor](https://unsplash.com/@chazmcgregor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@chazmcgregor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
-  
+_Photo by [Chaz McGregor](https://unsplash.com/@chazmcgregor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@chazmcgregor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._

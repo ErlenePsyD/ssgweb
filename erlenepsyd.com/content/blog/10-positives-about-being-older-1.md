@@ -1,11 +1,11 @@
 ---
-Title: Ten positives about being older
+Title: Ten positives about being older (Part 1)
 Date: 2022-12-08 12:15
 Tags: focus on, aging, positives
-Summary: 10 positives about being older.
+Summary: 10 positives about being older, focusing on prespective.
 ---
 
-_Thoughts and Suggestions from an Aging Psychologist_
+_Thoughts and Suggestions from an Aging Psychologist._
 
 ## Part 1: Perspective
 
@@ -17,18 +17,18 @@ I'll cover the first three in depth in this post. Here goes!
 
 The Older Adult:
 
-1.  Has a broader, deeper view of the world
-2.  Has a more extensive and developed repertoire of how to survive in the world
-3.  Is more comfortable with, and accepting of, who they are
-4.  Feels less pressure to achieve major goals (or even create them)
-5.  Experiences grandparenting as more pleasurable and less stressful than parenting was
-6.  Discovers that they can still feel passion, amazement and awe
-7.  Can still learn (this capacity doesn't age out)
-8.  Is able to forgive more liberally and authentically
-9.  Can be more active in the community (old ones and new ones)
+1. **Has a broader, deeper view of the world**
+2. **Has a more extensive and developed repertoire of how to survive in the world**
+3. **Is more comfortable with, and accepting of, who they are**
+4. Feels less pressure to achieve major goals (or even create them)
+5. Experiences grandparenting as more pleasurable and less stressful than parenting was
+6. Discovers that they can still feel passion, amazement and awe
+7. Can still learn (this capacity doesn't age out)
+8. Is able to forgive more liberally and authentically
+9. Can be more active in the community (old ones and new ones)
 10. Can relinquish membership in the "gotta run" generation (because they don't "gotta")
 
-![An elderly aging woman and child sharing a loving hug]({static}/images/ekaterina-shakharova-L4nwL3195U0-unsplash.jpg){: .image-process-crisp}
+![Two elderly aging women sharing a friendly hug]({static}/images/artyom-kabajev-_aduPjJvDx4-unsplash.jpg){: .image-process-crisp}
 
 ## The Older Adult has a broader, deeper view of the world
 
@@ -74,7 +74,6 @@ What are your "essential personality traits?" Have these been mostly constant th
 
 Smile broadly and greet anyone you see with a smile and a wave. Everyone loves to see a smiling face and a friendly wave.
 
-The next post will focus on Positives #4-7.
+The [next post will focus on Positives 4 - 7, all about aging easier]({filename}10-positives-about-being-older-2.md).
 
-_Photo by <a href="https://unsplash.com/@minigirl">Ekaterina Shakharova</a> on <a href="https://unsplash.com/s/photos/young-and-old">Unsplash</a>_
-  
+_Photo by [Artyom Kabajev](https://unsplash.com/@artfilm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/_aduPjJvDx4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_

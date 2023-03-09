@@ -117,6 +117,13 @@ firebase use staging    # Use the staging server
 firebase deploy         # deploy files to staging
 ```
 
+**Note**: if you have any problem with the `use` command, your authorization token may have expired. Simply log out and log in again, like this:
+
+```
+firebase logout
+firebase login  
+```
+
 ### Careful commits
 
 You should always try to group related files when you commit. For example, if you add a new Markdown (.md) post and add some new image files to that post, include all of these files in the same commit, since they're all related to adding the new post.

@@ -28,17 +28,17 @@ The Older Adult:
 
 ## Pandemic Passions
 
-From feedback I've received it appears that the last post might have introduced a new term: _pandemic passion_. I've heard from a number of folks who report having explored activities during that time when we were all hunkered down as much as possible trying to avoid contagion.
+From feedback I've received, it appears that the last post might have introduced a new term: _pandemic passion_. I've heard from a number of folks who report having explored activities during that time when we were all hunkered down as much as possible trying to avoid contagion.
 
 Activities that could be done in the safety of one's personal space were at a premium. These were often a variety of crafts, some previously enjoyed, while others were totally new activities. Exploring new recipes and cuisines was popular, for example.
 
-Jigsaw puzzles appeared to have had a resurgence then too. Did you know that doing jigsaw puzzles are good brain exercise? If not, you do now, so this makes one new learning for today!
+Jigsaw puzzles appeared to have had a resurgence then too. Did you know that doing jigsaw puzzles is good brain exercise? If not, you do now, so this makes one new learning for today!
 
 Others reported that the cocooning allowed their inner artist to emerge, to get a chance to be expressed. One person reported that she, at age 74, for the first time, took up water coloring, accompanied and guided by YouTube tutorials.
 
 Music, too, was often noted (pun intended). People report having returned to the piano, mercifully kept in tune over the many years since the now-adult children ended lessons.
 
-But across all activities what was frequently mentioned was that during the pandemic years, a full three years by my count, people had the time to invest in "new" activities, because the isolation denied them access to their pre-COVID activities outside of their cocoon.
+But across all activities, what was frequently mentioned was that during the pandemic years, a full three years by my count, people had the time to invest in "new" activities, because the isolation denied them access to their pre-COVID activities outside of their cocoon.
 
 Consider also the time freed up because we were not able to do our usual errands. This created lots of free time, and more than a little nastiness and boredom.) I also sensed a perceived need for activities to alleviate the fears, worries, and angst that we were experiencing during this time; something to capture our attention, engender positive excitement, and work off nervous energy. ( Peloton made a fortune from this.
 
@@ -51,6 +51,8 @@ Over time, some of these activities became a solid passion for us … a pandemic
 * End altogether?
 
 I would like to hear from you about this.
+
+![A person working on a puzzle]({static}/images/ryoji-iwata-5siQcvSxCP8-unsplash.jpg){: .image-process-crisp}
 
 ## The older adult is able to forgive more liberally and authentically
 
@@ -68,15 +70,15 @@ A useful metaphor is that aging, becoming old, is like being in a boat on unchar
 
 In order to facilitate a safe crossing, we need to lighten our load as best we can. We are wise enough now to know that emotions, especially those of anger and resentment, weigh heavily and are especially burdensome.
 
-* Can we now off load some of them?
+* Can we now offload some of them?
 * Are they worth the extra burden to carry forward and threaten the journey?
 * Are there those experiences we can forgive, let go of, and lighten our load?
 
 ## The older adult can be more active in the community
 
-When we speak of community what do we think of? It often refers to the town we live in, our neighborhood, or perhaps our place of worship. Community refers actually to any gathering of individuals who share a common interest, goal or connections. What is central to its meaning is a sense of belonging. Belonging implies the individual's intent to attachment and commit to a particular group.
+When we speak of community, what do we think of? It often refers to the town we live in, our neighborhood, or perhaps our place of worship. Community refers actually to any gathering of individuals who share a common interest, goal or connections. What is central to its meaning is a sense of belonging. Belonging implies the individual's intent to attachment and commit to a particular group.
 
-When we are in the over-booked, hectic-paced, industrious mid-life years, "belonging" is associated with a time commitment, a luxury we cannot afford. The older adult, however, often has the advantage not only of time, but also of knowing committing the resources of time energy and interest will most meaningfully match one's values at this stage of life.
+When we are in the over-booked, hectic-paced, industrious mid-life years, "belonging" is associated with a time commitment, a luxury we cannot afford. The older adult, however, often has the advantage not only of time, but also of knowing that committing the resources of time, energy, and interest will most meaningfully match one's values at this stage of life.
 
 > Belonging is a real need. Take this time to reach out and find a community for you.
 
@@ -96,17 +98,17 @@ Newton's First Law of Motion states, in part, "a body in motion … will remain 
 
 The older adult can count on several "forces" to whittle away at the "free time" we actually have, unless we are vigilant and set boundaries.
 
-If we do not, errands and medical appointments, along with a natural lessening of energy (and on grey, dreary days, "oomph)" will silently, stealthily take up our available time.
+If we do not, errands and medical appointments, along with a natural lessening of energy (and on grey, dreary days, "oomph") will silently, stealthily take up our available time.
 
 Time is a precious personal commodity to be respected and apportioned wisely. The other personal commodities are energy and financial resources.
 
-> All through life we need to be mindful of how we use these precious resources to be our best selves and live our best lives
+> All through life we need to be mindful of how we use these precious resources to be our best selves and live our best lives.
 
 Their availability varies over the life course.
 
-When we are young adults there is typically an abundance of ready energy, time feels endless, but, alas, we are "barely making it" financially. As we move through mid-life, we have energy and, if we're fortunate, are reasonably solvent fiscally, but sorely time- strapped.
+When we are young adults, there is typically an abundance of ready energy, time feels endless, but, alas, we are "barely making it" financially. As we move through mid-life, we have energy and, if we're fortunate, are reasonably solvent fiscally, but sorely time-strapped.
 
-This is the life stage of peak responsibilities and commitments; the peak "gotta to run" stage. In older age, we have the time -- sometimes too much time -- and again if we are fortunate, adequate discretionary funds.
+This is the life stage of peak responsibilities and commitments; the peak "gotta run" stage. In older age, we have the time -- sometimes too much time -- and again if we are fortunate, adequate discretionary funds.
 
 But, alas, energy has come to be of limited supply. All through life we need to be mindful of how we use these precious resources in order to be our best selves and live our best lives.
 
@@ -118,9 +120,12 @@ But, alas, energy has come to be of limited supply. All through life we need to 
 * Did you relinquish your membership in the "gotta run" generation?
 * When? Was it a mindful decision? How did it go for you?
 * Are you still in the "gotta run" stage?
-* Did you choose to be? Did it "just happen"?(see: Newton note).Is it working for you?
+* Did you choose to be? Did it "just happen"? (See: Newton note). Is it working for you?
 * How do you apportion your time?
 * How do you protect your time?
 * Is time "flying by?"
-* Is time "weighing heavy?"
+* Is time "weighing heavily?"
 * Does time feel "pretty much okay?"
+
+_Photo by [Ryoji Iwata](https://unsplash.com/es/@ryoji__iwata) on [Unsplash](https://unsplash.com/photos/5siQcvSxCP8)._
+  

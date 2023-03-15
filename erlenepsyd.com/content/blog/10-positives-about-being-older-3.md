@@ -40,7 +40,7 @@ Music, too, was often noted (pun intended). People report having returned to the
 
 But across all activities, what was frequently mentioned was that during the pandemic years, a full three years by my count, people had the time to invest in "new" activities, because the isolation denied them access to their pre-COVID activities outside of their cocoon.
 
-Consider also the time freed up because we were not able to do our usual errands. This created lots of free time, and more than a little nastiness and boredom.) I also sensed a perceived need for activities to alleviate the fears, worries, and angst that we were experiencing during this time; something to capture our attention, engender positive excitement, and work off nervous energy. ( Peloton made a fortune from this.
+Consider also the time freed up because we were not able to do our usual errands. This created lots of free time, and more than a little nastiness and boredom. I also sensed a perceived need for activities to alleviate the fears, worries, and angst that we were experiencing during this time; something to capture our attention, engender positive excitement, and work off nervous energy. Peloton made a fortune from this.
 
 Over time, some of these activities became a solid passion for us … a pandemic passion with legs and staying power.
 
@@ -76,7 +76,7 @@ In order to facilitate a safe crossing, we need to lighten our load as best we c
 
 ## The older adult can be more active in the community
 
-When we speak of community, what do we think of? It often refers to the town we live in, our neighborhood, or perhaps our place of worship. Community refers actually to any gathering of individuals who share a common interest, goal or connections. What is central to its meaning is a sense of belonging. Belonging implies the individual's intent to attachment and commit to a particular group.
+When we speak of community, what do we think of? It often refers to the town we live in, our neighborhood, or perhaps our place of worship. Community refers actually to any gathering of individuals who share a common interest, goal or connections. What is central to its meaning is a sense of belonging. Belonging implies the individual's intent to attach and commit to a particular group.
 
 When we are in the over-booked, hectic-paced, industrious mid-life years, "belonging" is associated with a time commitment, a luxury we cannot afford. The older adult, however, often has the advantage not only of time, but also of knowing that committing the resources of time, energy, and interest will most meaningfully match one's values at this stage of life.
 
@@ -84,7 +84,7 @@ When we are in the over-booked, hectic-paced, industrious mid-life years, "belon
 
 At this point we are able to recognize intuitively what we need. Belonging is often at the core of that need, and socialization meets it.
 
-The data on socialization is compelling. We know that we need meaningful socialization to support our mental and physical health. We know that when it is inadequate, its absence harmful. People _need_ to come together in community to share life.
+The data on socialization is compelling. We know that we need meaningful socialization to support our mental and physical health. We know that when it is inadequate, its absence is harmful. People _need_ to come together in community to share life.
 
 Belonging is a real need. Take this time to consider reaching out and find a community for you. Then connect with it; commit to it and belong.
 

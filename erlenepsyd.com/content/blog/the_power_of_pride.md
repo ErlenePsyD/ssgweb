@@ -11,6 +11,8 @@ Summary:  Pride, while often perceived negatively, actually stems from positive 
 
 As a grandparent, I have felt full of pride at all sorts of achievements by my grandchildren, whether these were academic, athletic, leadership, or creative achievements -- any number of which for some reason seem to have involved dried pasta and glue on paper plates. One memorable musical achievement involved a nearly stringless violin. Talk about pride!
 
+![A grandmother in a red apron and a gray sweatshirt kneads bread dough, standing over her toddler-aged granddaughter, who is helping her enthusiastically]({static}/images/christian-bowen-TOKVE7PNwAc-unsplash.jpg){: .image-process-crisp .right}
+
 > "A life well lived and well-loved provides limitless opportunities for pride, filling a generous well."
 
 ## Celebrating Others' Success, But Not Our Own?
@@ -69,7 +71,9 @@ When you are finished, respond to these questions:
 3. What were the types of items on your list? (For example: traits, behaviors, achievements, acquisitions, professional achievements, domestic achievements, family-related, personal care goals, spiritual growth, creative efforts, financial achievements?)
 4. Did the activity flow easily?
 5. Did you experience any resistance?
-5. Describe your feelings when you began to create the list.
-6. Describe your feelings when you completed the activity.
+6. Describe your feelings when you began to create the list.
+7. Describe your feelings when you completed the activity.
 
 Reflect on any "take-home" messages from this activity.
+
+_Photo by [Christian Bowen](https://unsplash.com/@chrishcush?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/TOKVE7PNwAc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_

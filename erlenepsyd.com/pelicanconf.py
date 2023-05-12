@@ -1,5 +1,3 @@
-from typing_extensions import TypeVarTuple
-
 AUTHOR = "Erlene Rosowsky"
 SITENAME = "the older self"
 # pelican-seo requires a site URL

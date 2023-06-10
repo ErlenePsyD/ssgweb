@@ -7,15 +7,17 @@ Summary: Inspired by Popeye's self-acceptance, learn the importance of embracing
 
 ## Thoughts and Suggestions from an Aging Psychologist
 
-As a child, I was a huge fan of Popeye the Sailor Man. Looking back, I realize that Popeye might have been my first crush. I adored everything about him -- his sailor outfit, crooked smile, even the oversized nautical tattoo on his muscled arm. I admired his love for spinach, which gave him super strength, and the affection he displayed for his girlfriend, Olive Oil.
+As a child, I was a huge fan of Popeye the Sailor Man. Looking back, I realize that Popeye might have been my first crush. I adored everything about him -- his sailor outfit, crooked smile, even the oversized nautical tattoo on his muscled arm. I admired his love for spinach, which gave him super strength, and the affection he displayed for his girlfriend, Olive Oyl.
 
-Now, I can see that Popeye was way ahead of his time, depending on Olive Oil for strength and his cool tattoo for courage. His swagger suggested self-assuredness, but it was never presumptive or mean-spirited. I loved how Popeye would sing for everyone to hear: “I yam what I am and dats what I yam.” This tune later reminded me of the goals of psychotherapy.
+Now, I can see that Popeye was way ahead of his time, depending on Olive Oyl for strength and his cool tattoo for courage. His swagger suggested self-assuredness, but it was never presumptive or mean-spirited. I loved how Popeye would sing for everyone to hear: “I yam what I am and dats what I yam.” This tune later reminded me of the goals of psychotherapy.
 
 > “I yam what I am and dats what I yam” - Popeye the Sailor Man
 
 ## The Meaning of Self-Acceptance
 
 Popeye’s ditty provides a perfect working definition of self-acceptance: to know oneself, accept oneself, and be comfortable letting others know who you are.
+
+![Popeye the Sailor Man flexes his impressive forearm to show off his anchor tattoo]({static}/images/852494_nestination_popeye-the-sailor-man-tight.png){: .image-process-crisp .left}
 
 As we age, we remain recognizably "the same," albeit older. However, we often resist accepting our older selves, attempting to remain the same "me" we have always identified with.
 
@@ -50,6 +52,8 @@ Let's think about our childhood superheroes.
 
 For instance, Popeye, when first created, was possibly in his mid-thirties. He'd had many adventures and sailed the seas, but he hadn't settled into middle-age. I worry about how he would fare as an older man, especially as his signature tune seems to suggest acceptance of the self at a younger age.
 
-Should he re-emerge, I would hope that his creator gives him the experiences and strategies needed to accept inevitable change. I'd like Popeye to keep spinach in his diet and Olive Oil in his life. As for the pipe? I'm not so sure.
+Should he re-emerge, I would hope that his creator gives him the experiences and strategies needed to accept inevitable change. I'd like Popeye to keep spinach in his diet and Olive Oyl in his life. As for the pipe? I'm not so sure.
 
 > "We continue to change even as we age. Believe and remember that the new version of you is still you."
+
+_Popeye the Sailor Man image by Nestination on [Newgrounds](https://www.newgrounds.com/art/view/nestination/popeye-the-sailor-man)._

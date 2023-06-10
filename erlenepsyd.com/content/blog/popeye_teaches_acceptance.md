@@ -31,7 +31,7 @@ However, at some point, we consider ourselves "grown up," assume change is over,
 
 ## Understanding Resistance to Change
 
-Change can be resisted for several reasons: Energy, Anxiety, and Vanity.
+Change is often resisted for several reasons: Energy, Anxiety, and Vanity.
 
 1. **Energy:** Change requires energy while repetition conserves it. Even small changes can take effort, while larger changes, such as moving homes, can be exhausting. As we age, we learn to apportion our energy more wisely than we did in our youth.
 

@@ -15,7 +15,7 @@ I've learned the importance of being prepared to cope with the challenges of a c
 
 Firstly, let's understand what "crummy" is and what it is not. Feeling crummy is not a response to a major life event, challenge, or trauma. That would be considered a major feeling, not "crummy."
 
-![A lonely woman sits at the end of a dock overlooking a lake with fog-shrouded mountains in the background]({static}/images/paola-chaaya-eAkjzXCU0p0-unsplash.jpg){: .image-process-article-image .right
+![A lonely woman sits at the end of a dock overlooking a lake with fog-shrouded mountains in the background]({static}/images/paola-chaaya-eAkjzXCU0p0-unsplash.jpg){: .image-process-large-photo}
 
 Crummy describes a sensation of being slightly off your game in a negative direction. It is a disconcerting feeling of not being entirely in sync. Your mood might be "down," but not in the deep blue range. Energy levels are low, movements may be a bit slower than usual, there might be a minor brain fog and perhaps some audible sighing. If a reset button existed, it would be highly welcome when you start the day feeling crummy.
 

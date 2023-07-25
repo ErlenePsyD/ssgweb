@@ -1,8 +1,8 @@
 ---
 Title: The Art of Managing Tough Times: Crafting Your Crummy Day Toolkit
 Date: 2023-07-21 18:22
-Tags: Crummy day, soothing, reflection, productivity, nature, pleasure, dancing, self-care, socialization, reading, learning
-Summary: We all face crummy days, but we can deal with them effectively by creating a personal "Crummy Day Toolkit." This involves recognizing your discomfort, finding calming behaviors that aren't harmful, and reflecting on your reactions. Tactics such as engaging in small, manageable tasks, taking a nature walk, indulging in sensory pleasures, dancing, self-care routines, selective socialization, and leisure reading can significantly transform your day.
+Tags: Crummy day, reaction, response, learning from
+Summary: We all face crummy days, but we can deal with them effectively by creating a personal "Crummy Day Toolkit." Recognizing your discomfort, reflecting on your go-to reactions and arming yourself with customized tools can significantly transform your day.
 ---
 
 ## What to Do on a Crummy Day

@@ -1,13 +1,13 @@
 ---
 Title: Living Life Between the Raindrops
 Date: 2023-08-28 20:15
-Tags: challenges, wisdom, aging, companionship, unpredictability, perspective.
+Tags: wisdom, aging, companionship, unpredictability
 Summary: Rain reminds us of life's unpredictability, but with preparation and companionship, we can find joy between the challenges and embrace each moment.
 ---
 
 _Thoughts and Suggestions from an Aging Psychologist._
 
-## Raindrops of Memory
+## Memories of Raindrops
 
 Do you remember the childhood ditty "Rain, rain, go away? Come again another day. Little Sandy wants to play"? I wonder if we chanted it while jumping rope. Perhaps my mother sang it to me when I complained about the rain ruining my outdoor adventure.
 
@@ -19,15 +19,15 @@ When I whined about the rain to my grandmother, she would stop whatever she was 
 
 ## Rain's Universal Influence
 
-Rain is a fact of life. With the looming threat of climate change affecting everyone, everywhere, rain has become an even more prevalent topic of discussion. Regardless of whether it's perceived as a blessing or a curse, a desperate need or a threat to existence, its importance permeates all societies. Yet, as a global community, we've struggled to agree on the reality of climate change, let alone unite to address it.
+Rain is a fact of life. With the looming threat of climate change affecting everyone, everywhere, rain is an even more pressing topic of discussion. Regardless of whether it's perceived as a blessing or a curse, a desperate need or a threat to existence, rain's signficance permeates all societies.
 
-## Wisdom of the Ages
+## Wisdom from the Storms of the Past
 
-The age-old advice "Save for a rainy day" urges us to be prepared for unexpected challenges. It warns that unpredictable hardships — just as inevitable as sunny or cloudy days — will certainly arise.
+The age-old advice "Save for a rainy day" urges us to be prepared for unexpected challenges. It warns that unpredictable hardships — just as inevitable as sunny or [crummy]({filename}the_crummy_day_toolkit.md), cloudy days — will certainly arise.
 
-Winnie the Pooh, ever the optimist, counsels us to go out into the rain and "play in the puddles." Sometimes we just don't have the necessary protection to avoid the rain, or courage to go out and play. Yet, between surrendering to the storm and playing in it blithely, we can find a vast array of potential responses.
+Winnie the Pooh, ever the optimist, counsels us to go out into the rain and "play in the puddles." Sometimes we just don't have the necessary gear to protect us from the rain, or courage to go out and play. Yet, between surrendering to the storm and playing in it blithely, we can discover a vast range of potential responses.
 
-Equipped with even modest raingear and a pinch of courage, we can reassure ourselves: the rain is fleeting, the sun will return, and soon enough, we'll once again be able to play in the puddles.
+Equipped with even modest raingear and a pinch of courage, we can reassure ourselves: the rain is fleeting, the sun will return, and soon enough, we'll once again be able to splash in the puddles.
 
 > "You're braver than you believe, stronger than you seem, and smarter than you think."
 
@@ -35,7 +35,11 @@ Equipped with even modest raingear and a pinch of courage, we can reassure ourse
 
 ## The Changing Tides of Age
 
-As we mature, we encounter evolving challenges: the fading of sensory sharpness, the diminishing of speed, strength, and vitality. The loss of significant roles and relationships, some deeply cherished, often hit us hard — far more than any "rain gear" could shield.
+As we age, we encounter evolving challenges: the fading of sensory sharpness, the diminishing of speed, strength, and vitality.
+
+The loss of significant roles and relationships, some precious and intimate, often flood over us — far more than any "rain gear" could protect us from. These losses, while usual, are unpredictable.
+
+## When we have a rainy day, we need our friends
 
 Pooh relies on his best friend, Piglet, when the inevitable rain happens, whether this be raindrops or torrents.
 
@@ -43,11 +47,11 @@ Pooh relies on his best friend, Piglet, when the inevitable rain happens, whethe
 
 -- Piglet
 
-Aging inevitably leads to the dwindling of our circle of companions, right when life's storms frequent and sometimes even redefine our existence. It's during these periods that we most yearn for a companion—primarily to stand by us and empathize.
+Aging inevitably leads to the dwindling of our circle of companions, right when life's storms frequent and sometimes even redefine our existence. It's during these times when we need a friend, to be with us and try to understand.
 
 > "Live Your Best Life Between the Raindrops."
 
-- Dr. R.
+-- Dr. R.
 
 ## ACTIVITY: Embracing Connection
 

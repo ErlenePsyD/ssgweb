@@ -17,6 +17,8 @@ Do you remember the childhood ditty "Rain, rain, go away? Come again another day
 
 When I whined about the rain to my grandmother, she would stop whatever she was doing, look me straight in the eye, and firmly declare, "You are not made of spun sugar. Go outside. You will not melt in the rain." To this day, I credit my solid ego to her unwavering directness.
 
+![A little boy in a yellow coat and blue boots jumps into a puddle]({static}/images/kenny-eliason-puddle-jumper-square-unsplash.jpg){: .image-process-large-photo}
+
 ## Rain's Universal Influence
 
 Rain is a fact of life. With the looming threat of climate change affecting everyone, everywhere, rain is an even more pressing topic of discussion. Regardless of whether it's perceived as a blessing or a curse, a desperate need or a threat to existence, rain's signficance permeates all societies.
@@ -47,7 +49,7 @@ Pooh relies on his best friend, Piglet, when the inevitable rain happens, whethe
 
 -- Piglet
 
-Aging inevitably leads to the dwindling of our circle of companions, right when life's storms frequent and sometimes even redefine our existence. It's during these times when we need a friend, to be with us and try to understand.
+Aging inevitably leads to the dwindling of our circle of companions, right when life's storms are frequent and sometimes even redefine our existence. It's during these times when we need a friend, to be with us and try to understand.
 
 > "Live Your Best Life Between the Raindrops."
 
@@ -60,3 +62,5 @@ Aging inevitably leads to the dwindling of our circle of companions, right when 
 - Reach out to a friend
 - Be a friend
 - Make a friend
+
+_Photo by [Kenny Eliason](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/photos/TtlSPDneJgM)_

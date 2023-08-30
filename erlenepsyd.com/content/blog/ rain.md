@@ -51,7 +51,7 @@ Pooh relies on his best friend, Piglet, when the inevitable rain happens, whethe
 
 -- Piglet
 
-Aging inevitably leads to the dwindling of our circle of companions, right when life's storms are frequent and sometimes even redefine our existence. It's during these times when we need a friend, to be with us and try to understand.
+Aging inevitably leads to the dwindling of our circle of companions, right when life's storms are frequent and sometimes even redefine our existence. It's during these times when we need a friend to be with us and try to understand.
 
 > "Live Your Best Life Between the Raindrops."
 

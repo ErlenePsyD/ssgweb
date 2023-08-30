@@ -31,6 +31,8 @@ Winnie the Pooh, ever the optimist, counsels us to go out into the rain and "pla
 
 Equipped with even modest raingear and a pinch of courage, we can reassure ourselves: the rain is fleeting, the sun will return, and soon enough, we'll once again be able to splash in the puddles.
 
+![A young child trudges through a puddle on a country road]({static}/images/daiga-ellaby-6JyG95hQIIM-unsplash.jpg){: .image-process-large-photo .right}
+
 > "You're braver than you believe, stronger than you seem, and smarter than you think."
 
 -- Winnie the Pooh
@@ -63,4 +65,7 @@ Aging inevitably leads to the dwindling of our circle of companions, right when 
 - Be a friend
 - Make a friend
 
-_Photo by [Kenny Eliason](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/photos/TtlSPDneJgM)_
+## Photo Credits
+
+- _Photo of boy jumping into a puddle by [Kenny Eliason](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/photos/TtlSPDneJgM)_
+- _Photo of girl walking through a puddle by [Daiga Ellaby](https://unsplash.com/@daiga_ellaby) on [Unsplash](https://unsplash.com/photos/6JyG95hQIIM)_

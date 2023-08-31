@@ -11,7 +11,7 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 Do you remember the childhood ditty "Rain, rain, go away? Come again another day. Little Sandy wants to play"? I wonder if we chanted it while jumping rope. Perhaps my mother sang it to me when I complained about the rain ruining my outdoor adventure.
 
-![Piglet gazes down from his home in a tree to watch the rain and floodwaters below]({static}/images/winnie-the-pooh_146.png){: .image-process-article-image .left}
+![A young child trudges through a puddle on a country road]({static}/images/daiga-ellaby-6JyG95hQIIM-unsplash.jpg){: .image-process-large-photo .right}
 
 > "When life throws you a rainy day, play in the puddles."
 
@@ -31,8 +31,6 @@ Winnie the Pooh, ever the optimist, counsels us to go out into the rain and "pla
 
 Equipped with even modest raingear and a pinch of courage, we can reassure ourselves: the rain is fleeting, the sun will return, and soon enough, we'll once again be able to splash in the puddles.
 
-![A young child trudges through a puddle on a country road]({static}/images/daiga-ellaby-6JyG95hQIIM-unsplash.jpg){: .image-process-large-photo .right}
-
 > "You're braver than you believe, stronger than you seem, and smarter than you think."
 
 -- Winnie the Pooh
@@ -46,6 +44,8 @@ The loss of significant roles and relationships, some precious and intimate, oft
 ## When we have a rainy day, we need our friends
 
 Pooh relies on his best friend, Piglet, when the inevitable rain happens, whether this be raindrops or torrents.
+
+![Piglet gazes down from his home in a tree to watch the rain and floodwaters below]({static}/images/winnie-the-pooh_146.png){: .image-process-article-image .left}
 
 > "If you have a little problem, I could try to lend a hand and if you're feeling sad, just tell me and I'll try to understand."
 
@@ -67,5 +67,5 @@ Aging inevitably leads to the dwindling of our circle of companions, right when 
 
 ## Photo Credits
 
-- _Image of Piglet in the rainstorm by [Ernest Howard Shepard (illustrator)](https://commons.wikimedia.org/wiki/File:Winnie-the-Pooh_146.png), Public domain, via Wikimedia Commons_
 - _Photo of girl walking through a puddle by [Daiga Ellaby](https://unsplash.com/@daiga_ellaby) on [Unsplash](https://unsplash.com/photos/6JyG95hQIIM)_
+- _Image of Piglet in the rainstorm by [Ernest Howard Shepard (illustrator)](https://commons.wikimedia.org/wiki/File:Winnie-the-Pooh_146.png), Public domain, via Wikimedia Commons_

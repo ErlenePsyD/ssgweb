@@ -11,13 +11,13 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 Do you remember the childhood ditty "Rain, rain, go away? Come again another day. Little Sandy wants to play"? I wonder if we chanted it while jumping rope. Perhaps my mother sang it to me when I complained about the rain ruining my outdoor adventure.
 
+![Piglet gazes down from his home in a tree to watch the rain and floodwaters below]({static}/images/winnie-the-pooh_146.png){: .image-process-article-image .left}
+
 > "When life throws you a rainy day, play in the puddles."
 
 -- A.A. Milne, Winnie the Pooh
 
 When I whined about the rain to my grandmother, she would stop whatever she was doing, look me straight in the eye, and firmly declare, "You are not made of spun sugar. Go outside. You will not melt in the rain." To this day, I credit my solid ego to her unwavering directness.
-
-![A little boy in a yellow coat and blue boots jumps into a puddle]({static}/images/kenny-eliason-puddle-jumper-square-unsplash.jpg){: .image-process-large-photo}
 
 ## Rain's Universal Influence
 
@@ -67,5 +67,5 @@ Aging inevitably leads to the dwindling of our circle of companions, right when 
 
 ## Photo Credits
 
-- _Photo of boy jumping into a puddle by [Kenny Eliason](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/photos/TtlSPDneJgM)_
+- _Image of Piglet in the rainstorm by [Ernest Howard Shepard (illustrator)](https://commons.wikimedia.org/wiki/File:Winnie-the-Pooh_146.png), Public domain, via Wikimedia Commons_
 - _Photo of girl walking through a puddle by [Daiga Ellaby](https://unsplash.com/@daiga_ellaby) on [Unsplash](https://unsplash.com/photos/6JyG95hQIIM)_

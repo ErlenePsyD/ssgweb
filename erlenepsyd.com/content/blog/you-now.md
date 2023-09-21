@@ -50,7 +50,7 @@ Where along the time continuum were/are you most focused in your **thoughts**?
 
 ### Activity #2: Sources of Happiness
 
-What brought/bings you joy?
+What brought/brings you joy?
 
 - Then (younger self)
 - Now
@@ -73,7 +73,7 @@ What were/are your primary objectives in life?
 
 In a few sentences, describe "The You That You Are Now".
 
-Always remember, respect, and accept that you are not a _finished product_. Instead, you are perpetually a _work in progress_.
+Always remember, respect, and accept that you are not a _finished product_. Instead, you are perpetually a _wonderful work in progress_.
 
 _DrR_.
 

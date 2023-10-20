@@ -25,10 +25,10 @@ Yet, traditional superstitions persist:
 
 - Crossing our fingers
 - Avoiding cracks on the sidewalk
-- Steering clear of broken mirrors
+- Steering clear of breaking mirrors
 - Bypassing ladders instead of walking underneath them
 - Dodging black cats
-- Refraining from booking a room on the 13th floor
+- Refraining from booking a hotel room on the 13th floor
 - Throwing salt over our shoulder
 - Knocking on wood, sometimes searching just to find real wood
 

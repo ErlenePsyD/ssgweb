@@ -55,7 +55,7 @@ Aging inevitably leads to the dwindling of our circle of companions, right when 
 
 > "Live Your Best Life Between the Raindrops."
 
--- Dr. R.
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
 
 ## ACTIVITY: Embracing Connection
 

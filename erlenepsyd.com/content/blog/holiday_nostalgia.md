@@ -46,16 +46,14 @@ I suspect we've all had the experience of revisiting a memory to discover oursel
 
 Nostalgia isn't just for the individual; it serves a generative purpose as well. Grandparents often share stories with their grandchildren, highlighting their past resilience.
 
-> When I was young, I walked two miles every day to school, sometimes slogging through deep snow, and it was uphill both ways!
+> When I was young, I walked two miles every day to and from school, sometimes slogging through deep snow, and it was uphill both ways!
 
--- Grandma
-
-Such stories serve two purposes:
+Such stories help to remind the self that:
 
 - For the older adult, the stories reinforce their identity, which is continous despite physical changes.
 - For the younger listeners, they offer lessons of courage and perseverance.
 
-For the older adult, the storyteller, this helps to remind them that they are the same person who walked two miles a day in the snow, even though they recognize that it would not be possible to do so now
+For the older adult, the storyteller, this helps to remind them that they are the same person who walked two miles a day in the snow, even though they recognize that it would not be possible to do so now.
 
 > "Though I can no longer do that, I have met and coped with many other challenges along the way and lived to tell the tale!"
 
@@ -69,6 +67,6 @@ The message to the younger listeners -- the generative purpose -- is that your g
 
 Wishing you something pleasant, something delicious, and something beautiful at this season,
 
-*Dr. R.*
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
 
 _Photo by [Annie Spratt](https://unsplash.com/@anniespratt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/two-children-walking-near-bushes-during-winter-290ur3i59H0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_

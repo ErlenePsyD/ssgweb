@@ -53,4 +53,6 @@ Think of a mid-range stressor (5 on the scale)
 
 In the [next post the focus will be on **Attitude**]({filename}focus-on-attitude.md).
 
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
 _Photo by [Johnny Cohen](https://unsplash.com/@jonecohen) on [Unsplash](https://unsplash.com/)._

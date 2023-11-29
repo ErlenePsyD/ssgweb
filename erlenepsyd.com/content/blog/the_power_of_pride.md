@@ -76,4 +76,6 @@ When you are finished, respond to these questions:
 
 Reflect on any "take-home" messages from this activity.
 
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
 _Photo by [Christian Bowen](https://unsplash.com/@chrishcush?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/TOKVE7PNwAc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_

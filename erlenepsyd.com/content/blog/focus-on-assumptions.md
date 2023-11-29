@@ -52,6 +52,6 @@ I hope you have a _You Journal_. If not, I suggest you get one, or create one. Y
 
 In the [next post the focus will be on **Change**]({filename}focus-on-change.md).
 
-Dr.R.
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
 
 _Photo by [Beth Macdonald](https://unsplash.com/@elsbethcat) on [Unsplash](https://unsplash.com/)_

@@ -38,3 +38,5 @@ Listen to the full episode to learn more: [Personality Disorders in Older Adults
 I hope you enjoy it, and I'm sure you’ll hear my enthusiasm for the topic!
 
 Please [contact me](/pages/contact.html) if you are interested in booking me as a speaker for your organization or conference.
+
+![Dr. R written by hand]({static}/images/dr_r_sm.png)

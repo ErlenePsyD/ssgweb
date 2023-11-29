@@ -76,4 +76,6 @@ Smile broadly and greet anyone you see with a smile and a wave. Everyone loves t
 
 The [next post will focus on Positives 4 - 7, all about aging easier]({filename}10-positives-about-being-older-2.md).
 
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
 _Photo by [Artyom Kabajev](https://unsplash.com/@artfilm?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/_aduPjJvDx4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_

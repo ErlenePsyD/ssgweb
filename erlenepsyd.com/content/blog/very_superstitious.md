@@ -66,6 +66,6 @@ However, the crux of the matter lies in our quest—especially as we age—for f
 
 It's liberating to shed these chains, to enjoy nature's beauty, to hum and whistle as we please, and to greet each day with joy.
 
-_DrR_
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
 
 _Photo by [Tolga Ahmetler](https://unsplash.com/@t_ahmetler) on [Unsplash](https://unsplash.com/photos/black-cat-on-gray-concrete-wall-glzQfLG0sWE)_

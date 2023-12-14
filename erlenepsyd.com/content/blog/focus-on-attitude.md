@@ -71,4 +71,6 @@ When you’re feeling cranky and de-energized, what are your best go-to “techn
 
 In the [next post the focus will be on: **Loneliness**]({filename}focus-on-loneliness.md).
 
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
 _Photo by [Chaz McGregor](https://unsplash.com/@chazmcgregor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@chazmcgregor?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._

@@ -93,4 +93,6 @@ You have **agency** that allows you to drill down to when, how, why your lonelin
 
 In the [next post the focus will be on **The Vastness of Now**]({filename}focus-on-now.md).
 
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
 _Photo of woman in grass by [Matthew Henry](https://unsplash.com/@matthewhenry); path through woods by [William Daigneault](https://unsplash.com/es/@williamdaigneault); both on Unsplash.

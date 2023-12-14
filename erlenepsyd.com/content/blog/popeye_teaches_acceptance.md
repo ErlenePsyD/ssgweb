@@ -56,4 +56,6 @@ Should he re-emerge, I would hope that his creator gives him the experiences and
 
 > "We continue to change even as we age. Believe and remember that the new version of you is still you."
 
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
 _Popeye the Sailor Man image by Nestination on [Newgrounds](https://www.newgrounds.com/art/view/nestination/popeye-the-sailor-man)._

@@ -75,6 +75,6 @@ In a few sentences, describe "The You That You Are Now".
 
 Always remember, respect, and accept that you are not a _finished product_. Instead, you are perpetually a _wonderful work in progress_.
 
-_DrR_.
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
 
 _Photo by [Ludovica Dri](https://unsplash.com/@ludovicadri) on [Unsplash](https://unsplash.com/photos/D_6uy5jvGGo)_

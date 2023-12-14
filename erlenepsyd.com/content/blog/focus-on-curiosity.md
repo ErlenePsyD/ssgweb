@@ -103,4 +103,6 @@ At the end of your A New Day exercise, ask yourself:
 
 In the [next posts, the focus will be on **Aging Easier**, a series]({filename}10-positives-about-being-older-1.md).
 
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
 _Photo by [Kyle Nieber](https://unsplash.com/@kylenieber) on [Unsplash](https://unsplash.com/)_

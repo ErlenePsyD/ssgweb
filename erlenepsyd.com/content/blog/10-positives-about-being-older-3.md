@@ -127,5 +127,6 @@ But, alas, energy has come to be of limited supply. All through life we need to 
 * Is time "weighing heavily?"
 * Does time feel "pretty much okay?"
 
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
 _Photo by [Ryoji Iwata](https://unsplash.com/es/@ryoji__iwata) on [Unsplash](https://unsplash.com/photos/5siQcvSxCP8)._
-  

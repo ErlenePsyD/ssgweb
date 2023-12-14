@@ -78,6 +78,6 @@ If you're an avid reader like me, allowing yourself to read can be a therapeutic
 
 This was a slightly different post since the whole post was an activity. I hope you found it interesting and helpful. Do let me know.
 
--DrR
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
 
 _Photo by [Paola Chaaya](https://unsplash.com/@paolitta?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/images/feelings/sad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_

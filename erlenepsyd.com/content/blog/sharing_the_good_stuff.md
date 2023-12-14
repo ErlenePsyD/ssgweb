@@ -65,6 +65,8 @@ Select at least one idea from this list and try it.
 
 When we share the "good stuff," it makes us and others feel good, also known as joy.
 
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
 ‌_"Stack of cookies" photo  by [Alexander Grey](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/photos/arWQIqzEoJc)._
 
 ‌_"Pensive grandmother with granddaughter" photo by [Andrea Piacquadio](https://www.pexels.com/photo/pensive-grandmother-with-granddaughter-having-interesting-conversation-while-cooking-together-in-light-modern-kitchen-3768146/)._

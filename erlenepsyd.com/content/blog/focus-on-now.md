@@ -54,4 +54,6 @@ Hint: _It's right where you are._
 
 In the [next post the focus will be on **Curiosity**]({filename}focus-on-curiosity.md).
 
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
 _Photo of hourglass by [Aron Visuals](https://unsplash.com/@aronvisuals); on Unsplash._

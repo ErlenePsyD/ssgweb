@@ -105,9 +105,11 @@ Member, Massachusetts Psychological Association 1986-Present
 
 ## Peer Reviewed Publications (Selected)
 
+Sebastiaan P.J. van Alphen, Ph.D., Sanne van der Werff, MSc., Erlene Rosowsky, Psy.D., Daniel L. Segal, Ph.D., & Gina Rossi, Ph.D. (2023). [Assessment of Personality Disorders in Older Adults. A Practice Guide.](https://doi.org/10.1177/08919887231175431) *Journal of Geriatric Psychiatry and Neurology,* 36(6), 470-478. DOI: 10.1177/08919887231175431
+
 Schulkens, J., Bergs, N., Ingenhoven, T.J.M., Rosowsky, E., van Alphen, S.P.J., & Sobczak, S. (2021). Selective Serotonin Reuptake-Inhibitors for Symptom-Based Treatment of Borderline Personality Disorders in Older Adults: An International Delphi Study. *Clinical Psychopharmacology and Neuroscience,* 00(0):1-00.
 
-Rosowsky,E., Lodish, E., Ellison, J. & van Alphen S.P.J. (2019). [A Delphi Study of Late-Onset Personality Disorders](https://doi.org/10.1017/s1041610218001473). *International Psychogeriatrics*
+Rosowsky, E., Lodish, E., Ellison, J. & van Alphen S.P.J. (2019). [A Delphi Study of Late-Onset Personality Disorders](https://doi.org/10.1017/s1041610218001473). *International Psychogeriatrics*
 
 Gielkens, E.M.J., Sobczak, S., Rossi, G., Rosowsky, E., & van Alphen, S.P.J. (2018). EMDR as a treatment approach of PTSD complicated by comorbid psychiatric, somatic and cognitive disorders: a case report of an older Dutch woman with a borderline and avoidant personality disorder. *Journal of EMDR Practice and Research*, 17(5), 328-347.
 
@@ -115,7 +117,7 @@ Gielkens, E.M.J., Vink, M., Sobczak,S., Rosowsky, E. & van Alphen, S.P.J. (2018)
 
 Morris, S., Schaefer, K., & Rosowsky, E. (2018). Primary Care for the Elderly Bereaved:Recommendations for Medical Education. [*Journal of Clinical Psychology in Medical Settings*](https://doi.org/10.1007/s10880-018-9556-9).
 
-Molinari, V. & Rosowsky, E.(2018). Commentary on Special Issue of Assessment in Older Adults. *Assessment,* 25(3), 394-398.
+Molinari, V. & Rosowsky, E. (2018). Commentary on Special Issue of Assessment in Older Adults. *Assessment,* 25(3), 394-398.
 
 Rosowsky, E., Young, A.S., Malloy, M.C., van Alphen, S.P.J., & Ellison, J.M.(2018). **A cross-validation Delphi method approach to the diagnosis and treatment of personality disorders in older adults. *Aging and Mental Health, 22(3), *371-378**
 

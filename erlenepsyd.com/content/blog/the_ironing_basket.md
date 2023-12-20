@@ -13,6 +13,8 @@ I'd like to share with you a story I call "Grandmother's Ironing Basket." As a l
 
 ## Grandmother's Insightful Response
 
+![An elderly woman with curly grey hair, wearing a floral print shirt, is peeling a potato with a focus on her task. Beside her is a grandchild, who is observing the process closely. They are in a kitchen setting with various vegetables and a tea pot, preparing a meal together, a moment of intergenerational bonding and the sharing of simple, yet meaningful, life skills.]({static}/images/cdc-E9BR0lNMiQE-unsplash.jpg){: .image-process-large-photo .right}
+
 She paused, acknowledging the importance of her role in my life and vice versa. She listed her daily tasks, including cooking, baking, laundry, sewing, and ironing. As she spoke, I giggled, mentioning my love for her baked goods and the smell of steam from the ironing. She paused again, showing her deep understanding of a child's mind and the concept of mortality.
 
 > "Keep your eye on my ironing basket; as long as there's ironing to be done, I'll be here."
@@ -56,3 +58,5 @@ Often, our feelings of pressure stem from our internal dialogue. I have identifi
 As we approach 2024, I resolve to address these 'Master Demands.' I plan to describe their impact on our stress and frustration levels and suggest ways to reframe our thinking. This will help us find more connection, purpose, and meaning in our lives.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
+_Photo by [CDC](https://unsplash.com/@cdc) on [Unsplash](https://unsplash.com/photos/woman-in-yellow-and-white-floral-button-up-shirt-holding-yellow-banana-E9BR0lNMiQE)_

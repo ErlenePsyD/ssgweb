@@ -23,26 +23,21 @@ This statement of reassurance became a symbol of her continued presence in my li
 
 ## The Ever-Present Ironing Basket
 
-Reflecting back, I never recall seeing her laundry basket empty. There was always something that needed ironing. As a clinical psychologist specializing in geropsychology, I wonder if this was not only for my reassurance but also for her sense of purpose and connection.
+Reflecting back, I never recall seeing her laundry basket empty. There was always something that needed ironing. As a clinical psychologist specializing in geropsychology, I wonder if this was not only for my reassurance but also for her sense of purpose and connection as well.
 
 ## A Personal Reflection
 
-Initially, I frequently checked the basket, but over time, my attention shifted away. The story resurfaced in my mind amidst feelings of being overwhelmed by life's demands, especially during the transition from one year to another.
+Initially, I checked the basket frequently, but over time, my attention shifted away. The story resurfaced in my mind amidst feelings of being overwhelmed by life's demands, especially during the transition from one year to another.
 
-## The Burden of Daily Demands
+## The Constant Challenge of Balancing Life's Daily Demands
 
-I often feel overwhelmed by my "laundry basket" of To-Do items, particularly around the New Year. The pressure from various responsibilities, deadlines, and commitments is immense. Self-care often falls to the bottom of the list, along with concerns for inner peace, nutrition, creativity, and maintaining relationships.
+I often feel overwhelmed by my laundry basket of to do items, particularly around the New Year. The pressure from various responsibilities, deadlines, and commitments is intense. Self-care often falls to the bottom of our list, along with concerns for what we know is good for us: inner peace, healthy nutrition, an outlet for our creativity, and protecting important relationships.
 
-### The Challenge of Balancing Life's Demands
+![An elderly woman washing vegetables at a kitchen sink. She has gray hair and is wearing a floral print blouse with a white apron over it. The kitchen is well-lit with natural light coming from a window above the sink, where an aloe plant can be seen on the windowsill. The woman is focused on cleaning a carrot under the running tap water. On the counter next to her is a blue bowl filled with a variety of other vegetables, fresh from a garden, and there are also some loose vegetables and leaves spread on a newspaper]({static}/images/cdc-F98Mv9O6LfI-unsplash.jpg){: .image-process-large-photo}
 
-- Inner Peace: The need for meditation.
-- Nutrition: Shopping at multiple markets.
-- Creativity: Finding time for activities like music classes.
-- Relationships: Managing birthdays and necessary follow-ups.
+The thoughts go round and round in our head. Inner peace: "Do I have time for meditation?" Good nutrition: "I'm already shopping at multiple markets." Creative expression: "Do you think I can find time for that sewing class?" Tending to important relationships: Remembering birthdays and  following up with important issues and inflection points in their lives. There so many of them that "one small laundry basket could not hold all the items."
 
-> "One small laundry basket could not hold all the items."
-
-## The Concept of 'Master Demands'
+## The Power of 'Master Demands'
 
 Often, our feelings of pressure stem from our internal dialogue. I have identified four 'Master Demands' that amplify this stress:
 
@@ -57,6 +52,10 @@ Often, our feelings of pressure stem from our internal dialogue. I have identifi
 
 As we approach 2024, I resolve to address these 'Master Demands.' I plan to describe their impact on our stress and frustration levels and suggest ways to reframe our thinking. This will help us find more connection, purpose, and meaning in our lives.
 
+Fingers crossed!
+
+_For more on why we always return to these little rituals, see my earlier post: [Why Do We Knock on Wood? Understanding Our Age-Old Superstitions]({filename}very_superstitious.md)_
+
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
 
-_Photo by [CDC](https://unsplash.com/@cdc) on [Unsplash](https://unsplash.com/photos/woman-in-yellow-and-white-floral-button-up-shirt-holding-yellow-banana-E9BR0lNMiQE)_
+_Photos by [CDC](https://unsplash.com/@cdc) on [Unsplash](https://unsplash.com/photos/woman-in-yellow-and-white-floral-button-up-shirt-holding-yellow-banana-E9BR0lNMiQE)_

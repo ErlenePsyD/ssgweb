@@ -13,7 +13,7 @@ I'd like to share with you a story I call "Grandmother's Ironing Basket." As a l
 
 ## Grandmother's Insightful Response
 
-![An elderly woman with curly grey hair, wearing a floral print shirt, is peeling a potato with a focus on her task. Beside her is a grandchild, who is observing the process closely. They are in a kitchen setting with various vegetables and a tea pot, preparing a meal together, a moment of intergenerational bonding and the sharing of simple, yet meaningful, life skills.]({static}/images/cdc-E9BR0lNMiQE-unsplash.jpg){: .image-process-large-photo .right}
+![An elderly woman washing vegetables at a kitchen sink. She has gray hair and is wearing a floral print blouse with a white apron over it. The kitchen is well-lit with natural light coming from a window above the sink, where an aloe plant can be seen on the windowsill. The woman is focused on cleaning a carrot under the running tap water. On the counter next to her is a blue bowl filled with a variety of other vegetables, fresh from a garden, and there are also some loose vegetables and leaves spread on a newspaper]({static}/images/cdc-F98Mv9O6LfI-unsplash.jpg){: .image-process-large-photo}
 
 She paused, acknowledging the importance of her role in my life and vice versa. She listed her daily tasks, including cooking, baking, laundry, sewing, and ironing. As she spoke, I giggled, mentioning my love for her baked goods and the smell of steam from the ironing. She paused again, showing her deep understanding of a child's mind and the concept of mortality.
 
@@ -33,8 +33,6 @@ Initially, I checked the basket frequently, but over time, my attention shifted 
 
 I often feel overwhelmed by my laundry basket of to do items, particularly around the New Year. The pressure from various responsibilities, deadlines, and commitments is intense. Self-care often falls to the bottom of our list, along with concerns for what we know is good for us: inner peace, healthy nutrition, an outlet for our creativity, and protecting important relationships.
 
-![An elderly woman washing vegetables at a kitchen sink. She has gray hair and is wearing a floral print blouse with a white apron over it. The kitchen is well-lit with natural light coming from a window above the sink, where an aloe plant can be seen on the windowsill. The woman is focused on cleaning a carrot under the running tap water. On the counter next to her is a blue bowl filled with a variety of other vegetables, fresh from a garden, and there are also some loose vegetables and leaves spread on a newspaper]({static}/images/cdc-F98Mv9O6LfI-unsplash.jpg){: .image-process-large-photo}
-
 The thoughts go round and round in our head. Inner peace: "Do I have time for meditation?" Good nutrition: "I'm already shopping at multiple markets." Creative expression: "Do you think I can find time for that sewing class?" Tending to important relationships: Remembering birthdays and  following up with important issues and inflection points in their lives. There so many of them that "one small laundry basket could not hold all the items."
 
 ## The Power of 'Master Demands'
@@ -43,14 +41,14 @@ Often, our feelings of pressure stem from our internal dialogue. I have identifi
 
 ### Master Demands
 
-1. SHOULD
-2. OUGHT
-3. HAVE-TO
-4. MUST
+- SHOULD
+- OUGHT
+- HAVE-TO
+- MUST
 
 ## A New Year's Resolution for Change
 
-As we approach 2024, I resolve to address these 'Master Demands.' I plan to describe their impact on our stress and frustration levels and suggest ways to reframe our thinking. This will help us find more connection, purpose, and meaning in our lives.
+As we approach 2024, I resolve to address these 'Master Demands.' I plan to describe their impact on our stress and frustration levels and suggest ways to reframe our thinking. This will help us enjoy more connection, purpose, and meaning in our lives.
 
 Fingers crossed!
 

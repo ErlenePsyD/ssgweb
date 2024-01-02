@@ -33,7 +33,7 @@ Initially, I checked the basket frequently, but over time, my attention shifted 
 
 I often feel overwhelmed by my laundry basket of to do items, particularly around the New Year. The pressure from various responsibilities, deadlines, and commitments is intense. Self-care often falls to the bottom of our list, along with concerns for what we know is good for us: inner peace, healthy nutrition, an outlet for our creativity, and protecting important relationships.
 
-The thoughts go round and round in our head. Inner peace: "Do I have time for meditation?" Good nutrition: "I'm already shopping at multiple markets." Creative expression: "Do you think I can find time for that sewing class?" Tending to important relationships: Remembering birthdays and  following up with important issues and inflection points in their lives. There so many of them that "one small laundry basket could not hold all the items."
+The thoughts go round and round in our head. Inner peace: "Do I have time for meditation?" Good nutrition: "I'm already shopping at multiple markets." Creative expression: "Do you think I can find time for that sewing class?" Tending to important relationships: Remembering birthdays and  following up with important issues and inflection points in their lives. There are so many of them that "one small laundry basket could not hold all the items."
 
 ## The Power of 'Master Demands'
 

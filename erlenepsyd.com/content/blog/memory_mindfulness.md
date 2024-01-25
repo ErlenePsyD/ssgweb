@@ -23,8 +23,6 @@ For example, in my grandmother's generation, women were defined as old when thei
 
 > "Older adults often find comfort in quiet reflections and sharing their life philosophy with younger people."
 
-![A detailed pencil sketch depicting five female figures of varying ages, representing the different stages of life. From left to right, the first is a young girl, followed by a slightly older child, then a young woman, an adult woman, and lastly, a young girl who appears to be the youngest of all. The figures are wearing dresses that seem to reflect a timeless style, with details like collars, cuffs, and trim that suggest a gentle, bygone era.]({static}/images/sketch_aging_women.jpg){: .image-process-large-photo .right}
-
 When we become older, we tend to become more introspective, philosophical, and self-focused. This helps in reinforcing our sense of self-continuity, even as we feel different, appear different, and are adjudicated by others as being different. Increased interiority is also supported by universal tendencies toward nostalgia, life review, and reminiscence.
 
 ### Slowing and Reduced Energy
@@ -77,3 +75,5 @@ Let me know if this helps.
 Next post, we'll take on OUGHT.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
+_Photo by [frame harirak](https://unsplash.com/@framemily?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/person-walking-on-pathway-beside-plants-during-daytime-U_QwhZ7CDfs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_

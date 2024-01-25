@@ -11,7 +11,9 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 My students often ask, "When does old age actually begin?" How old are you when you're considered to be old? And "who or what gets to define old age?"
 
-Unfortunately, the truth doesn't provide a totally satisfying response. Old age is actually mostly individually defined, informed by culture, cohort, historical moment, geography, and the imprints of families and community connections. "Old age" is also often heralded in with the occurrence of a specific event such as retirement or widowhood.
+Unfortunately, the truth doesn't provide a totally satisfying response. Old age is actually mostly individually defined, informed by culture, cohort, historical moment, geography, and the imprints of families and community connections. Old age is also often heralded in with the occurrence of a specific event such as retirement or widowhood.
+
+![An older man walking through a field of tall, dry grass, with a peaceful expression on his face. He is dressed in a simple, long-sleeved shirt and shorts, and is barefoot. In his right hand, he carries a transparent plastic container. The grass is golden and swaying, due to a gentle breeze. The background is dominated by a dramatic sky filled with clouds that suggest an approaching storm, and mountains in the distance. The lighting of the photograph gives it a serene and slightly ethereal quality, with the man's figure sharply contrasted against the paler sky. The overall mood of the image is one of solitude and tranquility in nature.]({static}/images/frame-harirak-U_QwhZ7CDfs-unsplash.jpg){: .image-process-crisp}
 
 For example, in my grandmother's generation, women were defined as old when their spouse died, regardless of their own age. As a widow, they were expected to alter their wardrobes to match the new role; they wore dark colored clothes and serviceable shoes rather than fashionable ones. Different systems also define old age differently. For example, the prison system defines inmates who are over the age of 50 as old. Most of the gerontology-related literature identifies age 60 or 65 as the threshold to old age. In recent years, the continuum of old age has been segmented into the "young old"(65-74), "old" (74-84), and "old-old" (85+). And currently, "super agers" (those over the age of 80 who have maintained the cognitive abilities of much younger persons) are garnering considerable attention.
 
@@ -21,13 +23,15 @@ For example, in my grandmother's generation, women were defined as old when thei
 
 > "Older adults often find comfort in quiet reflections and sharing their life philosophy with younger people."
 
+![A detailed pencil sketch depicting five female figures of varying ages, representing the different stages of life. From left to right, the first is a young girl, followed by a slightly older child, then a young woman, an adult woman, and lastly, a young girl who appears to be the youngest of all. The figures are wearing dresses that seem to reflect a timeless style, with details like collars, cuffs, and trim that suggest a gentle, bygone era.]({static}/images/sketch_aging_women.jpg){: .image-process-large-photo .right}
+
 When we become older, we tend to become more introspective, philosophical, and self-focused. This helps in reinforcing our sense of self-continuity, even as we feel different, appear different, and are adjudicated by others as being different. Increased interiority is also supported by universal tendencies toward nostalgia, life review, and reminiscence.
 
 ### Slowing and Reduced Energy
 
-> "As we age, both our physical and mental processes slow down, making speed increasingly inconsistent with our pace of life."
+> "As we age, both our physical and mental processes slow down, making speed increasingly inconsistent with our modern pace of life."
 
-We become slower in almost every way, both internally and externally. Our digestion system slows down, our movements become less quick, and our cognitive abilities, like learning new material and recalling known information, become slower. A correlate of this slowing is reduced energy, which becomes an increasingly valuable commodity with advancing age.
+We become slower in almost every way, both internally and externally. Our digestion system slows down, our movements become less quick, and our cognitive abilities, like learning new material and recalling known information, become slower. A correlate of this slowing is perceived as reduced energy, which becomes an increasingly valuable commodity with advancing age.
 
 ### Memory Changes
 
@@ -52,19 +56,19 @@ In my December 2023 post, [Grandmother's Ironing Basket]({filename}the_ironing_b
 - Must
 - Have To
 
-These terms collectively form a list that serves as a mighty fist used to cognitively beat ourselves up.
+These terms collectively form a list that serves as a mighty fist that we use to cognitively beat ourselves up.
 
 ### Tackling "Should"
 
-Should is a simple verb that connotes obligation. It often incorporates a tone of morality or criticism. When it comes from someone outside us, it often implies a needed correction. It can be critical, implying insufficiency or inefficiency.
+Should is a simple verb that connotes obligation. It often incorporates a tone of morality or criticism. When it comes from someone other than ourself, it often implies a needed correction. It can be critical, implying insufficiency or inefficiency.
 
 ### The Actual Activity
 
 Become conscious of when you say to yourself anything that includes the "should demand." Notice how often you use it in your thinking, then deliberately reframe and rephrase the self-message.
 
-Reframe example: "The freezer needs attention because it's hard to see everything in the back."
+Reframe example: "This freezer needs attention because it is impossible to see anything in the back!"
 
-Rephrase example: "OK. How long would it take me to take care of this? I know it takes about half an hour. It's a fairly mindless task, so I can do it with the radio on and catch up with the news. I can fit it in today after school."
+Rephrase example: "OK. How long would it take me to take care of this? I've done it before and I know it takes about half an hour. It's a fairly mindless task, so I can do it with the radio on and catch up with the news. I can fit it in today after school."
 
 > "Reframing and rephrasing can significantly alter our perception of tasks and reduce the stress associated with them."
 

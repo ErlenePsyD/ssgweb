@@ -54,19 +54,19 @@ As older people, _acceptance, adaptation, and accommodation_ becomes our new man
 
 We know not to tilt at windmills, that doing so would only expend precious energy unnecessarily, and put us at risk of being whipped by the blades.
 
-We learn to differentiate between what is a given (cannot be change) and what is negotiable (able to be changed). We become skilled at accommodating a new reality, accepting and ultimately coming to love the self we are now.
+We learn to differentiate between what is a given (cannot be changed) and what is a negotiable (able to be changed). We become skilled at accommodating a new reality, accepting and ultimately coming to love the self we are now.
 
 ## A Reflection on Identity and Memory
 
-I recall my past work in skilled nursing facilities, in what would now be called memory units. The residents often strolled the corridors, but had trouble reminding which room was theirs. They would often go onto another's room and make themselves at home.
+I recall my past work in skilled nursing facilities, in what would now be called memory units. The residents often strolled the corridors, but had trouble remembering which room was theirs. They would often go onto another's room and make themselves at home.
 
 To address this, the staff would ask a family member for a photo of the resident to affix to their door. The photo provided was most often one of the resident at middle age, frequently engaged in a lively activity.
 
-The residents easily recognized their photos, and this simple and nostalgic expedient successfully reduced entries into the wrong rooms. An additional benefit: the the photo reminded staff and visitors of a time when the resident was in their prime.
+The residents easily recognized their photos, and this simple and nostalgic expedient successfully reduced entries into the wrong rooms. An additional benefit: the photo reminded staff and visitors of a time when the resident was in their prime.
 
 ## The Resonance of "Crabbit Old Woman"
 
-I'd like to share a wonderful poem with you, by Phyllis McCormick She wrote _Crabbit Old Woman_ in 1966 in Scotland, in the voice of an old woman writing to a nurse at the care facility where she now lives.
+I'd like to share a wonderful poem with you, by Phyllis McCormick She wrote _Crabbit Old Woman_ in 1966 in Scotland, in the voice of an old woman writing to a nurse at the care facility where she presently was living.
 
 > What do you see nurse? What do you see?
 > What are you thinking when you look at me?
@@ -159,6 +159,6 @@ For example, reframe a duty like this: _It would be good for me to attend to thi
 - Anything making me stuck?
 - What would get me unstuck?
 
-Suggestions imply choice. I can make a choice.
+Suggestions imply choice. You can make a choice.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)

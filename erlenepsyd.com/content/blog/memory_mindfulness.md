@@ -41,6 +41,8 @@ When we become older, our memory changes. Information is more difficult to get i
 
 Our mind and body become increasingly connected. Emotions and moods can dramatically affect physical sensations and vice versa. Familiar body aches and pains are affected by our mood, and when stress is down and mood is up, our regular aches and pains are often less bothersome.
 
+![The image captures two individuals from behind, one with dark hair and the other with blonde hair in a braid, both gazing towards a distant, craggy mountain range under a partly cloudy sky. The focus is on the stark mountains, while the people appear blurred in the foreground.]({static}/images/neom-r_cSTNf5ZK0-unsplash.jpg){: .image-process-crisp}
+
 ### Diversity
 
 Another truism is that older persons are more diverse among ourselves in older age than at any other age. It is far more useful, and respectful, to consider the trajectory of "becoming," along with incorporating an appreciation of the truisms as normal and expectable experiences.

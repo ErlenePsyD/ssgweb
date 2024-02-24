@@ -11,6 +11,8 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 The inspiration for this post came from a note I wrote to myself on a Post-It, that whatever I experience, I experience as myself. As me. "The same me, only now" is also an apt response to questions I hear frequently these days: "Are you still doing ... ?" or "Are you still ... whatever?" I am now a bona fide member of the Still Generation, as you also might be.
 
+![A vibrant rainbow arcing across the sky. Below, a vast waterfall cascades down a cliff, shrouded in mist. In the foreground, grassy African savannah receeds behind simple wooden fence.]({static}/images/african_rainbow.jpg){: .image-process-large-photo}
+
 ## The Vicissitudes of Aging
 
 The vicissitudes of aging, the challenges of aging, age-related changes -- all speak of the same thing, and include changes in the roles and relationships that define us:
@@ -162,3 +164,5 @@ For example, reframe a duty like this: _It would be good for me to attend to thi
 Suggestions imply choice. You can make a choice.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
+_Photo by the author._

@@ -1,7 +1,7 @@
 ---
 Title: The Wisdom of Waiting -- Why Older Adults Have Mastered Patience
 Date: 2024-04-16 08:35
-Tags: patience, wisdom, aging, contentment, peace, serenity, savoring.
+Tags: patience, wisdom, aging, peace, serenity, savoring.
 Summary: Older adults have learned not to rush through life, allowing them to be present in the moment, a wisdom the younger generation has yet to embrace.
 ---
 
@@ -9,11 +9,11 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 ## No Rush, No Race
 
-> "Well, maybe it is true that we older people don't need to rush so much. I hadn't thought of that so clearly."
-
 A while back, I was running a group for older persons in a senior center. As is my style, I wanted to start with something positive and ensure the tone of the group did not devolve into a complaint fest. So, I began with the question, "What are the positives, the good things, about being an older person?"
 
 ![A small brown songbird perched on a branch amidst blossoming white flowers against a bright blue sky. The bird appears to be a house sparrow or similar species, with distinctive streaked brown feathers and a small beak. The branch is covered in delicate white buds and green leaves]({static}/images/anastasiya-romanova-exu0DlNu1Vc-unsplash.jpg){: .image-process-crisp}
+
+> "Well, maybe it is true that we older people don't need to rush so much. I hadn't thought of that so clearly."
 
 At first, this was met with blank stares and silence. The sad truth is that most older adults are primed to think of the negatives of becoming old. Older adults are not exempt from societal ageism.
 

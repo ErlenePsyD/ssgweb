@@ -39,11 +39,13 @@ The group agreed that this was one of the benefits, not often considered and tal
 
 ## A Poignant Memory
 
-The poignant discussion that ensued brought back for me the memory of a former patient who would always come a little early to his appointment and sit peacefully in the waiting room with people much younger than he, waiting to see other clinicians. One time, I heard him being asked how long he had been waiting. He replied that he didn't think it was very long and that it really didn't matter because he was retired and not in any rush.
+The poignant discussion that ensued brought back for me the memory of a former patient. He would always come a little early to his appointment and sit peacefully in the waiting room with people much younger than him, where they all waited for their appointments.
 
-> They were in a rush, their life was a rush, and they did not feel peaceful with waiting. They were very much aware of the passage of time. As older adults, so are we.
+One time, I overheard him being asked how long he had been waiting. He replied that he didn't think it was very long and that it really didn't matter because he was retired and not in any rush.
 
-The response from the others sitting there was universally a look of incredulity. They were in a rush, their life was a rush, and they did not feel peaceful with waiting. They were very much aware of the passage of time. As older adults, so are we.
+> They were in a rush, their life was a rush, and they did not feel peaceful with waiting.
+
+The response from the others sitting there was universally a look of incredulity. The others in the waiting room were in a rush, their life was a rush, and they did not feel peaceful with waiting. They were very much aware of the passage of time. As older adults, so are we.
 
 ## The Gift of Being Present
 

@@ -13,6 +13,8 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 One day last summer, before setting out on one of my usual routes, I set the intention to stay alert and look with fresh eyes as I walked along the route. On the way back, I noticed a tree, not very tall or sturdy; actually not especially distinguished looking in any way other than being covered with small yellow leaves forming a rather appealing, rounded canopy.
 
+![A black bird perched on a branch covered in vibrant yellow catkins against a bright blue sky, with its iridescent black feathers contrasting beautifully with the golden yellow blooms surrounding it]({static}/images/paul-schnurle-0q5AbeA8fRA-unsplash.jpg){: .image-process-crisp}
+
 I stopped to look at the tree carefully (it was on my way home, and I was getting a little tired so stopping felt good). A gentle wind was blowing, and I noticed the leaves rustling in the wind. I continued to stand and watch them moving, noticing how some danced and drifted down, while others remained on the tree.
 
 In time, maybe a few minutes, my eye focused on a particular leaf. I became entranced with that one leaf. It was moving with the wind, the gentle wind, but it did not fall. Leaves surrounding it fell, but this leaf, my leaf, was hanging on.
@@ -28,3 +30,5 @@ The rest of the day went by as it always does, but I was drawn back to that piec
 I learned what _attention_ meant in the living laboratory of that moment. It means focused concentration. I was looking at the leaves and concentrating on what was happening with the wind and the leaves, and I learned _patience_.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
+_Photo by [Paul Schnürle](https://unsplash.com/@paulschnuerle?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-black-bird-sitting-on-top-of-a-tree-branch-0q5AbeA8fRA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_

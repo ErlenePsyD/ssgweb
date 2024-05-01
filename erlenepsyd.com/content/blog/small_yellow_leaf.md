@@ -1,5 +1,5 @@
 ---
-Title: Big Lessons from a Small Yellow Leaf
+Title: A Lesson from a Small Yellow Leaf
 Date: 2024-05-01 07:46
 Tags: focus, attention, patience, impermanence, nature, mindfulness
 Summary: Observing a single yellow leaf dance gracefully in the wind before falling taught valuable lessons, like the importance of focus, patience, being present, and accepting impermanence.
@@ -9,7 +9,7 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 ## What I Learned from a Small Yellow Leaf: A Lesson from Nature
 
-> "I am a walker. And a walker walks. And a walker in the suburbs very often walks along the same routes. Eventually these walks become routine to the point of not observing very much anymore."
+> "I am a walker. And a walker walks. And a walker in the suburbs very often walks along the same routes. Eventually these walks become routine to the point of the walker not observing very much anymore."
 
 One day last summer, before setting out on one of my usual routes, I set the intention to stay alert and look with fresh eyes as I walked along the route. On the way back, I noticed a tree, not very tall or sturdy; actually not especially distinguished looking in any way other than being covered with small yellow leaves forming a rather appealing, rounded canopy.
 

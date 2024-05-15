@@ -49,7 +49,7 @@ Another truism is that older persons are more diverse among ourselves in older a
 
 ## ACTIVITY: Grandmother's Ironing Basket
 
-In my December 2023 post, [Grandmother's Ironing Basket]({filename}the_ironing_basket.md), I resolved to address four terms that induce feelings of guilt, urgency, powerlessness, and stress. These terms are:
+In my December 2023 post, [Grandmother's Ironing Basket]({filename}the-ironing-basket.md), I resolved to address four terms that induce feelings of guilt, urgency, powerlessness, and stress. These terms are:
 
 - Should
 - Ought

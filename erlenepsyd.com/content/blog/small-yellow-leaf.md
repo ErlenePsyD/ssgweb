@@ -27,7 +27,7 @@ The rest of the day went by as it always does, but I was drawn back to that piec
 
 ## Lessons Learned
 
-As time passes, I saw some leaves fall, some leaves drift gently in a beautiful dance to the ground. I learned that in nature there is a _right moment_ for movement and change. And I saw the actual meaning of _impermanence_, that nothing lasts forever. There would always be endings.
+As time passed, I saw some leaves fall, some leaves drift gently in a beautiful dance to the ground. I learned that in nature there is a _right moment_ for movement and change. And I saw the actual meaning of _impermanence_, that nothing lasts forever. There would always be endings.
 
 I learned what _attention_ meant in the living laboratory of that moment -- it means focused concentration. Looking at the leaves and concentrating on what was happening with the wind and the leaves, I learned _patience_.
 

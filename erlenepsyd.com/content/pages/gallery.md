@@ -3,7 +3,7 @@ Title: gallery
 Date: 2022-03-24 8:40
 ---
 
-![Prof. Dr. S.P.J. van Alphen, standing on the left, wearing a dark zip-up sweater over a checkered shirt, paired with jeans. Dr. Erlene Rosowsky, Psy.D., on the right, is wearing a dark olive green sweater and black pants. Both are looking directly at the camera with serious expressions. In the background, there's a mirror reflecting the back of the man, and a fireplace with a lit fire, adding warmth to the room.]({static}/images/img_8940.jpg){: .image-process-large-photo}
+![Prof. Dr. S.P.J. van Alphen, standing on the left, wearing a dark zip-up sweater over a checkered shirt, paired with jeans. Dr. Erlene Rosowsky, Psy.D., on the right, is wearing a dark olive green sweater and black pants. Both are looking directly at the camera with serious expressions. In the background, there's a mirror reflecting the back of the man, and a fireplace with a lit fire, adding warmth to the room.]({static}/images/img_8940a.jpg){: .image-process-large-photo}
 
 Dinner at the home of longtime research colleague, Prof. Dr. S.P.J. van Alphen
 

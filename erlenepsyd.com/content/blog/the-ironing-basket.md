@@ -52,7 +52,7 @@ As we approach 2024, I resolve to address these 'Master Demands.' I plan to desc
 
 Fingers crossed!
 
-_For more on why we always return to these little rituals, see my earlier post: [Why Do We Knock on Wood? Understanding Our Age-Old Superstitions]({filename}very_superstitious.md)_
+_For more on why we always return to these little rituals, see my earlier post: [Why Do We Knock on Wood? Understanding Our Age-Old Superstitions]({filename}very-superstitious.md)_
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
 

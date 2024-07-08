@@ -25,7 +25,7 @@ Rain is a fact of life. With the looming threat of climate change affecting ever
 
 ## Wisdom from the Storms of the Past
 
-The age-old advice "Save for a rainy day" urges us to be prepared for unexpected challenges. It warns that unpredictable hardships — just as inevitable as sunny or [crummy]({filename}the_crummy_day_toolkit.md), cloudy days — will certainly arise.
+The age-old advice "Save for a rainy day" urges us to be prepared for unexpected challenges. It warns that unpredictable hardships — just as inevitable as sunny or [crummy]({filename}the-crummy-day-toolkit.md), cloudy days — will certainly arise.
 
 Winnie the Pooh, ever the optimist, counsels us to go out into the rain and "play in the puddles." Sometimes we just don't have the necessary gear to protect us from the rain, or courage to go out and play. Yet, between surrendering to the storm and playing in it blithely, we can discover a vast range of potential responses.
 

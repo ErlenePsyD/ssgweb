@@ -5,7 +5,7 @@ Date: 2022-03-04 10:40
 
 ![a senior's hands holding an iPhone while working at her computer]({static}/images/firmbee-com-SpVHcbuKi6E-unsplash.jpg){: .image-process-large-photo}
 
-Please fill out this form to reach us:
+Please fill out this form to reach Dr. Rosowsky:
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xwkyreoq" method="post">
   <fieldset id="fs-frm-inputs">

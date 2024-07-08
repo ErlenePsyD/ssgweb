@@ -56,19 +56,19 @@ Date: 2022-03-04 10:40
 
 **Psychologists in Long Term Care** first annual Michael Duffy, PhD Award for "Outstanding Contributions to Training and Mentorship of Psychology in Long Term Care." 2020
 
-**Fulbright Specialist Award** 2017
+**Fulbright Specialist Award to China** 2017
 
 * Bureau of Educational and Cultural Affairs
 * Department of State
 
 **American Society on Aging Award** for outstanding contribution to the field of aging 2012
 
-**Fulbright Specialist Award** 2012
+**Fulbright Specialist Award to The Netherlands** 2012
 
 * Bureau of Educational and Cultural Affairs
 * Department of State
 
-**Fulbright Specialist Award** 2011
+**Fulbright Specialist Award to The Netherlands** 2011
 
 * Bureau of Educational and Cultural Affairs
 * Department of State

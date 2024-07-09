@@ -11,6 +11,8 @@ This is a post for anyone who is a caregiver. You know who you are. I am a careg
 
 ## Caregiver Statistics
 
+![A group of people coming together in a gesture of unity by joining hands together, displaying various and distintive colorful bracelets and rings.]({static}/images/hands.jpg){: .right .image-process-large-photo}
+
 There are variations in the counts of caregivers in the United States, but there is agreement that the numbers are continually rising. Approximately 17% of the US adult population serve as unpaid caregivers for an adult over the age of fifty. That equates roughly to about 34 million people. The typical caregiver spends 26 hours per week in the caregiver role, and 54% of caregivers report being in that role for twenty-four months or longer.
 
 It is estimated that:
@@ -51,7 +53,11 @@ When was your moment of becoming a Caregiver? Was it when:
 
 ## Seeking and Offering Help
 
-People in our social circle often want to help. Freud identified altruism as one of the loftiest, most mature coping mechanisms, with humor being another. We all have wondered how we might support and help a Caregiver. Caregivers, when asked “How can I help?” often respond with “I don’t really know,” or with a polite “That’s kind of you to ask.” Sometimes, they say “Pray for me,” accompanied by a sigh or soft smile. The question itself can feel a little awkward. We don’t want to complain, and we especially don’t want to burden the one who asks with our troubles and challenges that, at this point, are clearly more chronic than temporary.
+People in our social circle often want to help. Freud identified altruism as one of the loftiest, most mature coping mechanisms, with humor being another. We all have wondered how we might support and help a Caregiver.
+
+Caregivers, when asked “How can I help?” often respond with “I don’t really know,” or with a polite “That’s kind of you to ask.” Sometimes, they say “Pray for me,” accompanied by a sigh or soft smile.
+
+The question itself can feel a little awkward. We don’t want to complain, and we especially don’t want to burden the one who asks with our troubles and challenges that, at this point, are clearly more chronic than temporary.
 
 ## Identifying SPACES for Support
 
@@ -63,45 +69,22 @@ I recognize that not everyone has the resources to even consider this concept of
 
 Here are the 10 SPACES (simply in alphabetical order with brief exemplars):
 
-1. **A Space to Complain**
-   - We generally don't like to complain, especially when we're caring for people who mean a lot to us.
-   - We don't want to overburden our friends and families, but we still need some recognition.
-   - A space to parsimoniously complain and liberally hear “good for you” goes a long way and is a bidirectional gift.
-   - A friend of mine whose husband had a deepening dementia, still, even far into his illness, was able to say, at the end of the day, “You’re doing a good job, sweetheart.” She said that phrase of praise and endearment kept her going until his passing.
-2. **A Space for Creativity**
-   - Creativity can be extremely important, however you define it.
-   - The loss of time or access to a required physical space for creativity is significant.
-3. **A Space to Escape**
-   - Sometimes getting away can mean reading a book.
-   - Sometimes getting away means physically getting away.
-4. **A Space to Grow**
-   - We are all lifelong learners.
-   - Some people really want to learn new things and develop in new ways, and they need a space to do that.
-   - This includes online learning and other educational opportunities.
-5. **A Space to Play**
-   - Caregivers need to have fun.
-   - Everybody needs to have fun, but it sometimes gets described a little differently when you're a caregiver.
-   - You need a space to have fun in reasonable frequency.
-6. **A Space for Pride (Good for Me)**
-   - While people don't like to complain, they do need a place to say “poor me.”
-   - A place to be proud of oneself and say “good for me, I did a good job.”
-   - This is well-suited to being a meditation practice or a journaling practice.
-7. **A Space to Relax**
-   - It's hard when people who care about us tell us to just relax and kick back, which we tend not to be able to do except in exhaustion after a long day.
-   - In truth, kicking back and relaxing, like sitting out on a patio reading a book, is helpful.
-8. **A Space for Self-Care**
-   - A space for explicit self-care is important because, in the gestalt, all these spaces are in the service of self-care.
-   - This includes getting your hair cut, getting a pedicure (that's a big one I like), and making sure you go to your dentist and physician regularly the way you usually did before caregiving.
-9. **A Space to Share (Interests, Experiences, Altruism)**
-   - We need a space to be sociable and to share interests with others.
-   - This often requires a community.
-   - Sharing your interests with others helps ward off loneliness.
-10. **A Space for Spirituality**
-   - If there’s a religious affiliation, an accessible physical space for spirituality is necessary.
+1. **A Space to Complain**: We generally don't like to complain, especially when we're caring for people who mean a lot to us. We don't want to overburden our friends and families, but we still need some recognition. A space to parsimoniously complain and liberally hear “good for you” goes a long way and is a bidirectional gift. A friend of mine whose husband had a deepening dementia, still, even far into his illness, was able to say, at the end of the day, “You’re doing a good job, sweetheart.” She said that phrase of praise and endearment kept her going until his passing.
+2. **A Space for Creativity**: Creativity can be extremely important, however you define it. The loss of time or access to a required physical space for creativity is significant.
+3. **A Space to Escape**: Sometimes getting away can mean reading a book. Sometimes getting away means physically getting away.
+4. **A Space to Grow**: We are all lifelong learners. Some people really want to learn new things and develop in new ways, and they need a space to do that. This includes online learning and other educational opportunities.
+5. **A Space to Play**: Caregivers need to have fun. Everybody needs to have fun, but it sometimes gets described a little differently when you're a caregiver. You need a space to have fun in reasonable frequency.
+6. **A Space for Pride (Good for Me)**: While people don't like to complain, they do need a place to say “poor me.” A place to be proud of oneself and say “good for me, I did a good job.” This is well-suited to being a meditation practice or a journaling practice.
+7. **A Space to Relax**: It's hard when people who care about us tell us to just relax and kick back, which we tend not to be able to do except in exhaustion after a long day. In truth, kicking back and relaxing, like sitting out on a patio reading a book, is helpful.
+8. **A Space for Self-Care**: A space for explicit self-care is important because, in the gestalt, all these spaces are in the service of self-care. This includes getting your hair cut, getting a pedicure (that's a big one I like), and making sure you go to your dentist and physician regularly the way you usually did before caregiving.
+9. **A Space to Share (Interests, Experiences, Altruism)**: We need a space to be sociable and to share interests with others. This often requires a community. Sharing your interests with others helps ward off loneliness.
+10. **A Space for Spirituality**: If there’s a religious affiliation, an accessible physical space for spirituality is necessary.
 
 These spaces are crucial for maintaining our well-being and effectiveness as Caregivers. Recognizing and creating these spaces can help us navigate the challenges of caregiving with more resilience and support.
 
-## ACTIVITY (For You, If You’re a Caregiver. Or for Someone in Your Circle of Care Who Is a Caregiver)
+## ACTIVITY
+
+For you, if you’re a Caregiver, or for someone in your circle of care who is a Caregiver.
 
 ## 10 Spaces
 
@@ -118,10 +101,12 @@ These spaces are crucial for maintaining our well-being and effectiveness as Car
 
 ### Directions
 
-1. **Rank the Spaces:** (1-10 with 1 being typically most important to you)
-2. **Weight the Spaces:** (How important the space is right now, 1 to 5, with 5 being the most)
+1. **Rank the Spaces:** 1-10 with 1 being typically most important to you.
+2. **Weight the Spaces:** How important the space is right now, 1 to 5, with 5 being the most.
 
-I hope you’ll find my Spaces concept helpful. I’d love to hear back from you, especially about any creative ways you’ve put this to use. [Contact me]({filename}contact.md) and let me know what you've learned in your role as a Caregiver.
+I hope you’ll find my Spaces concept helpful. I’d love to hear back from you, especially about any creative ways you’ve put this to use.
+
+[Contact me]({filename}/pages/contact.md) and let me know what you've learned in your role as a Caregiver.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
 

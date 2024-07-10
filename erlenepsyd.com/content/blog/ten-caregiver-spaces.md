@@ -9,7 +9,7 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 This is a post for anyone who is a caregiver. You know who you are. I am a caregiver, too. There are many of us.
 
-## Caregiver Statistics
+## How Common Is It to Become a Caregiver?
 
 ![A group of people coming together in a gesture of unity by joining hands together, displaying various and distintive colorful bracelets and rings.]({static}/images/hands.jpg){: .right .image-process-large-photo}
 
@@ -63,7 +63,7 @@ The question itself can feel a little awkward. We don’t want to complain, and 
 
 As a psychologist and a Caregiver, I have been thinking about how we might better clarify, even to ourselves, what help and support we need most to feel helped and supported in our Caregiver role. What I came up with is the identification of different SPACES that are often whittled away or completely lost over one’s time as a Caregiver.
 
-I recognize that not everyone has the resources to even consider this concept of space and exercise. By this, I mean the resources of time and energy, health, ability, fiscal solvency, and social connections.
+I recognize that not everyone has the resources to even consider this concept of space and options. By this, I mean the resources of time and energy, health, ability, fiscal solvency, and social connections.
 
 ### The 10 SPACES
 
@@ -73,20 +73,20 @@ Here are the 10 SPACES (simply in alphabetical order with brief exemplars):
 2. **A Space for Creativity**: Creativity can be extremely important, however you define it. The loss of time or access to a required physical space for creativity is significant.
 3. **A Space to Escape**: Sometimes getting away can mean reading a book. Sometimes getting away means physically getting away.
 4. **A Space to Grow**: We are all lifelong learners. Some people really want to learn new things and develop in new ways, and they need a space to do that. This includes online learning and other educational opportunities.
-5. **A Space to Play**: Caregivers need to have fun. Everybody needs to have fun, but it sometimes gets described a little differently when you're a caregiver. You need a space to have fun in reasonable frequency.
-6. **A Space for Pride (Good for Me)**: While people don't like to complain, they do need a place to say “poor me.” A place to be proud of oneself and say “good for me, I did a good job.” This is well-suited to being a meditation practice or a journaling practice.
+5. **A Space to Play**: Caregivers need to have fun. Everybody needs to have fun, but it sometimes gets described a little differently when you're a caregiver. You need a space to have fun regularly.
+6. **A Space for Pride (Good for Me)**: While people don't like to complain, they do need a place to say “poor me.” A place to be proud of oneself and say “good for me, I did a good job.” This is well-suited to a meditation practice or a journaling practice.
 7. **A Space to Relax**: It's hard when people who care about us tell us to just relax and kick back, which we tend not to be able to do except in exhaustion after a long day. In truth, kicking back and relaxing, like sitting out on a patio reading a book, is helpful.
-8. **A Space for Self-Care**: A space for explicit self-care is important because, in the gestalt, all these spaces are in the service of self-care. This includes getting your hair cut, getting a pedicure (that's a big one I like), and making sure you go to your dentist and physician regularly the way you usually did before caregiving.
-9. **A Space to Share (Interests, Experiences, Altruism)**: We need a space to be sociable and to share interests with others. This often requires a community. Sharing your interests with others helps ward off loneliness.
-10. **A Space for Spirituality**: If there’s a religious affiliation, an accessible physical space for spirituality is necessary.
+8. **A Space for Self-Care**: A space for explicit self-care is important because, in the gestalt, all these spaces are in the service of self-care. This includes getting your hair cut, getting a pedicure (that's a big one I like), and making sure you go to your dentist and physician regularly the way you usually did before becoming a Caregiver.
+9. **A Space to Share (Interests, Experiences, Altruism)**: We need a space to be sociable and to share interests with others. This often requires a community. Sharing your interests with others, and helping others, serves to ward off loneliness.
+10. **A Space for Spirituality**: If there’s a religious affiliation, an accessible physical space for spirituality is necessary to help us navigate the challenges of caregiving with resilience, and identify what kinds of support we need with greater specificity.
 
 These spaces are crucial for maintaining our well-being and effectiveness as Caregivers. Recognizing and creating these spaces can help us navigate the challenges of caregiving with more resilience and support.
 
-## ACTIVITY
+## Activity
 
 For you, if you’re a Caregiver, or for someone in your circle of care who is a Caregiver.
 
-## 10 Spaces
+### 10 Spaces
 
 - A space to complain
 - A space for creativity
@@ -104,9 +104,7 @@ For you, if you’re a Caregiver, or for someone in your circle of care who is a
 1. **Rank the Spaces:** 1-10 with 1 being typically most important to you.
 2. **Weight the Spaces:** How important the space is right now, 1 to 5, with 5 being the most.
 
-I hope you’ll find my Spaces concept helpful. I’d love to hear back from you, especially about any creative ways you’ve put this to use.
-
-[Contact me]({filename}/pages/contact.md) and let me know what you've learned in your role as a Caregiver.
+[Contact me]({filename}/pages/contact.md). I hope you’ll find my Spaces concept helpful. I’d love to hear back from you, especially about any creative ways you’ve put this to use.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
 

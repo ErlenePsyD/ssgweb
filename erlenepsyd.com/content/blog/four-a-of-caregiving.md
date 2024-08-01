@@ -40,7 +40,7 @@ The first A stands for Acceptance. I wrote in the previous post about the “mom
 
 ### 2. Accommodation
 
-The second A stands for Accommodation. This implies that you have accepted the caregiver role and now seek ways to meet the needs of the care recipient while also meeting the responsibilities of your other commitments and roles. Common examples are adult children who are caregivers for their elderly parents while raising their children. Many caregivers also have work-related roles and attendant responsibilities. How does one’s own needs get met? To further complicate the challenge, neither your needs nor your care recipient’s needs are static. The situation is always changing.
+The second A stands for Accommodation. This implies that you have accepted the caregiver role and now seek ways to meet the needs of the care recipient while also meeting the responsibilities of your other commitments and roles. Common examples are adult children who are caregivers for their elderly parents while raising their own children. Many caregivers also have work-related roles and attendant responsibilities. How does one’s own needs get met? To further complicate the challenge, neither your needs nor your care recipient’s needs are static. The situation is always changing.
 
 > **A Real-Life Example:**
 >

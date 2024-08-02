@@ -11,6 +11,8 @@ In my previous post, [Unlocking the Ten Essential Spaces Every Caregiver Needs](
 
 ## Caregiver Fatigue and Dissatisfaction
 
+![A bird dives into a calm pond, wings spread as it enters the water, creating ripples on the surface. The pond is surrounded by lush green vegetation and overhanging tree branches, reflecting in the water]({static}/images/bird_lands_in_water.jpg){: .image-process-article-image .right}
+
 Beyond the fatigue that caregivers experience, there is often a feeling of dissatisfaction or unfulfillment. While we caregivers can identify that our needs are not being met, it is not always clear what those needs are and what would help. To address that, I suggested an activity to help clarify these needs. The activity asked caregivers to consider each of the ten spaces individually and ask:
 
 - Which are typically (before becoming a caregiver) important to you?
@@ -64,4 +66,4 @@ The fourth A stands for Agency. From the perspective of the care recipient, thei
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
 
-_Photo by the author._
+_Photo by Madeleine B._

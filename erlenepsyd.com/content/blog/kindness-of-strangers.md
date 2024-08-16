@@ -15,6 +15,8 @@ Going forward through life, we develop and count on the support of close others,
 
 ## The Challenge of Old Age
 
+![Two women sitting on a couch in a living room.]({static}/images/erlene_with_a_friend.jpg){: .image-process-article-image .right}
+
 Later in life, we reach a stage where we lose others: friends, colleagues, and partners. Our support group dwindles and sometimes disappears. This is the stage of old age. It is, perversely, a time when people increasingly need help to get by and even survive.
 
 Some older persons do well with accepting the need for help and are able to comfortably recruit and connect with strangers. Others have trouble with this. They tend to avoid asking for help and will resist and struggle. It is not unusual for this to cause trouble and unmet danger.
@@ -74,4 +76,4 @@ It's the little things that work!
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
 
-_Photo by Madeleine B._
+_Photo by the author_

@@ -4,6 +4,7 @@ version = "0.1.1"
 description = "Static Site Generator files for the ErlenePsyD.com website"
 authors = ["Neil Johnson <neil@cadent.com>"]
 license = "MIT"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.9"

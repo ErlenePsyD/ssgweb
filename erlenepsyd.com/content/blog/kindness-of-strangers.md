@@ -23,7 +23,7 @@ Some older persons do well with accepting the need for help and are able to comf
 
 In recent times, the family structure, long a constant and stable source of support, has become less structured and less available. People close to us historically might have depended on are no longer close. Close connections may be via social media, but the absence of presence in real time and space cannot meet our needs.
 
-> "And so, increasingly the older person comes to need the attention of strangers and depend on these being known for not being structured and close."
+> And so, increasingly the older person comes to need the attention of strangers and depend on these being known for not being structured and close.
 
 The reasons for this are many and complex, and it needs to be said that the presence of technology writ large has something to do with defining intimate, in-person connections with successive approximations. However, some needs require physical presence. This does matter to old people, maybe even more so than at younger ages.
 
@@ -38,7 +38,7 @@ The study was designed to identify what personality styles or behaviors might di
 - Rejection
 - Suspiciousness
 
-These effects and behaviors impede positive connections. This was not related to how ill the patient was. Even some very sick patients were able to relate to the nurses and appreciate their care.
+These affects and behaviors impede positive connections. This was not related to how ill the patient was. Even some very sick patients were able to relate to the nurses and appreciate their care.
 
 ## The Inevitable Dependence on Strangers
 
@@ -58,9 +58,9 @@ In time, you might decide not to drive anymore. Or be told you must stop. And th
 
 How might we make this need to count on strangers work for us? Consider what we know that does not work. We know that being nasty, being cold, not making eye contact, not in any way recognizing the other person, closes the door on a potential relationship. Conversely, showing warm recognition and interest in another opens the door.
 
-> "I'm under 5 feet tall at this point and I cannot reach the top shelves at my grocery store. So, I just kind of stand there in the aisle waiting for someone who's taller than me (most people are!), and I ask if they might help me reach the item. Then I make a little joke about how for my next life I'm going to put in a request to be taller. But for right now 'thank you.' And I smile. And they return the smile, and I suspect feel a touch of 'good' for having helped someone."
+> I'm under 5 feet tall at this point and I cannot reach the top shelves at my grocery store. So, I just kind of stand there in the aisle waiting for someone who's taller than me (most people are!), and I ask if they might help me reach the item. Then I make a little joke about how for my next life I'm going to put in a request to be taller. But for right now "thank you." And I smile. And they return the smile, and I suspect feel a touch of 'good' for having helped someone.
 
-It's the little things that do work!
+It's the little things that work!
 
 ## The Little Things That Make a Difference
 

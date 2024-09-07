@@ -1,5 +1,5 @@
 ---
-Title: The Unexpected Remedy --  How Embracing Others' Joy Can Heal Your Heart
+Title: Embracing Vicarious Joy for Shared Happiness
 Date: 2024-09-05 08:08
 Tags: joy, empathy, connection, resilience, friendship, interdependence
 Summary: Joy can be shared and experienced vicariously, especially in challenging times. Embracing others' happiness can boost our own well-being, creating a positive cycle of emotional connection and support.
@@ -11,6 +11,8 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 How lovely that we are having at least a political moment where Joy has been designated as the official mood of the election season. Depending on the many variables directing events in the political arena, our personal joy meter might reach a high point in early November.
 
+![An elderly couple smiling and holding a bouquet of bright pink flowers outside a white building with large windows and an arched door.]({static}/images/pexels-rdne-5637535-med.jpg){: .image-process-crisp}
+
 ## Defining Joy
 
 We each know what brings us joy, even if it is an emotional state that is challenging to describe. What comes to mind when I ask, "What brings you joy?" It might be:
@@ -21,7 +23,7 @@ We each know what brings us joy, even if it is an emotional state that is challe
 
 There might be a unique event filed in your memory of "unbridled joy". These days unbridled joy is especially difficult to come by. With all that's going on in the world, greeting us each day through our newspapers and devices, we are hardly primed to feel joy.
 
-## The Challenge of Embracing Joy
+## Preparing to Embrace Joy
 
 On the personal level, when something has gone particularly well for us, when we're successful at something and feeling pretty good about things, we are often quick to tamp down that joyful feeling. We have learned that joy is ephemeral. We may feel sinful when we experience too much joy knowing that others are suffering. It is hard to hold together the feeling and the thought. So, we tend to keep our joy to ourselves, to tamp it down and bridle it.
 
@@ -45,7 +47,7 @@ Along with the dinner, my friend brought photographs and her travel journal. She
 
 I responded that I felt happier listening to her adventures than I've felt in a while. In fact, her joyful recounting of the trip recalled a great trip I once took to Italy. And then that prompted a memory of a funny, quirky travel experience, and we laughed again. Joy shared, and a perfect example of vicarious joy.
 
-## The Importance of Shared Joy in Older Age
+## The Special Value of Sharing Joy in Older Age
 
 This natural bidirectionality of joy might be especially relevant in older age, when the frequency and range of personal experiences of joy, for many reasons, become limited. It makes intuitive sense to buddy up with others and pool the inventory. It helps avoid loneliness, too. From the joy sharer's side, it provides an opportunity to meet the need for joy of another person who may be joy-depleted at this time. And from the other side, there is the opportunity to lean in and get a boost from another's joy.
 
@@ -74,3 +76,5 @@ Here's how it goes:
 [Contact me]({filename}/pages/contact.md). I’d love to hear back from you, especially about any creative ways you’ve put this to use.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
+_Photo by [RDNE Stock project](https://www.pexels.com/photo/portrait-of-a-happy-elderly-couple-5637535/)_

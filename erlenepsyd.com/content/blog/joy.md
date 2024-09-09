@@ -11,7 +11,7 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 How lovely that we are having at least a political moment where Joy has been designated as the official mood of the election season. Depending on the many variables directing events in the political arena, our personal joy meter might reach a high point in early November.
 
-![An elderly couple smiling and holding a bouquet of bright pink flowers outside a white building with large windows and an arched door.]({static}/images/pexels-rdne-5637535-med.jpg){: .image-process-crisp}
+![Two older gentlemen happily converse in front of a coffee station, their smiles reflecting the joy of friendship and good company.]({static}/images/connor-olson-R_jWv5XkjYo-unsplash.jpg){: .image-process-crisp}
 
 ## Defining Joy
 
@@ -61,7 +61,7 @@ I would draw people gathered on both sides of a fence. Not a high fence, and not
 
 ## Activity: Sharing Joy with a Friend
 
-1. Connect with a friend. It does not need to be a "close friend". In fact, this gets a bit closer.
+1. Connect with a friend. It does not need to be a "close friend". In fact, this gets us a bit closer.
 2. Set a "meeting". In-person is best for connections, but zooms are good, too, and FaceTime. Phone chats are okay if that's the only option.
 3. Tell the friend that you read this blog, and this was a suggested activity to try.
 
@@ -77,4 +77,4 @@ Here's how it goes:
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
 
-_Photo by [RDNE Stock project](https://www.pexels.com/photo/portrait-of-a-happy-elderly-couple-5637535/)_
+_Photo by [Connor Olson](https://unsplash.com/@connor_o46?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-group-of-people-standing-around-each-other-R_jWv5XkjYo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_

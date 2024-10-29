@@ -10,7 +10,7 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 ## Introducing "Joylets"
 
-I'm introducing a new word: "joylet." -- a contraction of the noun "joy" and the suffix "let." When we speak of joy, we're speaking of a feeling, an experience of much happiness. 
+I'm introducing a new word: "joylet" -- a contraction of the noun "joy" and the suffix "let." When we speak of joy, we're speaking of a feeling, an experience of much happiness. 
 
 While adding "let" reduces this to a diminutive version, it still embraces the elements of full joy. Each of us intuitively knows what brings us joy. While it can be hard to describe clearly, we can recognize joy when we experience it -- if we allow ourselves to.
 

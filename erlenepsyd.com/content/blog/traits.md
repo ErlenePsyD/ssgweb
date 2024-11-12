@@ -20,7 +20,7 @@ On the other end of the spectrum are folks who have learned from experience and 
 
 ## Key Personality Traits
 
-As a personologist who has studied how personalities inform the ways people function over many years, I've observed certain personality traits that appear to be especially useful in old age. Conversely, other traits can make matters worse.
+As a personologist who has studied how personalities inform the ways people function over many years, I've observed certain personality traits that appear to be especially useful in old age. 
 
 ### Extraversion
 
@@ -32,7 +32,7 @@ A certain amount of dependency is adaptive in old age. The concept of "rugged in
 
 ### Narcissism
 
-I recognize that this term has a bad connotation. It shouldn't, because healthy narcissism is necessary throughout life. This is perhaps especially true in older age when so many internal and external cues supporting the self wane or are lost, and it becomes difficult to maintain a sense of self-continuity. We need to be able to feel like oneself no matter what our age. 
+I recognize that this term has a bad connotation. It shouldn't, because healthy narcissism is necessary throughout life. This is perhaps especially true in older age when so many internal and external cues supporting the self wane or are lost, and it becomes difficult to maintain a sense of self-continuity. We need to be able to feel like ourself no matter what our age. 
 
 When we look in a mirror and see a parent or grandparent reflected back at us, it can be unsettling. When we are retired from working in our trade or profession, and no longer have the external supports or reinforcements of that role, it doesn't mesh with the internalized image of our self.
 
@@ -63,7 +63,7 @@ Consider which challenges your personality style might find difficult to meet:
     * Medication regimens
     * Physical supports/aides
 * Reliance on strangers for help/care/getting around
-* Lessening of control or power (perceived and actual)
+* Lessening of control or power 
 * More time spent alone
 
 **Coming Next**: What is resilience? Spoiler alert: It is not one thing, but rather three separate entities.

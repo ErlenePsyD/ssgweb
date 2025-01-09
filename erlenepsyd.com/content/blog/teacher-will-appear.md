@@ -11,6 +11,8 @@ There is a famous Buddhist proverb that states "When the student is ready, the t
 
 ## The Nature of Learning and Change
 
+![A climbing plant with glossy green oval leaves growing on a trellis, with a single bright red flower visible]({static}/images/img_2098.jpg){: .image-process-crisp .right}
+
 I think this relates to much of what we identify as the wisdom of old age - the reflection of what the older person, the student, has learned from their unique life experiences. Some people are uncomfortable with change and defend against it. To them, change can feel scary, dangerous, and uncomfortably dystonic. They stay inflexible and safe, learning very little.
 
 Others are open to change when they experience it as necessary. And some actively seek change. These different patterns of the individual's relationship to change are lifelong, with subtle tweaking in response to changing internal and external circumstances, many of which come naturally with aging.

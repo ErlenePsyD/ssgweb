@@ -24,7 +24,7 @@ Goldilocks was startled awake when later the three bears came home from their wa
 
 In my version of Goldilocks her name is Silverlocks, as she is now an older person, like I am, with hair that is more silver than gold. But she has remained a curious person, wanting to explore and continue to learn from life's adventures even into her later years. 
 
-One lesson she has learned, perhaps a touch of the wisdom of age, is that perfection seldom occurs, and that, if it does, it is not permanent. Another lesson learned was that, while little is perfect, much is often good enough and sometimes even just right. What was once "perfection" was the gold standard, "good enough" is the silver standard now.
+One lesson she has learned, perhaps a touch of the wisdom of age, is that perfection seldom occurs, and that, if it does, it is not permanent. Another lesson learned was that, while little is perfect, much is often good enough and sometimes even just right. What was "perfection" was the gold standard, "good enough" is the silver standard now.
 
 > While little is perfect, much is often good enough and sometimes even just right.
 
@@ -40,19 +40,19 @@ When we feel atypically energized and excited, perhaps on the cusp of a new expe
 
 This is the most existential of the three fears. It embraces knowing our mortality and the inexorable running out of time. While curiosity opens the door to new learning and change, we know from experience that change takes energy and time, two commodities that become increasingly precious with age.
 
-Older age is also a time when we reminisce and review our past. We are looking back now with a different lens, one more nuanced rather than resolute and that can be a focus of curiosity too. Curiosity leads to change. We remember things differently and hopefully come to some acceptance of the life lived, good enough, just right.
+Older age is also a time when we reminisce and review our past. We are looking back now with a different lens, one more nuanced rather than resolute and that can be a focus of curiosity too. Curiosity leads to change. We remember things differently and hopefully come to accept that life lived was good enough, just right.
 
 ### Fear of Falling
 
 This is a fear that I didn't anticipate when I was younger, and didn't appreciate how big a bear it becomes with advancing age. The fear of falling feeds on our experiences and recognition that the physical world in many ways is inhospitable to old age. It is at times unsafe, often not good enough and seldom just right. It is not elder-friendly.
 
-And we learn too that falls are dangerous, potentially devastating and possibly deadly. Falls in older age are nothing like what they were when we were children, or even young adults. It is understandable that some older people avoid taking chances at all. Not taking chances means not trying anything new. While curiosity opens the door to new learning and change, we know from experience that change takes energy and time, two commodities that become increasingly precious as we age.
+And we learn too that falls are dangerous, potentially devastating and possibly deadly. Falls in older age are nothing like what they were when we were children was, or even young adults. It is understandable that some older people avoid taking chances at all. Not taking chances means not trying anything new. While curiosity opens the door to new learning and change, we know from experience that change takes energy and time.
 
 The result is that sometimes we choose not to try anything new at all. And we really should.
 
 ## DrR Reflects
 
-As an older person I live each day in a world along with the three fears. My guiding principles are flexibility and reasonable risk. In addition to the bend and stretch exercises we do to keep our bodies tuned, we need exercises for our learning, trying and changing muscles, too.
+As an older person I live each day in a world along with the three fears. My guiding principles are flexibility and reasonable risk. In addition to the bend and stretch exercises we do to keep our bodies tuned, we need exercises for our "changing" muscles, too.
 
 > If the bar is too high or too low, get someone to help you... or move the bar.
 

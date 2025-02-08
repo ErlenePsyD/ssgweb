@@ -12,6 +12,8 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 As a child I loved the fairy tale, The Three Bears. It was a story about a little girl with golden hair, like I had, whose name was Goldilocks. One day Goldilocks went out for a walk and came upon the house of The Three Bears: Mama bear, Papa bear and Baby bear. Being curious, like I was, Goldilocks entered the house, but no one was home as the bear family was out on a walk of their own.
 
+![A watercolor painting of three bears with surprised expressions observing a sleeping girl in a bed]({static}/images/goldilocks.jpg){: .image-process-article-image .right}
+
 Goldilocks was exploring the house when she noticed three bowls of porridge set out on the table. Feeling hungry, she tasted a bowl of porridge and declared it "too hot." Then she tried a second bowl and said, "this is too cold." But when she tasted the third bowl, she found it to be "just right." And she ate it all up.
 
 Then Goldilocks sat down on a chair, but found it "too hard", so she tried another one. But that one she found was "too low". The third chair she tried felt "just right." So, she sat down. 

@@ -1,5 +1,5 @@
 ---
-Title: Why Some Things Your Parents Said Actually Make Sense Now
+Title: Why Some Things Your Parents Told You Still Make Sense Even Now
 Date: 2025-05-30 05:12
 Tags: wisdom, childhood, impermanence, grief, reflection
 Summary: Childhood advice like "listen to your elders" and "this too shall pass" often remains relevant as we age, though our understanding deepens with life experience.
@@ -30,7 +30,7 @@ Recently, my mind wandered off to think about some of the old "words of wisdom" 
 
 **My Response:** I agree that there is some truth in this. Older people have lived longer by definition. They have had more life experiences from which to learn.
 
-Yes, but there is a strong tendency for our experiences to reinforce and strengthen our beliefs, feelings and behaviors over time. As we age, the tendency is to become more like us.
+Yes, but there is a strong tendency for our experiences to reinforce and strengthen our beliefs, feelings and behaviors over time. As we age, the tendency is to become more like ourselves.
 
 ### "If you don't respect yourself, no one else will respect you."
 
@@ -63,7 +63,7 @@ In older age knowing that the clock will go 'round again is actually quite comfo
 
 **My Response:** I have mixed feelings about this one. It speaks to positive and helpful anticipation and planning, versus negative and unhelpful worrying and obsessing. Sometimes youth can be too impulsive. And often old age isn't impulsive enough.
 
-It is wise to acknowledge that a bridge or bridges is possible, even probable, as we look ahead, and a plan B is usually wise, too. But it is also wise to avoid getting lost in the weeds and becoming stuck. As a clinician, the focus of therapy often was the individual's pain and effort to emerge from the weeds.
+It is wise to acknowledge that a bridge is possible, even probable, as we look ahead, and a plan B is usually wise, too. But it is also wise to avoid getting lost in the weeds and becoming stuck. As a clinician, the focus of therapy often was the individual's pain and effort to emerge from the weeds.
 
 ### "This, too, shall pass."
 
@@ -73,15 +73,13 @@ I am writing this now after having been away from my work for the last several m
 
 ## An Invitation to Reflect
 
-I hope you found this post interesting. For me looking back at some of the wise words from my childhood evoked delightful reminiscence and nostalgia. I think you would enjoy doing this yourselves.
+I hope you found this post interesting. For me looking back at some of the wise words from my childhood evoked delightful reminiscence and nostalgia. I think you might enjoy doing this yourselves.
 
 **Consider these questions:**
 
 * What "words of wisdom" did you hear over the course of your childhood?  
 * Have you used them with the next generation in your own family?  
 * Which ones make sense to you now as an older person, or rising older person?
-
-Do let me know. I'd love to hear from you.
 
 [Contact me]({filename}/pages/contact.md). I’d love to hear back from you, especially about any creative ways you’ve put this to use.
 

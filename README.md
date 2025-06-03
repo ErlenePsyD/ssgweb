@@ -22,23 +22,13 @@ To run the Pelican commands, change to the website directory:
 
 ```bash
 cd erlenepsyd.com
-# set up the Python virtual environment
-poetry shell
-```
-
-If poetry reports any version issues, update it:
-
-```bash
-exit   # to leave the poetry shell environment
-poetry update
-poetry shell
 ```
 
 Now you can generate the site, and serve it up:
 
 ```bash
-pelican content
-pelican --autoreload --listen
+poetry run pelican content/
+poetry run pelican --autoreload --listen
 ```
 
 ## Using GitHub branches to prepare a Pelican site for a staging and production server

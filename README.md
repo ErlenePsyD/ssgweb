@@ -18,28 +18,15 @@ poetry install
 
 ## Using Pelican
 
-To run the Pelican commands, change to the website directory:
+To run the Pelican commands, change to the website directory, generate the site, and serve it up::
 
 ```bash
 cd erlenepsyd.com
-# set up the Python virtual environment
-poetry shell
+poetry run pelican content/
+poetry run pelican --listen --autoreload
 ```
 
-If poetry reports any version issues, update it:
-
-```bash
-exit   # to leave the poetry shell environment
-poetry update
-poetry shell
-```
-
-Now you can generate the site, and serve it up:
-
-```bash
-pelican content
-pelican --autoreload --listen
-```
+To stop the web server, press `CTRL-C` in the terminal.
 
 ## Using GitHub branches to prepare a Pelican site for a staging and production server
 
@@ -112,7 +99,7 @@ Enter these commands in the following order:
 
 ```bash
 firebase --version      # ensure firebase is working
-firebase login          # ensure you're authenticated
+firebase login --reauth # ensure you're authenticated
 firebase use staging    # Use the staging server
 firebase deploy         # deploy files to staging
 ```
@@ -123,6 +110,22 @@ firebase deploy         # deploy files to staging
 firebase logout
 firebase login
 ```
+
+### Deploy to the production server
+
+Once you're satisfied that the branch is ready to deploy to the production server, follow these steps:
+
+1. Set: `RELATIVE_URLS = False` in `pelicanconf.py`
+2. Generate site: `pelican content/`
+3. Deploy the generated output to the production server using firebase.
+
+```bash
+firebase login --reauth
+firebase use production     # Use the production server
+firebase deploy             # deploy files to production
+```
+
+Now review the site in your favorite browser on the production web server: <https://erlenepsyd.com/>
 
 ### Careful commits
 
@@ -147,18 +150,3 @@ To test the production branch locally:
 3. Make any other production-specific changes to `pelicanconf.py`
 4. Generate site: `pelican content/`
 5. Test locally on `http://127.0.0.1:8000/` with `pelican --autoreload --listen`
-
-## Deploy to the production server
-
-Once you're satisfied that the production branch is ready to deploy to the production server, follow these steps:
-
-1. Set: `RELATIVE_URLS = False` in `pelicanconf.py`
-2. Generate site: `pelican content/`
-3. Deploy the generated output to the production server using firebase.
-
-```bash
-firebase use production     # Use the production server
-firebase deploy             # deploy files to production
-```
-
-Now review the site in your favorite browser on the production web server: <https://erlenepsyd.com/>

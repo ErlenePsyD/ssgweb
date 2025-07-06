@@ -16,6 +16,20 @@ You'll need to set up your Python environment like this, **in the project root**
 poetry install
 ```
 
+## GitHub CLI Setup
+
+For managing GitHub Actions and pull requests from the command line, install the GitHub CLI:
+
+```bash
+sudo apt update && sudo apt install gh
+```
+
+After installation, authenticate with GitHub:
+
+```bash
+gh auth login
+```
+
 ## Using Pelican
 
 To run the Pelican commands, change to the website directory, generate the site, and serve it up::

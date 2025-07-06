@@ -33,13 +33,14 @@ In sentient old age our main personality traits remain quite stable. We are also
 
 A group of older adults is more diverse than a group at other ages on pretty much any measure. A group of second-graders, age seven or eight, for example, are more alike than is a group of older folks in their eighties. 
 
-> The tendency to group and generalize about people according to age becomes increasingly less reliable with advancing age.
+The tendency to group and generalize about people according to age becomes increasingly less reliable with advancing age.
 
 ### 3. Reduced Energy
 
 As we advance through old age there occurs a general slowing, and the perceived reciprocal of this is a lessening of energy. Energy becomes an increasingly precious commodity in advancing old age. There are numerous contributions to this.
 
-**Physical contributions include:**
+#### Physical contributions include:
+
 - Frequently occurring mobility changes
 - Sensory changes
 - Nutritional issues
@@ -48,7 +49,8 @@ As we advance through old age there occurs a general slowing, and the perceived 
 
 We also know that sleep architecture changes with old age. The deep sleep we take for granted when we are young, the real restful sleep, gets nibbled away as we become old.
 
-**Psychosocial contributions include:**
+#### Psychosocial contributions include:
+
 - Loneliness
 - Boredom
 - Multiple sources of anxiety and fear
@@ -93,9 +95,9 @@ Each of us reflects a history of our relationship to change that remains quite s
 
 **Type 1: Proactive** - These folks are inclined to "look ahead" and plan change accordingly. Continuing care and retirement communities are likely highly inhabited by people who are proactive.
 
-**Type 2: Flexible as Needed** - The second group of people are those who do change but on an as-needed basis. For example, these folks might consider moving from a large multi-storied house after a fall or two on the stairs.
+**Type 2: Change as Needed** - The second group of people are those who do change but on an as-needed basis. For example, these folks might consider moving from a large multi-storied house after a fall or two on the stairs.
 
-**Type 3: Resistant to Change** - The third group are those who are resistant to change. This is illustrated by someone who once came into my office in his early 80s and announced at the outset that he was the same person he was when he was 40. That told me a lot, including my wondering what he was doing for the last 40 years. These are people who resist aging, resist change.
+**Type 3: Resistant to Change** - The third group includes those who are resistant to change. This is illustrated by someone who once came into my office in his early 80s and announced at the outset that he was the same person he was when he was 40. That told me a lot, including my wondering what he was doing for the last 40 years. These are people who resist aging as well as change.
 
 ## Final Thoughts
 
@@ -105,7 +107,7 @@ These eight 'truths' that I've put forward were not ranked in any way. But had I
 
 These, in the aggregate, are essentially important throughout life, and exquisitely so when we become older persons.
 
-[Contact me]({filename}/pages/contact.md). I’d love to hear back from you, especially about any creative ways you’ve put this to use.
+[Contact me]({filename}/pages/contact.md). I’d love to hear from you.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
 

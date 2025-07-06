@@ -30,6 +30,52 @@ After installation, authenticate with GitHub:
 gh auth login
 ```
 
+## Dependency Management
+
+This project uses a hybrid approach for dependency management:
+
+- **Local development**: Use Poetry for managing dependencies and virtual environments
+- **CI/CD (GitHub Actions)**: Use pip with `requirements.txt` for faster, more reliable builds
+
+### Adding Dependencies
+
+To add a new dependency:
+
+```bash
+poetry add package-name
+```
+
+After adding dependencies, regenerate the requirements.txt file for GitHub Actions:
+
+```bash
+poetry export --without-hashes --format=requirements.txt --output=requirements.txt
+```
+
+## GitHub Actions Automation
+
+The repository includes automated GitHub Actions that:
+
+- **Pull Requests**: Automatically build and deploy preview sites to Firebase
+- **Main branch**: Automatically deploy to production Firebase hosting
+
+### Viewing GitHub Actions
+
+To view recent GitHub Actions runs:
+
+```bash
+gh run list
+```
+
+To view logs from a specific run:
+
+```bash
+gh run view <run-id> --log
+```
+
+### Preview URLs
+
+When you create a pull request, GitHub Actions will automatically create a preview deployment. The preview URL will be available in the GitHub Actions logs and posted as a comment on the pull request.
+
 ## Using Pelican
 
 To run the Pelican commands, change to the website directory, generate the site, and serve it up::

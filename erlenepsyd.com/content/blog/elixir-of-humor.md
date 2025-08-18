@@ -1,7 +1,7 @@
 ---
-Title: Stop Fighting Aging and Start Laughing at It Instead
+Title: The Ageism Embedded in Anti-Aging, and How Altruism and Humor Can Help With Inevitable Change
 Date: 2025-08-17 17:32
-Tags: humor, laughter, resilience, community, coping, acceptance
+Tags: humor, resilience, community, coping 
 Summary: Humor helps older adults cope with aging challenges by reducing negativity, connecting with others who understand, and finding joy in inevitable changes rather than fighting them.
 ---
 
@@ -15,21 +15,21 @@ For example, recently I read that we should walk 7,000 steps per day to delay th
 
 > "Living means aging. We cannot not age as long as we are alive. We can, however, aim to be the best we can at whatever age we are."
 
-## Coping Mechanisms: Building Your Toolkit
+## Coping strategies: Building Your Toolkit
 
-Coping mechanisms in the aggregate embrace how the individual thinks, acts and feels as they attempt to meet their needs. The success of a particular mechanism reflects how appropriate it is to the specific challenge. If one mechanism doesn't work, the individual can try another in their repertoire. 
+Coping strategies in the aggregate embrace how the individual thinks, acts and feels as they attempt to meet their needs. The success of a particular strategy reflects how appropriate it is to the specific challenge. If one strategy doesn't work, the individual can try another in their repertoire. 
 
-It helps to be able to call on multiple mechanisms. Those who have a very limited repertoire are at a disadvantage. If an attempt to meet a need fails them, they tend to keep on doing it over and over again, only harder and faster. And so, their needs continue to go unmet.
+It helps to be able to call on multiple strategies. Those who have a very limited repertoire are at a disadvantage. If an attempt to meet a need fails them, they tend to keep on doing it over and over again, only harder and faster. And so, their needs continue to go unmet.
 
-Certain coping mechanisms are considered to be more mature and others more primitive, such as denial, projection, and passive aggression as examples. Chief among the more mature mechanisms are altruism and humor. 
+Certain coping strategies are considered to be more mature and others more primitive, such as denial, projection, and passive aggression as examples. Chief among the more mature strategies are altruism and humor. 
 
 ### Altruism: Giving of Oneself
 
-Altruism can be defined as the giving of oneself—being able to use the self in the service of helping others. It also helps the individual in that it can detract from one's negative feelings, such as sadness. This is one reason why volunteer work is often suggested as it is recognized as being helpful bi-directionally. 
+Altruism can be defined as the giving of oneself—being able to use the self in the service of helping others. It also helps the individual in that it can detract from one's negative feelings, such as sadness. This is one reason why volunteer work is often suggested as it is recognized as being helpful bi-directionally, for both the giver and the recipient. 
 
 ### Humor: Finding Relief in the Ridiculous
 
-Humor is another mature coping mechanism that can be helpful in many ways. Finding the humor in surreal, ridiculous, annoying and inevitable situations—note age-related changes—can offer relief. Humor has been shown to elicit positive affect, a feeling that we can experience and share.
+Humor is another mature coping strategy that can be helpful in many ways. Finding the humor in surreal, ridiculous, annoying and inevitable situations—note age-related changes—can offer relief. Humor has been shown to elicit positive affect, a feeling that we can experience and share.
 
 ## Negative and Positive Ageism
 
@@ -62,7 +62,7 @@ Sharing what we're going through with others who "get it" can reduce feelings of
 
 > "The truth is that there is only one way to not age, and that is to not live."
 
-Anti-aging is not only impossible, but unrealistic. What we might aspire to is to be the best self we can be at the age we are. Poking a little fun at our age-related changes might include having a good laugh with our friends, our children, and even with our grandchildren—maybe especially with our grandchildren, allowing them to see that humor engenders and reflects the energy in our life and spirit. 
+Anti-aging is not only impossible, but even unrealistic. What we might aspire to is to be the best self we can be at the age we are. Poking a little fun at our age-related changes might include having a good laugh with our friends, our children, and even with our grandchildren—maybe especially with our grandchildren, allowing them to see that humor engenders and reflects the energy in our life and spirit. 
 
 It is unwise to waste this energy on what is impossible, such as avoiding change. There will be changes:
 

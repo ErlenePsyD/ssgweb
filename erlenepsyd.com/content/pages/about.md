@@ -31,4 +31,4 @@ A dynamic public speaker, Dr. Rosowsky has presented extensively to audiences al
 
 > I've presented to audiences as large as thousands, and as small as one. I recall that we connected well, the attendee and I, and put our time together to good use.
 
-Family status: Married; Three adult children; Six grandchildren.
+Family status: Three adult children; Six grandchildren.

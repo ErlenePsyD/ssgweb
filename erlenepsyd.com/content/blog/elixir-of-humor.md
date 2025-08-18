@@ -40,7 +40,7 @@ Ageism can be both negative and positive. Negative ageism is what we generally t
 - Motor limitations
 - Decreased balance
 - Slowed reflexes
-- Physical changes
+- Changes in appearance
 
 An example of positive ageism might be when an older woman is spoken of as being a sweet little old lady when in fact old women are not necessarily sweet nor little. Describing her that way can be demeaning and infantilizing and certainly denying her of her individualism.
 
@@ -64,14 +64,7 @@ Sharing what we're going through with others who "get it" can reduce feelings of
 
 Anti-aging is not only impossible, but even unrealistic. What we might aspire to is to be the best self we can be at the age we are. Poking a little fun at our age-related changes might include having a good laugh with our friends, our children, and even with our grandchildren—maybe especially with our grandchildren, allowing them to see that humor engenders and reflects the energy in our life and spirit. 
 
-It is unwise to waste this energy on what is impossible, such as avoiding change. There will be changes:
-
-- Motor changes
-- Cognitive changes  
-- Changes in our appearance
-- And others
-
-But only if we are fortunate enough to get to be an old person.
+It is unwise to waste this energy on what is impossible, such as avoiding change. There will be changes, but only if we are fortunate enough to get to be an old person.
 
 ## Prescription: Humor & Laughter
 
@@ -83,4 +76,4 @@ Spread it around.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
 
-_Photo by the author_
+_Photo by the Rosowsky Family_

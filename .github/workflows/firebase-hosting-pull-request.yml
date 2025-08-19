@@ -24,4 +24,4 @@ jobs:
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_ER_STAGING }}
-          projectId: er-staging
+          projectId: er-prod-6f5e5

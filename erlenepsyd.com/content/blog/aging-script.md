@@ -9,15 +9,15 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 ![Golden sunset illuminates tidal marshlands through dense coastal forest canopy, with winding waterways reflecting dramatic storm clouds overhead]({static}/images/golden-marsh.jpg){: .image-process-crisp}
 
-One of my first positions as a licensed psychologist was as co-director of a Community Mental Health Center responsible for services to older adults. The Center was situated across the street from the local hospital, and we would often be referred patients from the ER who had presented with a minor medical concern but mostly were anxious and worried. 
+One of my first positions as a licensed psychologist was as co-director of a Community Mental Health Center responsible for services to older adults. The Center was situated across the street from the local hospital, and we would often be referred patients from the ER who had presented with a minor medical concern but mostly were anxious and worried.
 
-Over time I came to recognize a presentation that reflected the individual's anticipated longevity and visions of themselves at that age. Perceiving a lack of fit between what they had anticipated and what they were experiencing appeared to contribute to their anxiety and worries.
+Over time I came to recognize a presentation that reflected the individual's anticipated longevity and visions of themselves at that age. Perceiving a lack of fit between what they had anticipated and what they were experiencing appeared to contribute to their anxiety.
 
 ## Discovering the Origins of Our Aging Scripts
 
-I became curious about how the script was created. And so, I asked these older adults "What age have you expected to live until?" "Why that age?" 
+I became curious about how the script was created. And so, I asked these older adults "What age have you expected to live until?" "Why that age?"
 
-I was surprised at how naturally they accepted my questions and how available their responses were. 
+I was surprised at how naturally they accepted my questions and how available their responses were.
 
 ### Family Lore and Quasi-Science
 
@@ -49,17 +49,17 @@ And so, they struggled to describe how they expected to be at the age they actua
 
 ## Testing the Script with High School Students
 
-For a number of years, I would give a talk about old age in my hometown to high school students taking a course in psychology. I designed an exercise based on the internalized script. 
+For a number of years, I would give a talk about old age in my hometown to high school students taking a course in psychology. I designed an exercise based on the internalized script.
 
-I distributed index cards and asked that they put their age in one corner of it and the age they expected to live to. On the other side, I asked that they list five descriptors of what they expected to be like at that age. 
+I distributed index cards and asked that they put their age in one corner of it and the age they expected to live to. On the other side, I asked that they list five descriptors of what they expected to be like at that age.
 
 The age range looked much the same as what my older adults had reported. The descriptor clusters were also similar, albeit more skewed to the negative. By adolescence, the greater society has also contributed to the script.
 
 ## How Scripts Shape Relationships
 
-The internalized script outlines a narrative of one's life going forward. It is powerful not only for oneself but also informs our relationship with others, especially those with whom we're in close relationship. 
+The internalized script outlines a narrative of one's life going forward. It is powerful not only for oneself but also informs our relationship with others, especially those with whom we're in close relationship.
 
-Consider, for example, the long-partnered couple where one anticipates living to 60, and the other to 90 and being active until the very end. They each bring their script as they talk about their retirement, the empty nest, where they're going to reside, and how they're going to live the next chapter of their lives. 
+Consider, for example, the long-partnered couple where one anticipates living to 60, and the other to 90 and being active until the very end. They each bring their script as they talk about their retirement, the empty nest, where they're going to reside, and how they're going to live the next chapter of their lives.
 
 And this powerful narrative certainly affects the relationship between adult children and their aging parents. I'll have more to say about that in the next post.
 
@@ -86,4 +86,6 @@ Consider doing this activity with your life partner, if this suits your relation
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
 
-_Photo by the author._
+## Photo Credit
+
+Photo by The Rosowsky Family_

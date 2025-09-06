@@ -2,6 +2,175 @@
 
 Erlene's website generation files. This site uses Pelican, which is a Python project.
 
+## Content Development Workflow
+
+This section documents the complete workflow for creating new blog posts and updating the website, designed for collaboration between developers and content creators.
+
+### 1. Create PR and Update Site
+
+#### Create Issue and Branch
+
+1. Go to the repository: [ErlenePsyD/ssgweb](https://github.com/ErlenePsyD/ssgweb)
+2. **Create an Issue** for the new post with a descriptive title
+3. Create a new branch from the Issue using GitHub's "Create a branch" feature
+4. Clone or fetch the new branch locally:
+
+```bash
+git fetch origin
+git checkout <branch-name>
+```
+
+#### Add Content Files
+
+1. Add new blog post to `erlenepsyd.com/content/blog/`
+2. Add supporting images to `erlenepsyd.com/content/images/`
+3. Make any other required site updates
+
+### 2. Generate Site Locally and Test
+
+Before generating the site, ensure your local environment is properly configured:
+
+#### Prerequisites Check
+
+```bash
+# Verify Poetry is installed
+poetry --version
+
+# Verify Python dependencies are installed
+poetry install
+
+# Verify GitHub CLI is set up (for PR management)
+gh auth status
+```
+
+#### Generate and Test Locally
+
+```bash
+# Navigate to the website directory
+cd erlenepsyd.com
+
+# Activate Poetry shell
+poetry shell
+
+# Generate the site
+poetry run pelican content/
+
+# Start local development server
+poetry run pelican --listen --autoreload
+```
+
+The site will be available at `http://127.0.0.1:8000/`. Test that:
+
+- New post appears on the front page
+- Images load correctly
+- All links work properly
+- Content displays as expected
+
+Press `CTRL-C` to stop the server.
+
+### 3. Push Changes to Remote
+
+```bash
+# Add all changes
+git add .
+
+# Commit with descriptive message
+git commit -m "Add new post: [Post Title]"
+
+# Push to remote branch
+git push origin <branch-name>
+```
+
+Pushing changes automatically triggers GitHub Actions to create a Firebase staging deployment with a preview URL.
+
+### 4. Create Pull Request
+
+```bash
+# Create PR using GitHub CLI
+gh pr create --title "Add new post: [Post Title]" --body "Adds new blog post and supporting images. Ready for client review."
+
+# Or create PR via GitHub web interface
+```
+
+The GitHub Actions will post a comment with the staging URL for review.
+
+### 5. Client Review Cycle
+
+1. Email the staging URL to the client for review
+2. Client provides feedback via email
+3. Make requested changes locally
+4. Test changes with local development server
+5. Push updates to the same branch
+6. Repeat until client approves
+
+#### Making Updates During Review
+
+```bash
+# Make changes to content files
+# Test locally as described in step 2
+# Commit and push updates
+git add .
+git commit -m "Update post based on client feedback"
+git push origin <branch-name>
+```
+
+Each push automatically updates the staging deployment.
+
+### 6. Publish to Live Site
+
+Once client approves all changes:
+
+```bash
+# Merge the PR (requires approval)
+gh pr merge <pr-number> --merge --delete-branch
+
+# Or merge via GitHub web interface
+```
+
+Merging to `main` automatically deploys to the production site via GitHub Actions.
+
+## Automation Opportunities
+
+### Automated Testing Setup
+
+Consider adding Playwright for automated testing:
+
+```bash
+# Add Playwright to dependencies
+poetry add playwright pytest-playwright
+
+# Install browser dependencies
+poetry run playwright install
+```
+
+Create test files to verify:
+
+- New posts appear on homepage
+- Images load correctly
+- Navigation links work
+- SEO metadata is present
+
+### GitHub Actions Enhancements
+
+Current automation includes:
+
+- Automatic staging deployments on PR creation
+- Automatic production deployments on merge to main
+- Preview URL generation and commenting
+
+Future enhancements could include:
+
+- Automated accessibility testing
+- Link checking
+- Image optimization
+- Performance testing
+
+---
+
+## Technical Setup
+
+### Prerequisites
+
 You need Poetry installed to manage the Python environment. Read about your platform here: [Introduction | Documentation | Poetry - Python dependency management and packaging made easy](https://python-poetry.org/docs/#installation).
 
 If Poetry is installed correctly, this will work:
@@ -90,10 +259,10 @@ To stop the web server, press `CTRL-C` in the terminal.
 
 ## Using GitHub branches to prepare a Pelican site for a staging and production server
 
-The problem: developing and testing Pelican works best with relative URLS -- in other words, links that are stored as paths from the site root ("/") without the protocol and domain (like "https://www.example.com"). This is for two reasons:
+The problem: developing and testing Pelican works best with relative URLS -- in other words, links that are stored as paths from the site root ("/") without the protocol and domain (like <https://www.example.com>). This is for two reasons:
 
-* You can test your work on Pelican's local web server at 127.0.0.1 if you use relative URLs
-* You can also publish your site to a staging server with any arbitrary domain ("https://staging.example.com" for example) and it will still work just as it did on your local web server.
+- You can test your work on Pelican's local web server at 127.0.0.1 if you use relative URLs
+- You can also publish your site to a staging server with any arbitrary domain (<https://staging.example.com> for example) and it will still work just as it did on your local web server.
 
 Unfortunately, many of Pelican's plugins require absolute URLs, like the pelican-seo plugin.
 
@@ -115,9 +284,9 @@ This will generate SEO friendly absolute links and feeds, but only on the `produ
 
 One of the benefits of using Pelican for web development is that you can commit your work to a version control system like GitHub. In addition to being able to roll back to any saved version of your files, using GitHub means:
 
-* you can share your work with other developers;
-* you have a reliable offsite backup every time you push your work to GitHub;
-* you can always regenerate the site from a "known-good" version of the site.
+- you can share your work with other developers;
+- you have a reliable offsite backup every time you push your work to GitHub;
+- you can always regenerate the site from a "known-good" version of the site.
 
 But, not every file in your project needs to be committed to GitHub.
 
@@ -135,10 +304,10 @@ In addition to site content, other changes should also be committed to `staging`
 
 These changes include:
 
-* Updates to `pyproject.toml` and `poetry.lock`  -- all pelican plugins should be installed on `staging` so the virtual environments are the same for all branches.
-* Updates to the site theme, such as changes to `article.html` -- especially if these changes include code to support pelican plugins (for example, `pelican-neighbors` requires changes to `article.html`).
-* Updates to the documentation, including this README.md file.
-* Updates to `pelicanconf.py` that aren't specifically related to production server configuration. This can lead to some complex merges, so be careful!
+- Updates to `pyproject.toml` and `poetry.lock`  -- all pelican plugins should be installed on `staging` so the virtual environments are the same for all branches.
+- Updates to the site theme, such as changes to `article.html` -- especially if these changes include code to support pelican plugins (for example, `pelican-neighbors` requires changes to `article.html`).
+- Updates to the documentation, including this README.md file.
+- Updates to `pelicanconf.py` that aren't specifically related to production server configuration. This can lead to some complex merges, so be careful!
 
 ## Updating the staging branch
 

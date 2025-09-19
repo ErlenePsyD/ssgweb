@@ -4,6 +4,10 @@ This document provides a step-by-step guide for the collaborative content develo
 
 ## Quick Start Checklist
 
+This repo's `main` branch is protected. To update the Firebase production server at https://erlenepsyd.com/, you must merge a PR onto `main`.
+
+Pushing updates to a branch besides `main` will regenerate the site on the Firebase staging server, when a PR is open.
+
 ### Environment Setup (One-time)
 
 - [ ] Poetry installed (`poetry --version`)
@@ -11,15 +15,29 @@ This document provides a step-by-step guide for the collaborative content develo
 - [ ] Repository cloned locally
 - [ ] Dependencies installed (`poetry install`)
 
+### Receive Drafts
+
+When a new draft is created:
+
+1. Check out the branch `feature/update-content`
+2. Add the draft document to the `drafts` folder
+3. Commit and push the updates.
+
 ### For Each New Post
 
 #### 1. Create Issue and Branch
+
 
 ```bash
 # Create issue on GitHub, then:
 git fetch origin
 git checkout <branch-name-from-issue>
 ```
+
+Create the new branch from `feature/update-content` with a descriptive name, like:
+
+- `feature/post-37`
+- `feature/couples-podcast`
 
 #### 2. Add Content
 

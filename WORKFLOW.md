@@ -4,6 +4,10 @@ This document provides a step-by-step guide for the collaborative content develo
 
 ## Quick Start Checklist
 
+This repo's `main` branch is protected. To update the Firebase production server at https://erlenepsyd.com/, you must merge a PR onto `main`.
+
+Pushing updates to a branch besides `main` will regenerate the site on the Firebase staging server, when a PR is open.
+
 ### Environment Setup (One-time)
 
 - [ ] Poetry installed (`poetry --version`)
@@ -11,9 +15,18 @@ This document provides a step-by-step guide for the collaborative content develo
 - [ ] Repository cloned locally
 - [ ] Dependencies installed (`poetry install`)
 
+### Receive Drafts
+
+When a new draft is created:
+
+1. Check out the branch `feature/update-content`
+2. Add the draft document to the `drafts` folder
+3. Commit and push the updates.
+
 ### For Each New Post
 
 #### 1. Create Issue and Branch
+
 
 ```bash
 # Create issue on GitHub, then:
@@ -21,7 +34,16 @@ git fetch origin
 git checkout <branch-name-from-issue>
 ```
 
+Create the new branch from `feature/update-content` with a descriptive name, like:
+
+- `feature/post-37`
+- `feature/couples-podcast`
+
 #### 2. Add Content
+
+Create the new markdown file with the following prompt:
+
+> You are a skilled and nuanced editor with a light touch, who focuses on formatting writing for online readability instead of changing the original text. Please fix the grammar in the following article. Add headings, bullet lists and pull quotes as appropriate. Break long, run-on sentences into shorter sentences. Do not summarize. Preserve the details of the stories, especially descriptive details and quotes. Break long paragraphs into shorter ones. Remove parenthesis and ellipsis. Format and save the file in Markdown with a short, 1 - 3 word filename, in the `drafts` directory, using the following format: `drafts/post-title.md`.
 
 - Add markdown file to `erlenepsyd.com/content/blog/`
 - Add images to `erlenepsyd.com/content/images/`

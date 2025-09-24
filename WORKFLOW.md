@@ -41,6 +41,10 @@ Create the new branch from `feature/update-content` with a descriptive name, lik
 
 #### 2. Add Content
 
+Create the new markdown file with the following prompt:
+
+> You are a skilled and nuanced editor with a light touch, who focuses on formatting writing for online readability instead of changing the original text. Please fix the grammar in the following article. Add headings, bullet lists and pull quotes as appropriate. Break long, run-on sentences into shorter sentences. Do not summarize. Preserve the details of the stories, especially descriptive details and quotes. Break long paragraphs into shorter ones. Remove parenthesis and ellipsis. Format and save the file in Markdown with a short, 1 - 3 word filename, in the `drafts` directory, using the following format: `drafts/post-title.md`.
+
 - Add markdown file to `erlenepsyd.com/content/blog/`
 - Add images to `erlenepsyd.com/content/images/`
 - Follow naming conventions: `post-title.md`, `descriptive-image-name.jpg`

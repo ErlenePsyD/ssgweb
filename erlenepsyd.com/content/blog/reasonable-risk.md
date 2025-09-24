@@ -37,13 +37,13 @@ He told me that his mother had passed away a little over a year ago, and now his
 
 He explained that his father's house was perched on a significant hill. Every morning since his father's retirement years ago, he would walk down the hill to a mini mart at the bottom of the street to buy his daily newspaper. He would then walk back up the hill to the house to have his second cup of coffee while reading the newspaper. This was his routine.
 
-However, the son reported that his father has aged considerably since his mother's passing. His balance is not very good. His gait had slowed. He looks a little unsteady.
+However, the son reported that his father has aged considerably since his mother's passing. "His balance is not very good. His gait had slowed. He looks a little unsteady."
 
 His father no longer drives, and his son takes him to his appointments and has arranged for his groceries to be delivered to him every week. The son recently purchased a subscription for the newspaper to be delivered every morning to his father's front door. His father had thanked him for this.
 
 ### The Discovery
 
-However, recently when he stopped by, he noticed there were two papers for each day in his reading area. When he asked his father about it, his father confessed that he was still walking down the hill to the mini mart, buying the paper, and walking back.
+However, recently when he stopped by, he noticed there were two papers for each day in his father's reading area. When he asked his father about it, his father confessed that he was still walking down the hill to the mini mart, buying the paper, and walking back.
 
 And so, the battle began. The son called his father stubborn and accused him of being unaware of the risk he was taking. "And it was an unnecessary risk!" The father would not agree to change his behavior. This went on until the son contacted me.
 
@@ -95,7 +95,7 @@ But they differ in what they consider as being reasonable. Our task is to identi
 
 ## The Contract
 
-The father agreed that if the weather was rainy, snowy, icy, or too cold, he would not go out to buy the newspaper. They insisted that they set the "degrees" for "too cold." The son agreed to this, too.
+The father agreed that if the weather was rainy, snowy, icy, or too cold, he would not go out to buy the newspaper. They insisted that they set the "degrees" for "too cold." The son agreed to this, too. It took about five minutes for them to agree on the contract.
 
 I asked if they thought the contract was over. They said yes. But I said, "I didn't think so."
 

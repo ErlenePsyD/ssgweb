@@ -9,6 +9,8 @@ Summary: Dr. Rosowsky returns to the Living to 100 Club podcast to discuss the u
 
 I was delighted to be invited for a return engagement by Dr. Joe Casciani, host of the Living to 100 Club, one of the most popular podcasts addressing aging and older age.
 
+![Living to 100 Club: a podcast about turing aging on its head]({static}/images/living_to_100_club.png){: .image-process-article-image .right}
+
 The title of the podcast is [Still Together After All These Years: Counseling Older Couples](https://livingto100.club/still-together-after-all-these-years-counseling-older-couples/). 
 
 ## Common Challenges for Long-Together Couples

@@ -93,6 +93,26 @@ gh pr create --title "Add new post: [Post Title]" --body "Ready for client revie
 gh pr merge <pr-number> --merge --delete-branch
 ```
 
+#### 7. Sync Development Branch
+
+After publishing to `main`, synchronize `feature/update-content` with the latest changes:
+
+```bash
+# Create PR to merge main into feature/update-content
+gh pr create --base feature/update-content --head main \
+  --title "Sync feature/update-content with latest main changes" \
+  --body "Brings feature/update-content up to date with main branch"
+
+# After approving and merging the sync PR:
+git checkout feature/update-content
+git pull origin feature/update-content
+
+# Clean up any stale remote tracking references
+git remote prune origin
+```
+
+This ensures `feature/update-content` stays current with the protected `main` branch for future development work.
+
 ## Common Commands
 
 ### Local Development

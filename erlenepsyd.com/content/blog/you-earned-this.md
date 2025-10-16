@@ -9,13 +9,9 @@ Summary: Dr. Rosowsky joins the "You Earned This" podcast to discuss how financi
 
 I was delighted to be invited to join the "You Earned This" podcast. The conversation turned out to be one of those rare interviews where the questions themselves became catalysts for deeper reflection—the kind that stays with you long after the recording ends.
 
-What drew me to this particular podcast was its mission. Social Security and Medicare aren't just policy topics; they're deeply intertwined with how we navigate the later chapters of our lives.
-
-In my work as a geropsychologist, I've witnessed how financial security—or the lack of it—shapes the stories older adults tell themselves about their worth, their independence, and their future.
-
 ## What We Discussed
 
-During our conversation, we explored some themes that are central to my practice and research:
+During our conversation, we explored some themes that are central to my teaching and research:
 
 - The narratives we internalize about aging
 - The role of humor in resilience
@@ -39,5 +35,3 @@ I invite you to listen with curiosity. Perhaps you'll recognize some of your own
 My hope is that this discussion offers not just information, but an opportunity for reflection.
 
 What story are you telling yourself about growing old? And more importantly, is it a story that serves you?
-
-I'd be honored if you'd give it a listen.

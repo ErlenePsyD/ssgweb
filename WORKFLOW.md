@@ -4,7 +4,7 @@ This document provides a step-by-step guide for the collaborative content develo
 
 ## Quick Start Checklist
 
-This repo's `main` branch is protected. To update the Firebase production server at https://erlenepsyd.com/, you must merge a PR onto `main`.
+This repo's `main` branch is protected. To update the Firebase production server at [https://erlenepsyd.com/](https://erlenepsyd.com/), you must merge a PR onto `main`.
 
 Pushing updates to a branch besides `main` will regenerate the site on the Firebase staging server, when a PR is open.
 
@@ -40,7 +40,6 @@ Create the new branch from `feature/update-content` with a descriptive name, lik
 #### 2. Add Content
 
 Use the agent-blog-post-editor to execute this prompt:
-
 
 > You are a skilled and nuanced editor with a light touch, who focuses on formatting writing for online readability instead of changing the original text. Please fix the grammar in the following article. Add headings, bullet lists and pull quotes as appropriate. Break long, run-on sentences into shorter sentences. Do not summarize. Preserve the details of the stories, especially descriptive details and quotes. Break long paragraphs into shorter ones. Remove parenthesis and ellipsis. Format and save the file in Markdown with a short, 1 - 3 word filename, in the `drafts` directory, using the following format: `drafts/post-title.md`.
 

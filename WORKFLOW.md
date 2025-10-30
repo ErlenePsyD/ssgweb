@@ -1,14 +1,31 @@
-# Content Development Workflow - Quick Reference
+# Content Development Workflow
 
-This document provides a step-by-step guide for the collaborative content development process.
+This document provides a complete step-by-step guide for the collaborative content development process, designed for collaboration between developers and content creators.
 
-## Quick Start Checklist
+## Overview
 
 This repo's `main` branch is protected. To update the Firebase production server at [https://erlenepsyd.com/](https://erlenepsyd.com/), you must merge a PR onto `main`.
 
-Pushing updates to a branch besides `main` will regenerate the site on the Firebase staging server, when a PR is open.
+Pushing updates to a branch besides `main` will regenerate the site on the Firebase staging server when a PR is open.
 
 ### Environment Setup (One-time)
+
+Before starting, ensure your local environment is properly configured:
+
+#### Prerequisites Check
+
+```bash
+# Verify Poetry is installed
+poetry --version
+
+# Verify Python dependencies are installed
+poetry install
+
+# Verify GitHub CLI is set up (for PR management)
+gh auth status
+```
+
+**Checklist:**
 
 - [ ] Poetry installed (`poetry --version`)
 - [ ] GitHub CLI installed and authenticated (`gh auth status`)
@@ -47,51 +64,93 @@ Use the agent-blog-post-editor to execute this prompt:
 - Add images to `erlenepsyd.com/content/images/`
 - Follow naming conventions: `post-title.md`, `descriptive-image-name.jpg`
 
-#### 3. Test Locally
+#### 3. Generate Site Locally and Test
 
 ```bash
+# Navigate to the website directory
 cd erlenepsyd.com
+
+# Activate Poetry shell
 poetry shell
+
+# Generate the site
 poetry run pelican content/
+
+# Start local development server
 poetry run pelican --listen --autoreload
 ```
 
-- Visit `http://127.0.0.1:8000/`
-- Verify post appears on homepage
-- Check images load correctly
-- Test all links
+The site will be available at `http://127.0.0.1:8000/`. Test that:
 
-#### 4. Create PR
+- New post appears on the front page
+- Images load correctly
+- All links work properly
+- Content displays as expected
+
+Press `CTRL-C` to stop the server.
+
+#### 4. Push Changes to Remote
 
 ```bash
+# Add all changes
 git add .
+
+# Commit with descriptive message
 git commit -m "Add new post: [Post Title]"
+
+# Push to remote branch
 git push origin <branch-name>
-gh pr create --title "Add new post: [Post Title]" --body "Ready for client review"
 ```
 
-#### 5. Client Review Process
+Pushing changes automatically triggers GitHub Actions to create a Firebase staging deployment with a preview URL.
 
-1. GitHub Actions creates staging URL automatically
-2. Email staging URL to client
-3. For changes:
-
-   ```bash
-   # Make edits, test locally, then:
-   git add .
-   git commit -m "Update based on client feedback"
-   git push origin <branch-name>
-   ```
-
-4. Repeat until approved
-
-#### 6. Publish
+#### 5. Create Pull Request
 
 ```bash
-gh pr merge <pr-number> --merge --delete-branch
+# Create PR using GitHub CLI
+gh pr create --title "Add new post: [Post Title]" --body "Adds new blog post and supporting images. Ready for client review."
+
+# Or create PR via GitHub web interface
 ```
 
-#### 7. Sync Development Branch
+The GitHub Actions will post a comment with the staging URL for review.
+
+#### 6. Client Review Cycle
+
+1. Email the staging URL to the client for review
+2. Client provides feedback via email
+3. Make requested changes locally
+4. Test changes with local development server
+5. Push updates to the same branch
+6. Repeat until client approves
+
+**Making Updates During Review:**
+
+```bash
+# Make changes to content files
+# Test locally as described in step 3
+# Commit and push updates
+git add .
+git commit -m "Update post based on client feedback"
+git push origin <branch-name>
+```
+
+Each push automatically updates the staging deployment.
+
+#### 7. Publish to Live Site
+
+Once client approves all changes:
+
+```bash
+# Merge the PR (requires approval)
+gh pr merge <pr-number> --merge --delete-branch
+
+# Or merge via GitHub web interface
+```
+
+Merging to `main` automatically deploys to the production site via GitHub Actions.
+
+#### 8. Sync Development Branch
 
 After publishing to `main`, synchronize `feature/update-content` with the latest changes:
 
@@ -198,18 +257,49 @@ Your content here...
 
 ## Automation Features
 
-### GitHub Actions
+### Current GitHub Actions
 
 - **PR Creation**: Automatically builds staging site
 - **PR Updates**: Rebuilds staging on each push
 - **Main Merge**: Automatically deploys to production
 - **Comments**: Posts staging URLs in PR comments
+- Automatic staging deployments on PR creation
+- Automatic production deployments on merge to main
+- Preview URL generation and commenting
 
 ### Local Development Features
 
 - **Auto-reload**: Changes trigger automatic rebuilds
 - **Live server**: Instant preview at localhost:8000
 - **Dependency management**: Poetry handles all Python packages
+
+### Potential Enhancements
+
+Consider adding these automation improvements:
+
+**Automated Testing with Playwright:**
+
+```bash
+# Add Playwright to dependencies
+poetry add playwright pytest-playwright
+
+# Install browser dependencies
+poetry run playwright install
+```
+
+Create test files to verify:
+
+- New posts appear on homepage
+- Images load correctly
+- Navigation links work
+- SEO metadata is present
+
+**Future GitHub Actions Enhancements:**
+
+- Automated accessibility testing
+- Link checking
+- Image optimization
+- Performance testing
 
 ## Emergency Procedures
 

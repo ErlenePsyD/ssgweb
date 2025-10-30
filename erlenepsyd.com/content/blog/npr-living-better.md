@@ -1,6 +1,6 @@
 ---
 Title: NPR Living Better Series Article, "The Transitions of Aging"
-Date: 2025-08-21 09:00
+Date: 2025-10-30 09:00
 Tags: media, aging, relationships, npr
 Summary: Dr. Erlene Rosowsky contributes to NPR's Special Series "Living Better" discussing the complex dynamics between aging parents and adult children, the importance of respecting autonomy, and the role of life narratives in maintaining meaningful relationships.
 ---

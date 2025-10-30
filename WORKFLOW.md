@@ -35,8 +35,7 @@ git checkout <branch-name-from-issue>
 
 Create the new branch from `feature/update-content` with a descriptive name, like:
 
-- `feature/post-37`
-- `feature/couples-podcast`
+- `post/37-couples-podcast`
 
 #### 2. Add Content
 

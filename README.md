@@ -13,6 +13,7 @@ This section documents the complete workflow for creating new blog posts and upd
 1. Go to the repository: [ErlenePsyD/ssgweb](https://github.com/ErlenePsyD/ssgweb)
 2. **Create an Issue** for the new post with a descriptive title
 3. Create a new branch from the Issue using GitHub's "Create a branch" feature
+4. Use a branch name in the form of `post/40-descriptive-name`
 4. Clone or fetch the new branch locally:
 
 ```bash

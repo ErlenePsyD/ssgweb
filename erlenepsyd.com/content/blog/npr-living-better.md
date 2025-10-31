@@ -5,6 +5,10 @@ Tags: media, aging, relationships, npr
 Summary: Dr. Erlene Rosowsky contributes to NPR's Special Series "Living Better" discussing the complex dynamics between aging parents and adult children, the importance of respecting autonomy, and the role of life narratives in maintaining meaningful relationships.
 ---
 
+_Thoughts and Suggestions from an Aging Psychologist._
+
+![The sun sets behind a copse of trees across a placid lake above an evergreen bough in the foreground]({static}/images/lake-sunset.jpg){: .image-process-crisp}
+
 ## Featured in NPR's "Living Better" Series
 
 National Public Radio invited me as the featured contributor to a recent article in their Special Series "Living Better." I was pleased to accept.
@@ -45,3 +49,5 @@ I also spoke of the role of stories and life narratives in establishing and main
 Ashley Milne-Tyte captured the essential tension in these relationships: adult children wanting to protect their aging parents, while older adults seek to preserve their autonomy. The path forward requires respecting their competence, listening deeply, and honoring their stories. I'm grateful to Ashley for bringing these important conversations about aging to a wider audience.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
+_Photo by the author's family_

@@ -255,6 +255,28 @@ Your content here...
 - Include alt text for accessibility
 - Use `{: .image-process-crisp}` for styling
 
+Content column width: 760px maximum
+
+This is defined in main.css:427:
+
+```
+#content {
+    background: #fff;
+    margin-bottom: 2em;
+    overflow: hidden;
+    padding: 20px 20px;
+    max-width: 760px;
+    /* ... */
+}
+```
+However, since there's 20px padding on each side (left and right), the actual usable content area is 720px (760px - 40px).
+
+Key measurements:
+- #content max-width: 760px
+- Padding: 20px on each side (40px total)
+- **Actual content area: 720px**
+- Body container: 800px max-width (main.css:243)
+
 ## Automation Features
 
 ### Current GitHub Actions

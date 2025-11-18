@@ -13,13 +13,13 @@ Many years ago, one of my early positions entailed consulting with staff at a ve
 
 There I met with the residents, spending time with those who were experienced as problematic to the staff in order to help guide and support their caregiving efforts. Over time I became aware of certain female residents who were regular walkers. They would repeatedly walk around and around the floor, stopping to respond to the directive of an enormous STOP sign, so that they would be reminded not to go through the door at each end, and then continued their walking.
 
-The women generally liked to walk after they'd been helped to wash and dress for the day and feel ready to go out into the world. I noticed that they often would be carrying a handbag, and I wondered where they thought they were going, where they might need a purse.
+The women generally liked to walk after they'd been helped to wash and dress for the day and feel ready to go out into the world. I noticed that they often would be carrying a handbag, and I wondered where they thought they were going, why they might need a purse.
 
 ## What's Inside
 
 Over time I asked each of the women if I could see what was in her handbag. I was never refused. They appeared willing to hand it to me to open and peek in.
 
-I discovered that none of the handbags were empty, but they contained uniquely different articles. Sometimes they would clutch it closely while I peeked in, and other times they seemed happy to rummage through and pick out different things to show me. These things, these articles, had some special meaning to each of them.
+I discovered that none of the handbags were empty, but they contained uniquely different articles. Sometimes they would clutch it closely while I explored the contents, and other times they seemed happy to rummage through and pick out different things to show me. These things, these articles, had some special meaning to each of them.
 
 What did I find? I found a lipstick, some tissue or handkerchief, a small mirror, photographs of children, likely grandchildren or even great-grandchildren. This was a time before mobile phones, to say nothing of phones that could take photographs.
 
@@ -37,11 +37,11 @@ I suspect one would find a picture of my children and grandchildren, and some ti
 
 As the daughter of a printer, I came to appreciate quality paper and ink and developed a love of fountain pens. Over time, I accumulated a small collection of them—not very costly ones, but very dear to me.
 
-When I finished graduate school and successfully defended my dissertation, my husband gifted me with a very special fountain pen, which I treasure and use every day. The only exception is when it is in the pen hospital in California to be tuned up, during which time I am aware of counting the days until it is returned to me.
+When I finished graduate school and successfully defended my dissertation, my husband gifted me with a very special fountain pen, which I treasure and use every day. The only exception is when it is in the pen hospital in California to be tuned up, during which time I am aware of counting the days until it is returned to me. I am waiting now.
 
 ## What Remains
 
-As we become older, and become old, things fall apart and fall away—things that remind us of who we were and what has been. Some things do remain, however, and continue to be important to how we present ourselves and how we feel ourselves to be.
+As we age, and become old, things fall apart and fall away—things that remind us of who we were and what has been. Some things do remain, however, and continue to be important to how we present ourselves and how we feel ourselves to be.
 
 I am a member of a multigenerational family, I am health conscious, an avid reader, a committed writer, and I will always love my fountain pen.
 

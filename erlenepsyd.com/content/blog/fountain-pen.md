@@ -7,7 +7,7 @@ Summary: A clinical psychologist reflects on identity and memory through observa
 
 _Thoughts and Suggestions from an Aging Psychologist._
 
-## The Walkers and Their Handbags
+## The Women and Their Handbags
 
 Many years ago, one of my early positions entailed consulting with staff at a very special facility. It was one of the first in the state to be designated a skilled nursing facility exclusively for patients with dementia.
 

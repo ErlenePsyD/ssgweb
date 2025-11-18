@@ -11,6 +11,8 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 Many years ago, one of my early positions entailed consulting with staff at a very special facility. It was one of the first in the state to be designated a skilled nursing facility exclusively for patients with dementia.
 
+![Gold-nibbed fountain pen writing an elegant flourish on aged, ink-spattered parchment, evoking timeless craftsmanship & memories]({static}/images/fountain_pen_parchment.jpg){: .image-process-crisp}
+
 There I met with the residents, spending time with those who were experienced as problematic to the staff in order to help guide and support their caregiving efforts. Over time I became aware of certain female residents who were regular walkers. They would repeatedly walk around and around the floor, stopping to respond to the directive of an enormous STOP sign, so that they would be reminded not to go through the door at each end, and then continued their walking.
 
 The women generally liked to walk after they'd been helped to wash and dress for the day and feel ready to go out into the world. I noticed that they often would be carrying a handbag, and I wondered where they thought they were going, why they might need a purse.

@@ -32,31 +32,39 @@ gh auth status
 - [ ] Repository cloned locally
 - [ ] Dependencies installed (`poetry install`)
 
+## Add New Post
+
+Here are the steps to add a new post to the site.
+
+### Clean up the local repo
+
+- Use the command alias `git cleanup` to remove stale branches
+- Ensure the `main` branch is up to date: `git switch main && git pull`
+
 ### Receive Drafts
 
 When a new draft is created:
 
-1. Check out the branch `feature/update-content`
-2. Add the draft document to the `drafts` folder
-3. Commit and push the updates.
+1. Add the draft document to the `drafts` folder
+2. Create a new branch with a descriptive name that includes the `posts/` prefix  and the post number. For example, `git checkout -b posts/42-contagion`
+3. Commit and push the updates
 
-### For Each New Post
+### Create the new post
 
-#### 1. Create Issue and Branch
+When it's time to prepare the post for the staging server, Move the draft file from the `drafts` folder to the `posts` folder:
 
 ```bash
-# Create issue on GitHub, then:
-git fetch origin
-git checkout <branch-name-from-issue>
+cd ~/Repos/erlenepsyd/ssgweb/
+mv drafts/post-title.md erlenepsyd.com/content/blog/
 ```
-
-Create the new branch from `feature/update-content` with a descriptive name, like:
-
-- `post/37-couples-podcast`
 
 #### 2. Add Content
 
-Use the agent-blog-post-editor to execute this prompt:
+Use the agent-blog-post-editor:
+
+> Use @agent-blog-post-editor to prepare @erlenepsyd.com/content/blog/contagion.md for publication 
+
+Or execute this prompt, to prepare the new post:
 
 > You are a skilled and nuanced editor with a light touch, who focuses on formatting writing for online readability instead of changing the original text. Please fix the grammar in the following article. Add headings, bullet lists and pull quotes as appropriate. Break long, run-on sentences into shorter sentences. Do not summarize. Preserve the details of the stories, especially descriptive details and quotes. Break long paragraphs into shorter ones. Remove parenthesis and ellipsis. Format and save the file in Markdown with a short, 1 - 3 word filename, in the `drafts` directory, using the following format: `drafts/post-title.md`.
 
@@ -64,32 +72,7 @@ Use the agent-blog-post-editor to execute this prompt:
 - Add images to `erlenepsyd.com/content/images/`
 - Follow naming conventions: `post-title.md`, `descriptive-image-name.jpg`
 
-#### 3. Generate Site Locally and Test
-
-```bash
-# Navigate to the website directory
-cd erlenepsyd.com
-
-# Activate Poetry shell
-poetry shell
-
-# Generate the site
-poetry run pelican content/
-
-# Start local development server
-poetry run pelican --listen --autoreload
-```
-
-The site will be available at `http://127.0.0.1:8000/`. Test that:
-
-- New post appears on the front page
-- Images load correctly
-- All links work properly
-- Content displays as expected
-
-Press `CTRL-C` to stop the server.
-
-#### 4. Push Changes to Remote
+### Push Changes to Remote
 
 ```bash
 # Add all changes
@@ -115,6 +98,30 @@ gh pr create --title "Add new post: [Post Title]" --body "Adds new blog post and
 
 The GitHub Actions will post a comment with the staging URL for review.
 
+### (Optional) Generate Site Locally and Test
+
+```bash
+# Navigate to the website directory
+cd erlenepsyd.com
+
+# Activate Poetry shell
+poetry shell
+
+# Generate the site
+poetry run pelican content/
+
+# Start local development server
+poetry run pelican --listen --autoreload
+```
+
+The site will be available at `http://127.0.0.1:8000/`. Test that:
+
+- New post appears on the front page
+- Images load correctly
+- All links work properly
+- Content displays as expected
+
+Press `CTRL-C` to stop the server.
 #### 6. Client Review Cycle
 
 1. Email the staging URL to the client for review

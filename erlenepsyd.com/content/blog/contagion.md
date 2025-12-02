@@ -1,11 +1,15 @@
 ---
 Title: Internalized Ageism and the Fear of Contagion Through Association
 Date: 2025-12-01 09:00
-Tags: ageism, gerontology, CCRC, loneliness, connection
+Tags: ageism, gerontology, loneliness, connection
 Summary: Even older adults themselves can fall prey to internalized ageism and the unconscious fear of "contagion through association" with those who need more care. This fear drives isolation, but connection across abilities and generations offers a path to resilience and the recognition of beauty in aging.
 ---
 
 ## The Memory in Brown Furniture
+
+_Thoughts and Suggestions from an Aging Psychologist._
+
+![Six Adirondack chairs face a glassy lake at dusk, fallen leaves dotting the lawn beneath a massive oak, distant shore glowing warm]({static}/images/chairs_by_lake.jpg){: .image-process-crisp}
 
 There is a poem that I especially connect with, titled "Brown Furniture" by Katha Pollitt, published in The New Yorker on January 24, 2022. The title refers to old furniture that holds memories for us, including some we might like to forget and some that remind us of wonderful connections and experiences. "Don't throw out that old chair!"
 
@@ -42,3 +46,9 @@ Whether through a gym program, bird watching, or a lesson in preparing a new cui
 ## Beauty in the Brown Chair
 
 The passing of days accumulates and adds up to our becoming old. Like that old brown chair, there can be great beauty in it. "These things remember, so that we can forget. Who will love the old if not the old?"
+
+[Contact me]({filename}/pages/contact.md). I’d love to hear back from you, especially about any creative ways you’ve put this to use.
+
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
+_Photo by the author's family._

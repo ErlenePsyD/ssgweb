@@ -1,6 +1,6 @@
 # Content Development Workflow
 
-This document provides a complete step-by-step guide for the collaborative content development process, designed for collaboration between developers and content creators.
+This document provides a complete step-by-step guide for the content development process.
 
 ## Overview
 
@@ -32,39 +32,78 @@ gh auth status
 - [ ] Repository cloned locally
 - [ ] Dependencies installed (`poetry install`)
 
+## Add New Post
+
+Here are the steps to add a new post to the site.
+
+### Clean up the local repo
+
+- Use the custom command alias `git cleanup` to remove stale branches
+- Ensure the `main` branch is up to date: `git switch main && git pull`
+
 ### Receive Drafts
 
 When a new draft is created:
 
-1. Check out the branch `feature/update-content`
-2. Add the draft document to the `drafts` folder
-3. Commit and push the updates.
+1. Add the draft document to the `drafts` folder
+2. Create a new branch with a descriptive name that includes the `posts/` prefix  and the post number. For example, `git checkout -b posts/42-contagion`
+3. Commit and push the updates
 
-### For Each New Post
+### Create the new post
 
-#### 1. Create Issue and Branch
+When it's time to prepare the post for the staging server, Move the draft file from the `drafts` folder to the `posts` folder:
 
 ```bash
-# Create issue on GitHub, then:
-git fetch origin
-git checkout <branch-name-from-issue>
+cd ~/Repos/erlenepsyd/ssgweb/
+mv drafts/post-title.md erlenepsyd.com/content/blog/
 ```
 
-Create the new branch from `feature/update-content` with a descriptive name, like:
+### Format Post
 
-- `post/37-couples-podcast`
+Use the agent-blog-post-editor:
 
-#### 2. Add Content
+> Use @agent-blog-post-editor to prepare @erlenepsyd.com/content/blog/contagion.md for publication
 
-Use the agent-blog-post-editor to execute this prompt:
+Or execute this prompt, to prepare the new post:
 
 > You are a skilled and nuanced editor with a light touch, who focuses on formatting writing for online readability instead of changing the original text. Please fix the grammar in the following article. Add headings, bullet lists and pull quotes as appropriate. Break long, run-on sentences into shorter sentences. Do not summarize. Preserve the details of the stories, especially descriptive details and quotes. Break long paragraphs into shorter ones. Remove parenthesis and ellipsis. Format and save the file in Markdown with a short, 1 - 3 word filename, in the `drafts` directory, using the following format: `drafts/post-title.md`.
+
+### Post creation file conventions
 
 - Add markdown file to `erlenepsyd.com/content/blog/`
 - Add images to `erlenepsyd.com/content/images/`
 - Follow naming conventions: `post-title.md`, `descriptive-image-name.jpg`
 
-#### 3. Generate Site Locally and Test
+### Push Changes to Remote
+
+```bash
+# Add all changes
+git add .
+
+# Commit with descriptive message
+git commit -m "Add new post: [Post Title]"
+
+# Push to remote branch
+git push origin <branch-name>
+```
+
+### Create Pull Request
+
+When the post is ready for review and testing, create a pull request to deploy the updates to the staging server.
+
+Create PR using GitHub CLI:
+
+```bash
+gh pr create --title "Add new post: [Post Title]" --body "Adds new blog post and supporting images. Ready for client review."
+```
+
+Additional pushes will automatically trigger a GitHub Action to create a Firebase staging deployment with a preview URL.
+
+The GitHub Actions will post a comment with the staging URL for review.
+
+### (Optional) Generate Site Locally and Test
+
+Pushing changes to an open PR will generate a new staging deployment. If there are problems with the staging deployment, you can generate a new one locally and test it.
 
 ```bash
 # Navigate to the website directory
@@ -89,33 +128,9 @@ The site will be available at `http://127.0.0.1:8000/`. Test that:
 
 Press `CTRL-C` to stop the server.
 
-#### 4. Push Changes to Remote
+### Client Review Cycle
 
-```bash
-# Add all changes
-git add .
-
-# Commit with descriptive message
-git commit -m "Add new post: [Post Title]"
-
-# Push to remote branch
-git push origin <branch-name>
-```
-
-Pushing changes automatically triggers GitHub Actions to create a Firebase staging deployment with a preview URL.
-
-#### 5. Create Pull Request
-
-```bash
-# Create PR using GitHub CLI
-gh pr create --title "Add new post: [Post Title]" --body "Adds new blog post and supporting images. Ready for client review."
-
-# Or create PR via GitHub web interface
-```
-
-The GitHub Actions will post a comment with the staging URL for review.
-
-#### 6. Client Review Cycle
+After reviewing the staging site, follow these steps to reach signoff:
 
 1. Email the staging URL to the client for review
 2. Client provides feedback via email
@@ -124,51 +139,19 @@ The GitHub Actions will post a comment with the staging URL for review.
 5. Push updates to the same branch
 6. Repeat until client approves
 
-**Making Updates During Review:**
-
-```bash
-# Make changes to content files
-# Test locally as described in step 3
-# Commit and push updates
-git add .
-git commit -m "Update post based on client feedback"
-git push origin <branch-name>
-```
-
 Each push automatically updates the staging deployment.
 
-#### 7. Publish to Live Site
+### Publish to Live Site
 
-Once client approves all changes:
+Once client approves all changes, merge the PR:
 
 ```bash
-# Merge the PR (requires approval)
 gh pr merge <pr-number> --merge --delete-branch
-
-# Or merge via GitHub web interface
 ```
+
+Or merge via GitHub web interface.
 
 Merging to `main` automatically deploys to the production site via GitHub Actions.
-
-#### 8. Sync Development Branch
-
-After publishing to `main`, synchronize `feature/update-content` with the latest changes:
-
-```bash
-# Create PR to merge main into feature/update-content
-gh pr create --base feature/update-content --head main \
-  --title "Sync feature/update-content with latest main changes" \
-  --body "Brings feature/update-content up to date with main branch"
-
-# After approving and merging the sync PR:
-git checkout feature/update-content
-git pull origin feature/update-content
-
-# Clean up any stale remote tracking references
-git remote prune origin
-```
-
-This ensures `feature/update-content` stays current with the protected `main` branch for future development work.
 
 ## Common Commands
 
@@ -243,9 +226,17 @@ Tags: tag1, tag2, tag3
 Summary: Brief description for SEO and previews
 ---
 
-Your content here...
+_Thoughts and Suggestions from an Aging Psychologist._
 
 ![Alt text]({static}/images/your-image.jpg){: .image-process-crisp}
+
+Post content here...
+
+[Contact me]({filename}/pages/contact.md). I’d love to hear back from you, especially about any creative ways you’ve put this to use.
+
+![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
+_Photo by the author's family._
 ```
 
 ### Image Guidelines
@@ -259,7 +250,7 @@ Content column width: 760px maximum
 
 This is defined in main.css:427:
 
-```
+```css
 #content {
     background: #fff;
     margin-bottom: 2em;
@@ -269,10 +260,12 @@ This is defined in main.css:427:
     /* ... */
 }
 ```
+
 However, since there's 20px padding on each side (left and right), the actual usable content area is 720px (760px - 40px).
 
 Key measurements:
-- #content max-width: 760px
+
+- `#content max-width: 760px`
 - Padding: 20px on each side (40px total)
 - **Actual content area: 720px**
 - Body container: 800px max-width (main.css:243)

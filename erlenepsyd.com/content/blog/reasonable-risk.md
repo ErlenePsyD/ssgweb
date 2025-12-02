@@ -125,4 +125,4 @@ The resolution came not from forcing either party to abandon their viewpoint, bu
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
 
-_Photo by the author's family_
+_Photo by the author's family._

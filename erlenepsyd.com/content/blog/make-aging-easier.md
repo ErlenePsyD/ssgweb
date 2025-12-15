@@ -76,3 +76,5 @@ These are my 3 suggestions. I invite you to try them and let me know how they wo
 Warmly,
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
+_Photo by the author's family._

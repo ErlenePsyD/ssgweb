@@ -9,6 +9,8 @@ Summary: What really gets in the way of healthy aging? A psychologist specializi
 
 As a psychologist who specializes in aging, folks often ask me how they can make aging easier, getting older better. Directly following the "ask," I am usually instructed on what not to tell them: that they should eat healthier foods, exercise more and follow a sleep hygiene protocol.
 
+![Yellow & white bicolor tulip in full bloom, star-shaped petals surrounding golden stamens, green leaves & dark mulch below]({static}/images/bicolor-tulip-bloom.jpg){: .image-process-crisp}
+
 The "ask" presents me with an impossible assignment because what they're asking me to exclude really does help: a good diet, exercise and a regular sleep schedule. Strong scientific research strongly supports these suggestions. We already know this, and still we're asking.
 
 I think a better "ask" would be "what gets in the way of doing what we know we should do?" And how we might encourage ourselves to do what would help?

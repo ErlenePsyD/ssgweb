@@ -1,5 +1,5 @@
 ---
-Title: How to Make Aging Easier: Hmmm
+Title: How to Make Aging Easier … Hmmm
 Date: 2025-12-15 10:00
 Tags: aging, wellness, mental health, healthy aging, loneliness
 Summary: What really gets in the way of healthy aging? A psychologist specializing in gerontology explores the obstacles we face and offers three practical, achievable suggestions for making aging easier and getting older better.
@@ -72,4 +72,5 @@ We learn from novelty and meeting new people, potential friends, defines novelty
 These are my 3 suggestions. I invite you to try them and let me know how they work for you. I'm optimistic that the effort will prove worth it.
 
 Warmly,
-DrR
+
+![Dr. R written by hand]({static}/images/dr_r_sm.png)

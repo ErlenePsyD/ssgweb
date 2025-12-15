@@ -324,6 +324,28 @@ Create test files to verify:
 
 ## Emergency Procedures
 
+### Prune Stale Local Branches
+
+Use these steps to remove local branches that no longer exist on the remote.
+
+```bash
+# Confirm current branch and upstream status
+git status -sb
+
+# Prune stale remote-tracking refs (removes origin/* entries that were deleted on GitHub)
+git fetch --prune
+
+# List local branches and show which ones have an upstream that is gone
+git branch -vv
+
+# Delete local branches whose upstream is shown as ": gone"
+# (example from this repo cleanup)
+git branch -D feature/84-post-39-you-earned-it-podcast feature/update-content post/40-npr-interview post/41-fountain-pen
+
+# Verify the result
+git branch -vv
+```
+
 ### Rollback Production
 
 ```bash

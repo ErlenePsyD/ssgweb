@@ -153,6 +153,12 @@ Or merge via GitHub web interface.
 
 Merging to `main` automatically deploys to the production site via GitHub Actions.
 
+### Create LinkedIn summaries
+
+Using an AI tool, like Windsurf or Perplexity, that allows you to select multiple AI models, summarize the new post with the following prompt:
+
+> Please summarize the article, as if you were the original author, using a helpful and professional tone. Keep the summary to 120 words or less.
+
 ## Common Commands
 
 ### Local Development

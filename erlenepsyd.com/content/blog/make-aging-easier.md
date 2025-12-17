@@ -1,5 +1,5 @@
 ---
-Title: How to Make Aging Easier … Hmmm
+Title: Forget the Step Count. What Really Matters as We Age
 Date: 2025-12-15 10:00
 Tags: aging, wellness, mental health, healthy aging, loneliness
 Summary: What really gets in the way of healthy aging? A psychologist specializing in gerontology explores the obstacles we face and offers three practical, achievable suggestions for making aging easier and getting older better.
@@ -61,13 +61,13 @@ Before you go for your walk, and again when you return from it, stand in front o
 
 There's nothing inherently wrong with complaining as long as it's in the service of meeting a need. But excessive complaining is not helpful. It can be off-putting for others to hear too much of it. And for us to complain in a helpless and hopeless manner tends to induce feelings of helplessness and hopelessness in us.
 
-Express appreciation liberally. Even if you can't obliterate the negative you can neutralize it with appreciation and gratitude.
+Express appreciation liberally. Even if you can't obliterate the negative you can neutralize its effect with appreciation and gratitude.
 
 ### 3. Make a New Friend
 
 And make a friend who is different from others in your social circle. Extend your reach.
 
-We learn from novelty and meeting new people, potential friends, defines novelty. You might be wonderfully surprised at how stimulating the social exchange is with someone who is not like you. This is one of the benefits for older adults in independent living communities, because they're able to offer experiences and potential new friends. Senior centers are great for this, too.
+We learn from novelty and meeting new people, potential friends, defines novelty. You might be wonderfully surprised at how stimulating the social exchange is with someone who is not like you. This is one of the benefits for older adults in independent living communities, because they're able to offer experiences and the opportunity to meet and mix with potential new friends. Senior centers are great for this, too.
 
 ---
 

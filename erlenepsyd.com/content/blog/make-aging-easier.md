@@ -61,7 +61,7 @@ Before you go for your walk, and again when you return from it, stand in front o
 
 There's nothing inherently wrong with complaining as long as it's in the service of meeting a need. But excessive complaining is not helpful. It can be off-putting for others to hear too much of it. And for us to complain in a helpless and hopeless manner tends to induce feelings of helplessness and hopelessness in us.
 
-Express appreciation liberally. Even if you can't obliterate the negative you can neutralize its effect with appreciation and gratitude.
+Express appreciation liberally. Even if you can't obliterate the negative, you can neutralize its effect with appreciation and gratitude.
 
 ### 3. Make a New Friend
 

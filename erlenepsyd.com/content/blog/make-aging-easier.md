@@ -1,5 +1,5 @@
 ---
-Title: Forget the Step Count. What Really Matters as We Age
+Title: Why We Struggle to Age Well (And What Actually Helps)
 Date: 2025-12-15 10:00
 Tags: aging, wellness, mental health, healthy aging, loneliness
 Summary: What really gets in the way of healthy aging? A psychologist specializing in gerontology explores the obstacles we face and offers three practical, achievable suggestions for making aging easier and getting older better.

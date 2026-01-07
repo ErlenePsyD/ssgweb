@@ -276,6 +276,11 @@ Key measurements:
 - **Actual content area: 720px**
 - Body container: 800px max-width (main.css:243)
 
+#### Image Conversion
+
+
+- Use the `imgpro resize` command to resize an image to fit the column width.
+
 ## Automation Features
 
 ### Current GitHub Actions

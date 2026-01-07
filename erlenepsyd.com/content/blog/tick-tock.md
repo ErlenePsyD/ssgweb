@@ -1,7 +1,7 @@
 ---
 Title: Tick-Tock: The Times We Have
 Date: 2026-01-06 08:00
-Tags: aging, time perception, flourishing, wisdom, elder care
+Tags: aging, time perception, flourishing, wisdom,
 Summary: Exploring how our experience of time shifts as we age, from the puzzlement of childhood to the Chronos and Kairos of later life, and why it's important to keep learning and flourishing throughout the journey.
 ---
 
@@ -13,13 +13,15 @@ When I was a little child, the concept of time was puzzling to me. I couldn't re
 
 I also heard "I ran out of time," and wondered where time went and why they ran out of it. Then I grew up and no longer puzzled about the concept of time. I suppose I didn't have the time.
 
+![Desert vista with saguaros & cholla cacti rising from rocky scrubland; distant Phoenix sprawl beneath overcast monsoon sky.]({static}/images/desert-saguaros.jpg){: .image-process-crisp .right}
+
 ## Time Becomes Baffling Again
 
 Now that I'm an old person, I find that the concept of time has become a bit baffling again. My experience of time definitely has changed with age. This is not unique to me but seems to be fairly typical of older persons in general.
 
 When we are among other older persons, we mention time quite a lot. We ask one another where it has gone and wonder how it has passed so quickly.
 
-And those of us who engage with the old-old recognize that it is not at all unusual for time to meet a fulcrum where it switches from not having enough time to time moving slowly and weighing heavily on one's hands.
+And those of us who engage with the old-old often recognize that it is not at all unusual for time to meet a fulcrum where it switches from not having enough time to time moving slowly and weighing heavily on one's hands.
 
 > When and why that shift occurs is a new source of puzzlement for me. Is there a critical moment when the shift occurs? And do we sleep through that moment?
 
@@ -35,13 +37,13 @@ For now, maybe the best way of understanding this is to recognize that there can
 
 ## Kairos Time in the Old-Old
 
-We might hear Kairos time—where time is experienced as moving ever so slowly—in the voices of the very old. Those of us who work with the old-old often hear such comments as "I'm ready to go. I don't know what God is waiting for."
+We might hear Kairos time—where time is experienced as moving ever so slowly—in the voices of the very old. Those of us who work with the old-old often hear such comments as "I'm ready to go. I don't know what God is waiting for" from the very old.
 
 This is not the voice of clinical depression. It is a statement of readiness, even joyful readiness, and a position of, mostly, just waiting. Languishing might appear passive, but it is not. And it's on Kairos time.
 
 ## Flourishing and Languishing
 
-We understand and respect that our energy gradually lessens as we go through old age. In the earlier years, most of our journey is aligned with flourishing, rather than languishing. But gradually they meet and, over time, languishing will prevail.
+We understand and respect that our energy gradually lessens as we go through old age. In the earlier years, most of our journey is aligned with flourishing, rather than languishing. But gradually the trajectories meet and languishing comes to prevail.
 
 > If I had one piece of advice to offer midway through my own aging journey, it would be to make sure to learn new things... and then pass on what you've learned.
 
@@ -60,3 +62,5 @@ You have time.
 [Contact me]({filename}/pages/contact.md)
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
+_Photo by the author's family_

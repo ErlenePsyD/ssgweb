@@ -13,7 +13,7 @@ Where the field once focused narrowly on cognitive decline and pathology, there 
 
 ## A New Resource from the APA
 
-![The cover of the new e-booklet from the APA, Perspectives on Aging: Psychology Across the Lifespan]({static}/images/perspectives-on-aging-tablet.png){: .image-process-crisp}
+![The cover of the new e-booklet from the APA, Perspectives on Aging: Psychology Across the Lifespan]({static}/images/perspectives-on-aging-tablet.png){: .image-process-crisp .right}
 
 The American Psychological Association recently published [Perspectives on Aging: Psychology Across the Lifespan](https://pages.apa.org/perspectives-on-aging/), a free e-booklet that reflects this broader understanding.
 

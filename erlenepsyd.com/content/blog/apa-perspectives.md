@@ -35,6 +35,6 @@ Several questions recur throughout the publication:
 
 > How might we approach the later chapters of life with both clear-eyed realism and authentic hope?
 
-These are questions I encounter daily in my practice and in my own reflections on this stage of life.
+These are questions I frequently encountered in my clinical practice, and now in my own reflections on this stage of life.
 
 *Erlene Rosowsky, PsyD*

@@ -71,3 +71,13 @@ After completing the edits:
 1. Show the user the generated frontmatter for review
 2. Confirm the new file location
 3. Summarize the structural changes made (headings added, paragraphs split, etc.)
+
+### 7. Next Step: Deploy to Staging
+
+After the user has reviewed and approved the post, suggest running:
+
+```
+/git-sync --pr
+```
+
+This commits the new post on a feature branch, opens a pull request, and triggers an automatic deployment to the staging server where the post can be previewed before going to production.

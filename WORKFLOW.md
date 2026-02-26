@@ -308,3 +308,20 @@ gh run view <run-id> --log
 # 2. Verify image paths
 # 3. Ensure all files are committed
 ```
+
+## Creating LinkedIn posts
+
+Paste the following into Windsurf's Cascade panel in a new prompt:
+
+> Please summarize the article @ as if you were the original author, using a helpful and professional tone. Keep the summary to 120 words or less. This summary is intended for LinkedIn so use short paragraphs. LinkedIn does not support character formatting like bold, or italics, and bullet lists aren't a good choice here.
+
+Then, select four different models, regenerating the quote each time. Here are some good models to use:
+
+- Claude Opus 4.6 Thinking
+- Gemini 3.1 Pro High Thinking
+- Kimi K2.5
+- GPT-5.2 High Thinking
+
+Or select better models, if available. 
+
+Paste the resulting summaries into an email and send to the client.

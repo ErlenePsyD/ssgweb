@@ -7,6 +7,8 @@ Summary: We never outgrow magical thinking -- but moving from a wish to a realit
 
 _Thoughts and Suggestions from an Aging Psychologist._
 
+![A woman reaches up to pick ripe lemons from a backyard lemon tree on a sunny day]({static}/images/picking-lemons-sunny-backyard.jpg){: .image-process-crisp}
+
 # Magical Thinking
 
 When we wish upon a star, we are hoping that something we dearly desire will magically come to be -- that wishing itself will make it happen.

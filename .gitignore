@@ -131,6 +131,9 @@ dmypy.json
 # Mac junk
 .DS_Store
 
+# Obsidian
+.obsidian/
+
 # Firebase cache
 .firebase
 

@@ -1,20 +1,17 @@
 # ssgweb
 
-Erlene's website generation files. This site uses Pelican, which is a Python project.
+Static site source for [ErlenePsyD.com](https://erlenepsyd.com/), a psychology blog by Dr. Erlene Rosowsky. Built with Pelican (Python).
 
 ## Content Development Workflow
 
-For complete step-by-step instructions on creating new blog posts, managing client reviews, and publishing updates, see **[WORKFLOW.md](WORKFLOW.md)**.
+Most of the content workflow is automated via Claude Code skills:
 
-The workflow document covers:
+1. **`/prepare-post`** — Formats a draft for publication (frontmatter, headings, grammar, structure)
+2. **`/git-sync --pr`** — Commits to a feature branch, opens a PR, triggers staging deployment
+3. **Featured image** — `/prepare-post` walks through image optimization with `xplat` and `imgpro`
+4. **Client review** — Review the staging preview, iterate, then merge to deploy to production
 
-- Environment setup and prerequisites
-- Creating issues and branches
-- Adding and testing content locally
-- Creating pull requests
-- Client review process
-- Publishing to production
-- Automation features and potential enhancements
+For the complete step-by-step process, see **[WORKFLOW.md](WORKFLOW.md)**.
 
 ---
 
@@ -38,10 +35,10 @@ poetry install
 
 ## GitHub CLI Setup
 
-For managing GitHub Actions and pull requests from the command line, install the GitHub CLI:
+For managing GitHub Actions and pull requests from the command line, install the [GitHub CLI](https://cli.github.com/):
 
 ```bash
-sudo apt update && sudo apt install gh
+brew install gh        # macOS
 ```
 
 After installation, authenticate with GitHub:
@@ -135,25 +132,9 @@ When you run `pelican content` this generates site content in `ssgweb/erelenpsyd
 
 Because you can re-create the ouput files any time, as long as you have the files in the `content` and `themes` folder, all output files are excluded, via `.gitignore`, from the GitHub repo. This means that the output files you generate only exist on your local development workstation.
 
-## Legacy: Working with staging and production branches
+## Additional Tools
 
-**Note:** The current workflow uses the `main` branch with GitHub Actions for automated deployments. The information below is maintained for historical reference.
+The content workflow uses these CLI tools (installed via pipx):
 
-In the legacy workflow, all changes to the site's `content` folder, including Markdown (.md) and image files (like .jpg, .gif, and .png files) were committed first to the `staging` branch, after testing locally.
-
-Changes that were committed to `staging` included:
-
-- Updates to `pyproject.toml` and `poetry.lock` -- all pelican plugins were installed on `staging` so the virtual environments were the same for all branches
-- Updates to the site theme, such as changes to `article.html` -- especially if these changes included code to support pelican plugins (for example, `pelican-neighbors` requires changes to `article.html`)
-- Updates to the documentation, including this README.md file
-- Updates to `pelicanconf.py` that weren't specifically related to production server configuration
-
-## Best Practices
-
-### Careful commits
-
-You should always try to group related files when you commit. For example, if you add a new Markdown (.md) post and add some new image files to that post, include all of these files in the same commit, since they're all related to adding the new post.
-
-Likewise, changes to documentation, like edits to this README.md file, should not be committed with changes to site content, as the two changes are unrelated.
-
-Finally, **always commit `pelicanconf.py` by itself** to make it easier to resolve any merge issues with the production branch.
+- **`xplat`** — Cross-platform file renaming (`xplat rename --style web`)
+- **`imgpro`** — Image conversion and resizing (`imgpro convert`, `imgpro resize`)

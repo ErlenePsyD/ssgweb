@@ -80,3 +80,5 @@ The voice in my head now has a new message.
 [Contact me]({filename}/pages/contact.md). I'd love to hear back from you, especially about any creative ways you've put this to use.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
+_Photo by author's family._

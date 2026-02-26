@@ -81,3 +81,31 @@ After the user has reviewed and approved the post, suggest running:
 ```
 
 This commits the new post on a feature branch, opens a pull request, and triggers an automatic deployment to the staging server where the post can be previewed before going to production.
+
+### 8. Featured Image
+
+After the PR is created and staging is deploying, ask the user if they have a featured image for the post. If they provide one:
+
+1. **Rename** with `xplat rename` to get a web-compatible filename:
+   ```bash
+   xplat rename --style web --output-dir erlenepsyd.com/content/images <source-image>
+   ```
+   Then propose a more descriptive name based on the image content (kebab-case, e.g., `picking-lemons-sunny-backyard.jpg`).
+
+2. **Convert** iPhone photos (MPO format) to plain JPEG with `imgpro`:
+   ```bash
+   imgpro convert <image-path> --format jpg --quality 80 --strip-exif --output erlenepsyd.com/content/images/
+   ```
+
+3. **Resize** to 720px wide at 80% quality:
+   ```bash
+   imgpro resize <image-path> --width 720 --quality 80 --output erlenepsyd.com/content/images/
+   ```
+   Replace the original with the resized version (imgpro adds a `_720` suffix).
+
+4. **Add to the post** after the tagline, using the site's responsive image class:
+   ```markdown
+   ![Descriptive alt text]({static}/images/filename.jpg){: .image-process-crisp}
+   ```
+
+5. **Commit and push** to the existing feature branch, then verify the staging preview includes the image.

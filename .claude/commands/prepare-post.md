@@ -19,7 +19,11 @@ Create proper Pelican frontmatter with:
 - **Title**: Extract from the draft content (usually near the beginning)
 - **Date**: Use today's date in format `YYYY-MM-DD HH:MM` (use 08:00 as default time)
 - **Tags**: Generate 3-5 relevant tags based on content (common tags: aging, psychology, gerontology, wisdom, mental health, relationships, family)
-- **Summary**: Write a 1-2 sentence SEO-friendly description
+- **Summary**: Write a 1-2 sentence SEO-friendly description following these guidelines:
+  - Use first-person perspective ("we," "our") or refer to "an aging psychologist" — **never** refer to "Dr. Rosowsky" in third person
+  - Focus on the **themes and ideas** of the post, not the literary devices used (e.g., don't say "uses a metaphor to explore…")
+  - Match the tone of existing summaries — direct, warm, and grounded
+  - Accurately represent the post's message; don't attribute positions the author doesn't take
 
 ### 2. Format Content for Web Readability
 

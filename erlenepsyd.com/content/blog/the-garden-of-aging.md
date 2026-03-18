@@ -2,7 +2,7 @@
 Title: The Garden of Aging
 Date: 2026-03-18 08:00
 Tags: aging, psychology, resilience, ageism, wisdom
-Summary: Dr. Rosowsky uses the metaphor of a spring garden to explore the weeds and flowers of growing older, from the challenges of ageism to the enduring passions that bloom across a lifetime.
+Summary: Growing older is like tending a garden of weeds and flowers: the aches and ageism are intertwined with long-held passions and new possibilities.
 ---
 
 _Thoughts and Suggestions from an Aging Psychologist._

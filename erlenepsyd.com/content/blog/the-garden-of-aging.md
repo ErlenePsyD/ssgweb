@@ -7,7 +7,7 @@ Summary: Growing older is like tending a garden of weeds and flowers: the aches 
 
 _Thoughts and Suggestions from an Aging Psychologist._
 
-![Snowball viburnum blooming in spring]({static}/images/snowball-viburnum-spring-blooms.jpeg){: .image-process-crisp}
+![Snowball viburnum blooming in spring]({static}/images/snowball-viburnum-spring-blooms.jpeg){: .image-process-article-image .right}
 
 ## A Garden That Grows Every Spring
 

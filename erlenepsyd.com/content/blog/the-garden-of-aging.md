@@ -7,6 +7,8 @@ Summary: Dr. Rosowsky uses the metaphor of a spring garden to explore the weeds 
 
 _Thoughts and Suggestions from an Aging Psychologist._
 
+![Snowball viburnum blooming in spring]({static}/images/snowball-viburnum-spring-blooms.jpeg){: .image-process-crisp}
+
 ## A Garden That Grows Every Spring
 
 Each year, with the advent of spring, I think about my small rock garden and begin to wonder how the flowers I planted will grow this year, and whether the weeds will be a troublesome, unwelcome competition.

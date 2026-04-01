@@ -5,8 +5,6 @@ Tags: aging, mental health, gerontology, psychology, international
 Summary: A global community of professionals is working to address the mental health of older adults across more than fifty countries — and I'm honored to help lead that effort.
 ---
 
-_Thoughts and Suggestions from an Aging Psychologist._
-
 ## A Global Community
 
 The [International Psychogeriatric Association (IPA)](https://www.ipa-online.org/) is an organization of health professionals committed to addressing the mental health of older persons worldwide. It is made up of professionals from multiple disciplines — psychiatrists, psychologists, geriatricians, nurses, social workers, physical and occupational therapists, and many others.
@@ -26,7 +24,5 @@ IPA publishes a highly regarded, peer-reviewed monthly journal. It includes orig
 I have recently been appointed Chair of the IPA Membership Committee. We are charged with recruiting and maintaining exemplary older adult mental health specialists from around the globe.
 
 IPA recognizes and values that the mental health of older persons includes attending to the full range of mental health — from disabilities and illness to the enjoyment of healthy aging.
-
-[Contact me]({filename}/pages/contact.md). I'd love to hear back from you, especially about any creative ways you've put this to use.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)

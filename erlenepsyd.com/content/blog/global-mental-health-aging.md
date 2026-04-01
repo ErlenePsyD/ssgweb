@@ -9,7 +9,7 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 ## A Global Community
 
-The International Psychogeriatric Association (IPA) is an organization of health professionals committed to addressing the mental health of older persons worldwide. It is made up of professionals from multiple disciplines — psychiatrists, psychologists, geriatricians, nurses, social workers, physical and occupational therapists, and many others.
+The [International Psychogeriatric Association (IPA)](https://www.ipa-online.org/) is an organization of health professionals committed to addressing the mental health of older persons worldwide. It is made up of professionals from multiple disciplines — psychiatrists, psychologists, geriatricians, nurses, social workers, physical and occupational therapists, and many others.
 
 Our common interests bring us together with one goal: identifying and addressing the mental health needs of older persons wherever they may be.
 

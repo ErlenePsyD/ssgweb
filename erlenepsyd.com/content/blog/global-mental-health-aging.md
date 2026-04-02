@@ -14,14 +14,11 @@ Our common interests bring us together with one goal: identifying and addressing
 ## Connected Across Borders
 
 Our membership cohort is robust and active. We connect online from over fifty countries and in person once a year at an IPA Congress. We learn from one another and are extensively active professionally within our own countries. Where indicated, we are also in communication with the World Health Organization and the United Nations.
-
-> We connect online from over fifty countries and in person once a year at an IPA Congress.
-
 IPA publishes a highly regarded, peer-reviewed monthly journal. It includes original research reflecting a wide range of areas, as well as applied clinical research and interdisciplinary discussions addressing the mental health of older adults.
 
 ## A New Role
 
-I have recently been appointed Chair of the IPA Membership Committee. We are charged with recruiting and maintaining exemplary older adult mental health specialists from around the globe.
+I have recently been appointed Chair of the IPA Membership Committee. The Committee is charged with recruiting and maintaining exemplary older adult mental health specialists from around the globe.
 
 IPA recognizes and values that the mental health of older persons includes attending to the full range of mental health — from disabilities and illness to the enjoyment of healthy aging.
 

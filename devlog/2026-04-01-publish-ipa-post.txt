@@ -1,0 +1,94 @@
+ ▐▛███▜▌   Claude Code v2.1.89
+▝▜█████▛▘  Opus 4.6 (1M context) · Claude Max
+  ▘▘ ▝▝    ~/Repos/erlenepsyd/ssgweb
+
+⏺ Bash(git push -u origin post/global-mental-health-aging)
+  ⎿  remote:
+     remote: Create a pull request for 'post/global-mental-health-aging' on
+      GitHub by visiting:
+     … +13 lines (ctrl+o to expand)
+
+⏺ Bash(gh pr create --title "feat: Add Global Mental Health for Aging blog post"
+       --body "$(cat <<'EOF'
+      ## Summary…)
+  ⎿  Warning: 1 uncommitted change
+     https://github.com/ErlenePsyD/ssgweb/pull/101
+
+⏺ Git Sync Complete
+
+  ┌───────────┬─────────────────────────────────────────────┐
+  │           │                                             │
+  ├───────────┼─────────────────────────────────────────────┤
+  │ Pulled    │ 0 commits                                   │
+  ├───────────┼─────────────────────────────────────────────┤
+  │ Committed │ 1 file in 1 commit                          │
+  ├───────────┼─────────────────────────────────────────────┤
+  │ Pushed    │ 1 commit to post/global-mental-health-aging │
+  ├───────────┼─────────────────────────────────────────────┤
+  │ PR        │ ErlenePsyD/ssgweb#101                       │
+  └───────────┴─────────────────────────────────────────────┘
+
+  Staging will deploy automatically from the PR. Do you have a featured image
+  for this post?
+
+✻ Churned for 31s
+
+❯ No, and there aren't any outbound links in the article either. Let me look at 
+ what we can do to address these deficencies                                    
+
+⏺ Sounds good — take your time. Let me know what you'd like to do and I'll help.
+
+❯ I added a link to the https://www.ipa-online.org/ website. But their logo is  
+quite the eyesore. Let's commit and push the updated post, and I'll run it by   
+the client                                                                      
+
+⏺ Bash(git add erlenepsyd.com/content/blog/global-mental-health-aging.md && git
+      commit -m "feat: Add IPA website link to blog post" -m "" -m "🤖 Generated
+       with [Claude…)
+  ⎿  [post/global-mental-health-aging e0eb88e] feat: Add IPA website link t
+     o blog post
+      1 file changed, 1 insertion(+), 1 deletion(-)
+     … +9 lines (ctrl+o to expand)
+
+⏺ Pushed to ErlenePsyD/ssgweb#101. Staging should update shortly — share the
+  preview link with the client whenever you're ready.
+
+❯ I removed the first and last lines in the post. Let's commit & push           
+
+⏺ Bash(git diff erlenepsyd.com/content/blog/global-mental-health-aging.md)
+  ⎿  diff --git a/erlenepsyd.com/content/blog/global-mental-health-aging.md
+      b/erlenepsyd.com/content/blog/global-mental-health-aging.md
+     index 8ad02b4..ae7087d 100644
+     … +19 lines (ctrl+o to expand)
+
+⏺ Removed the tagline and contact line.
+
+⏺ Bash(git add erlenepsyd.com/content/blog/global-mental-health-aging.md && git
+      commit -m "style: Remove tagline and contact line from post" -m "" -m "🤖
+      Generated wit…)
+  ⎿  [post/global-mental-health-aging 92bf44e] style: Remove tagline and co
+     ntact line from post
+      1 file changed, 4 deletions(-)
+     … +9 lines (ctrl+o to expand)
+
+⏺ Pushed to ErlenePsyD/ssgweb#101. Staging will update shortly.
+
+❯ /chat-export full                                                             
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Bash(date +%Y-%m-%d)
+  ⎿  2026-04-01
+
+⏺ What topic should I use for this export? (e.g., "publish-ipa-post",
+  "deps-and-post-cleanup", etc.)
+
+❯ publish-ipa-post                                                              
+
+  Listed 1 directory (ctrl+o to expand)
+
+⏺ No conflicts. To export the full chat, run:
+
+  /export devlog/2026-04-01-publish-ipa-post.txt
+
+  After the export completes, you can run /git-sync to commit and push it.

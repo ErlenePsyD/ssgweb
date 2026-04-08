@@ -15,7 +15,7 @@ Now I'm excited to share something new.
 
 ## The IPA Mentorship Program
 
-This July, at the annual IPA Congress in Leiden, The Netherlands, IPA will launch a new and eagerly awaited Mentorship Program. This initiative will bring together professionals from multiple disciplines and cultures for the mental health care of the elderly.
+From July 1 through July 3, at the annual IPA Congress in Leiden, The Netherlands, IPA will launch a new and eagerly awaited Mentorship Program. This initiative will bring together professionals from multiple disciplines and cultures for the mental health care of the elderly.
 
 The program will connect those who are well established in their careers with early-career clinicians, researchers, and elder service advocates for mutual support, encouragement, and growth.
 
@@ -28,14 +28,10 @@ Whether you are an experienced professional or just beginning your career, there
 - **Mentors** — Share your expertise and help shape the next generation of specialists
 - **Mentees** — Gain invaluable insights to navigate your career and achieve your professional goals
 
-The Mentorship Meet-Up will take place during the [2026 IPA Congress](https://www.ipa-online.org/) in Leiden on July 2nd.
-
-To join the Mentorship Program, send your application to [info@ipa-online.org](mailto:info@ipa-online.org).
+The Mentorship Meet-Up will take place during the [2026 IPA Congress](https://www.ipa-online.org/) in Leiden, July 1 through July 3.
 
 ## A Personal Honor
 
 I am honored to serve as co-leader of this exciting program along with my colleague, Dr. Liat Ayalon. Together, we look forward to building a vibrant, inspired community dedicated to the mental health of older adults.
-
-[Contact me]({filename}/pages/contact.md) directly to learn more about the IPA Mentorship Program or if you have any questions about applying.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)

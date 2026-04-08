@@ -28,36 +28,30 @@ body {
 	text-align: left;
 }
 
-/* Headings */
+/* Headings — Major Third scale (1.25 ratio) */
 h1 {
-	font-size: 2em
+	font-size: 1.75em
 }
 
 h2 {
-	font-size: 1.571em
+	font-size: 1.4em
 }
 
-/* 22px */
 h3 {
-	font-size: 1.429em
+	font-size: 1.15em
 }
 
-/* 20px */
 h4 {
-	font-size: 1.286em
-}
-
-/* 18px */
-h5 {
-	font-size: 1.143em
-}
-
-/* 16px */
-h6 {
 	font-size: 1em
 }
 
-/* 14px */
+h5 {
+	font-size: 0.875em
+}
+
+h6 {
+	font-size: 0.75em
+}
 
 h1,
 h2,

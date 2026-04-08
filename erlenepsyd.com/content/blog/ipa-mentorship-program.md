@@ -9,13 +9,13 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 ## A New Chapter for IPA
 
-The [International Psychogeriatric Association (IPA)](https://www.ipa-online.org/) is one of the most highly regarded organizations in the world focusing on the mental health of older persons. I recently wrote about [my work with IPA]({filename}/blog/global-mental-health-aging.md) and the global community of professionals who make up our membership.
+The [International Psychogeriatric Association (IPA)](https://www.ipa-online.org/) is one of the most highly regarded organizations in the world that focuses on the mental health of the elderly. I recently wrote about [my work with IPA]({filename}/blog/global-mental-health-aging.md) and the global community of professionals who make up our membership.
 
 Now I'm excited to share something new.
 
 ## The IPA Mentorship Program
 
-This July, at the annual IPA Congress in Leiden, The Netherlands, IPA will launch a new and eagerly awaited Mentorship Program. This initiative will bring together professionals from multiple disciplines and cultures within the professional spheres of care for the mental health of older persons.
+This July, at the annual IPA Congress in Leiden, The Netherlands, IPA will launch a new and eagerly awaited Mentorship Program. This initiative will bring together professionals from multiple disciplines and cultures for the mental health care of the elderly.
 
 The program will connect those who are well established in their careers with early-career clinicians, researchers, and elder service advocates for mutual support, encouragement, and growth.
 
@@ -36,6 +36,6 @@ To join the journey, send your application to [info@ipa-online.org](mailto:info@
 
 I am honored to serve as co-leader of this exciting program along with my colleague, Dr. Liat Ayalon. Together, we look forward to building a vibrant, inspired community dedicated to the mental health of older adults.
 
-[Contact me]({filename}/pages/contact.md). I'd love to hear back from you, especially about any creative ways you've put this to use.
+[Contact me]({filename}/pages/contact.md) directly to learn more about the IPA Mentorship Program.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)

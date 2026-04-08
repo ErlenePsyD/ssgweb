@@ -28,7 +28,7 @@ Whether you are an experienced professional or just beginning your career, there
 - **Mentors** — Share your expertise and help shape the next generation of specialists
 - **Mentees** — Gain invaluable insights to navigate your career and achieve your professional goals
 
-The Mentorship Meet-Up will take place during the [2026 IPA Congress](https://www.ipa-online.org/) in Leiden, July 1 through July 3.
+The Mentorship Meet-Up will take place during the [2026 IPA Congress](https://www.ipa-online.org/) in Leiden on July 2.
 
 ## A Personal Honor
 

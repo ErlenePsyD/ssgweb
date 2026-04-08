@@ -30,12 +30,12 @@ Whether you are an experienced professional or just beginning your career, there
 
 The Mentorship Meet-Up will take place during the [2026 IPA Congress](https://www.ipa-online.org/) in Leiden on July 2nd.
 
-To join the journey, send your application to [info@ipa-online.org](mailto:info@ipa-online.org).
+To join the Mentorship Program, send your application to [info@ipa-online.org](mailto:info@ipa-online.org).
 
 ## A Personal Honor
 
 I am honored to serve as co-leader of this exciting program along with my colleague, Dr. Liat Ayalon. Together, we look forward to building a vibrant, inspired community dedicated to the mental health of older adults.
 
-[Contact me]({filename}/pages/contact.md) directly to learn more about the IPA Mentorship Program.
+[Contact me]({filename}/pages/contact.md) directly to learn more about the IPA Mentorship Program or if you have any questions about applying.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)

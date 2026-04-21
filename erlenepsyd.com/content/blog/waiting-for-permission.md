@@ -9,7 +9,7 @@ _Thoughts and Suggestions from an Aging Psychologist._
 
 ![Pink ice-plant blossoms scattered among yellow wildflowers in a lush green succulent ground cover]({static}/images/wildflowers-ice-plant-bloom.jpg){: .image-process-crisp}
 
-## Wishes We Don't Act On
+## Unfulfilled Wishes
 
 So many times, I have said to myself something like:
 
@@ -37,7 +37,7 @@ Over time we grew into adulthood, "with all the rights and privileges pertaining
 
 Old age came, and along with it came the opportunity for uncommitted time. But it also came along with a diminution of energy and the emergence of new demands as we coped with age-related changes and needs vying for our time. We needed to apportion that time mindfully.
 
-Our wisdom helped us. Being an older person comes along with knowing what is good for us and what supports us. And we know that waiting for anything — including permission — [wastes time]({filename}/tick-tock.md), an increasingly limited commodity the older we get.
+Our wisdom helped us. Being an older person comes along with knowing what is good for us and what supports us. And we know that waiting for anything — including permission — *wastes time*, an increasingly limited commodity the older we get.
 
 ## The Age of Agency
 

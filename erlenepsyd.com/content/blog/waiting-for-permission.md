@@ -7,6 +7,8 @@ Summary: As we age, we often catch ourselves waiting for permission to rest, rea
 
 _Thoughts and Suggestions from an Aging Psychologist._
 
+![Pink ice-plant blossoms scattered among yellow wildflowers in a lush green succulent ground cover]({static}/images/wildflowers-ice-plant-bloom.jpg){: .image-process-crisp}
+
 ## Wishes We Don't Act On
 
 So many times, I have said to myself something like:

@@ -7,6 +7,8 @@ Summary: As we age, the urge to acquire gives way to the urge to simplify — to
 
 _Thoughts and Suggestions from an Aging Psychologist._
 
+![Two beach lounge chairs and a sun umbrella on white sand beside calm turquoise water under a blue sky with scattered clouds]({static}/images/turquoise-sea-beach-chairs.jpg){: .image-process-crisp}
+
 ## Something to Take Home
 
 When I was young, I recall that at the end of a visit with an old person, they often would give me something to take home, along with a hug. It could be a little trinket or knickknack that I liked, or a photograph they had shown me that came along with a story. It could be anything, but what was clear was that they wanted to give me something of their own.

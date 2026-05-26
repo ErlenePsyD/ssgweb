@@ -43,12 +43,7 @@ We can wisely jettison what is no longer needed or wanted — the excess baggage
 
 As we let go of what is no longer needed or wanted, we recognize that this simplification includes much more than physical items. There are thoughts and actions too that continue to weigh heavily on us, and we can choose to let some go.
 
-We can choose:
-
-- Forgiveness
-- Selective nostalgia
-- To focus and attend to what supports and sustains us
-- To remember to give ourselves a hug
+We can choose *forgiveness*. We can choose *selective nostalgia*. We can *focus and attend to what supports and sustains us*. And we can *remember to give ourselves a hug*.
 
 [Contact me]({filename}/pages/contact.md). I'd love to hear back from you, especially about any creative ways you've put this to use.
 

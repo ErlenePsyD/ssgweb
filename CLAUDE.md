@@ -41,6 +41,25 @@ Content here with responsive images:
 
 **Static pages:** Located in `erlenepsyd.com/content/pages/` (about.md, contact.md, cv.md, gallery.md)
 
+## Content Style Guide
+
+Conventions for editing and formatting blog posts. Preserve the author's voice; these rules govern mechanics, not substance.
+
+**Punctuation:**
+- **Em-dashes (—):** Avoid em-dashes in body prose. Many readers are sensitive to them, and they can read as AI-generated. Replace with commas where the sentence still flows; otherwise restructure into shorter sentences. The post Summary (frontmatter) is the one place an em-dash pair is acceptable for a tight parenthetical aside.
+- Remove unnecessary parentheses and ellipses when formatting drafts for the web.
+
+**Voice & perspective:**
+- Posts are written in the first person as an aging psychologist. In Summaries, use first person ("we," "our") or refer to "an aging psychologist." **Never** refer to "Dr. Rosowsky" in the third person.
+- Summaries should focus on the post's themes and ideas, not its literary devices, and accurately represent the author's positions.
+
+**Formatting for web readability:**
+- Use `##` headings to organize content into logical sections.
+- Keep paragraphs short (2–4 sentences); break up run-on sentences.
+- Use bullet lists for dense or enumerable information.
+- Use `>` blockquotes for pull quotes that highlight key insights.
+- Fix grammar while preserving the author's distinctive voice; never summarize or condense original content.
+
 ## Architecture
 
 **Pelican Configuration:**

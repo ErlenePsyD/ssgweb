@@ -2,7 +2,7 @@
 Title: A Good Conversation
 Date: 2026-06-22 08:00
 Tags: aging, loneliness, relationships, connection, psychology
-Summary: Loneliness is rising across the life course, and a good conversation, bidirectional, focused, and unhurried, is one of our best protections against it. For older adults especially, real conversation offers both connection and a precious validation of the self.
+Summary: Loneliness is rising across the life course, and a good conversation — bidirectional, focused, and unhurried — is one of our best protections against it. For older adults especially, real conversation offers both connection and a precious validation of the self.
 ---
 
 _Thoughts and Suggestions from an Aging Psychologist._

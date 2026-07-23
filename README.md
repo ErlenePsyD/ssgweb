@@ -49,10 +49,12 @@ gh auth login
 
 ## Dependency Management
 
-This project uses a hybrid approach for dependency management:
+Poetry is the single source of truth for dependencies, both locally and in CI:
 
 - **Local development**: Use Poetry for managing dependencies and virtual environments
-- **CI/CD (GitHub Actions)**: Use pip with `requirements.txt` for faster, more reliable builds
+- **CI/CD (GitHub Actions)**: Installs via Poetry against `pyproject.toml` + `poetry.lock` (`poetry install --only main`)
+
+Because CI reads the same lockfile as local dev, there is no separate `requirements.txt` to keep in sync. Dependabot's updates to `poetry.lock` flow straight to production.
 
 ### Adding Dependencies
 
@@ -62,11 +64,7 @@ To add a new dependency:
 poetry add package-name
 ```
 
-After adding dependencies, regenerate the requirements.txt file for GitHub Actions:
-
-```bash
-poetry export --without-hashes --format=requirements.txt --output=requirements.txt
-```
+This updates `pyproject.toml` and `poetry.lock`. Commit both; CI picks them up automatically. No export step is needed.
 
 ## GitHub Actions Automation
 

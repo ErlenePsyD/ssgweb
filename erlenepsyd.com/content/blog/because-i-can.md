@@ -7,6 +7,8 @@ Summary: Aging isn't negotiable, but how we age is. A reflection on internalized
 
 _Thoughts and Suggestions from an Aging Psychologist._
 
+![Golden evening sun filters through desert trees, casting long shadows across a green lawn edged with cacti and low homes]({static}/images/desert-lawn-sunset-shadows.jpg){: .image-process-crisp}
+
 There are moments in life that compel us to recognize that we are old and becoming older still. We might feel fatigue more than usual. We recognize that we're slowing, although we don't remember when that began. And we receive an increasing number of messages from society telling us, "You are old."
 
 ## The Willingness to Change

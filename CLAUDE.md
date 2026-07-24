@@ -85,7 +85,7 @@ Conventions for editing and formatting blog posts. Preserve the author's voice; 
 
 ## Important Technical Details
 
-**Dependencies:** Uses Poetry for local development but pip/requirements.txt for GitHub Actions (Python 3.9 in CI, 3.12 locally).
+**Dependencies:** Poetry is the single source of truth (`pyproject.toml` + `poetry.lock`), used both locally and in CI (Python 3.12). CI installs with `poetry install --only main`; there is no `requirements.txt`. Add deps with `poetry add` and commit both files.
 
 **Generated Content:** The `output/` directory is gitignored and contains the built static site.
 

@@ -86,6 +86,4 @@ Consider doing this activity with your life partner, if this suits your relation
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
 
-## Photo Credit
-
-Photo by The Rosowsky Family_
+_Photo by the Rosowsky Family_

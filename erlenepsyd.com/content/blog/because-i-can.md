@@ -68,3 +68,5 @@ I can tell myself, _as can you_, that I am flexible, creative, valuable, self-ac
 [Contact me]({filename}/pages/contact.md). I'd love to hear back from you, especially about any creative ways you've put this to use.
 
 ![Dr. R written by hand]({static}/images/dr_r_sm.png)
+
+_Photo by the Rosowsky Family_
